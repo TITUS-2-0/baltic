@@ -1,7 +1,7 @@
 - body:
   - part[n=1]:
     - head: Pawasario Linksmybės
-    - lg:
+    - lg[type=stanza,n=1]:
       - l[n=1]: Iau Sauléle wėl atkópdămă buddı̆nŏ Swieta
       - l[n=2]: Ir Ʒ́iemôs ſʒaltôs Truſùs pargráudămă jůkės.
       - l[n=3]: Sʒalcʒû Prámonės ſŭ Lĕdaìs ſugaìſʒtı̆ păgâwo;
@@ -44,7 +44,7 @@
       - l[n=40]: Ir păſı̆ſótit' ant Laukû wôs Máʒ̇ŭmą̆ rádo.
       - l[n=41]: O ſʒtai ir taipô parwàrgęs niek's nĕ dĕjáwo;
       - l[n=42]: Bèt wissì wissùr sŭmı̆ſʒày ſʒŏkı̆nėdămı̆ dʒ̇augės -
-    - lg:
+    - lg[type=stanza,n=2]:
       - l[n=43]: Gandras ſù kittais Kaimynais pàrlĕkĕ linksmas,
       - l[n=44]: Ir găſpădóriſʒkay ant Kraiko tárſʒkı̆nŏ Snápą,
       - l[n=45]: Taip bĕſı̆dʒ̇augiant jâm ſʒtai jau ir jo Găſpădinnė,
@@ -67,7 +67,7 @@
       - l[n=62]: Diewui iſʒ Sʒirdies wìſſôs wiernáy dĕkăwójo.
       - l[n=63]: Tù Ʒ́mogaù nieking's! mokįkis cʒè păſı̆kákįt,
       - l[n=64]: Ir păſı̆ſótindams gardʒ́iaus n'uʒ́mirſʒk ſăwŏ Diewą -
-    - lg:
+    - lg[type=stanza,n=3]:
       - l[n=65]: Krúmus ir Girriàs wiſſokios óſʒı̆nŏ Dainos;
       - l[n=66]: O Laukùs wiſſùr bey Piewas ſkambı̆nŏ Garſai.
       - l[n=67]: Gégŭʒ̇ė̆s ir Strazdai ſŭmı̆ſʒay lakſtydămı̆ ʒ̇aidė,
@@ -83,7 +83,7 @@
       - l[n=77]: Ir Paukſʒtéliu Balſůſ' yr' diddey ſtĕbŭklinga.
       - l[n=78]: 'Ʒ́wirblei ſù Waikaìs Ʒ́odʒ́iùs girdėdămı̆ tókius:'
       - l[n=79]: Rôds tărĕ, můſ Gı̆mı̆nė taipjau wiſſ ſʒlówı̆nă Diewą -
-    - lg:
+    - lg[type=stanza,n=4]:
       - l[n=80]: Bèt Lakſʒtingălă dâr ikſʒôl' kytrey păſı̆ſėpuſ',
       - l[n=81]: Láuke wìſſ ı̆kı̆ kóʒ́nas bùs ſăwŏ Daìnă păbaigęs.
       - l[n=82]: Tódėl jì paſkiáus kasmét's wìſſ pràdĕdă ſʒúkaut'
@@ -113,7 +113,7 @@
       - l[n=106]: Smùikai tâw ir Kanklys tùr ſù Gėdą̆ nŭtilti,
       - l[n=107]: Kàd rykáudămă tù ſăwŏ ſáldû pàkĕlı̆ Balſą,
       - l[n=108]: Ir kinkyt', paplàkt'; nŭwăʒ́ůt' iſʒbuddı̆nı̆ Iurgį!
-    - lg:
+    - lg[type=stanza,n=5]:
       - l[n=109]: Kàd prieſʒ Wákără tù păſı̆ſlėpuſ' pràdĕdı̆ jůktis,
       - l[n=110]: O més daug prı̆ſı̆wargę jau į Pátălă wirſtam';
       - l[n=111]: Tai tù tarp kittû Paukſʒtéliu, néy Kărăliene,
@@ -125,7 +125,7 @@
       - l[n=117]: Bèt wiſſ néy Bûrkà praſtày wieſʒėdămă cʒáuſʒki.
       - l[n=118]: Ak! Ir taip Ʒ́monû daugſyk taipjaù nŭſı̆důda,
       - l[n=119]: Kàd ant Swieto ſʒio Mainû tikray pădăbójam'.
-    - lg:
+    - lg[type=stanza,n=6]:
       - l[n=120]: Dikſas, ans Ʒ́ôplys, Mieſtè diddey păſı̆pútęs,
       - l[n=121]: Ir ſù Rûbais bliʒgancʒeis kasdien ı̆ſſı̆rėdęs,
       - l[n=122]: Néy Diewaitis kôks tarp Búrû Skiautŭrĕ̜ ródo;
@@ -137,7 +137,7 @@
       - l[n=128]: Ir ſăwŏ Skrándą búriſʒką wieſʒėt' ŭſſimówęs,
       - l[n=129]: Po praſtù ſăwŏ Stógu néy Lakſʒtingălă cʒáuſʒka,
       - l[n=130]: Kàd ſʒirdingay jis ſăwŏ Diewą pràdĕdă gárbint -
-    - lg:
+    - lg[type=stanza,n=7]:
       - l[n=131]: Tù, Paukſʒtéli miel's! nè póniſʒkay priſı̆wálgai.
       - l[n=132]: Riebûs múſ' Lăſʒı̆nei bey Déſʒros tâw nĕ pătinka,
       - l[n=133]: Ir keptû bey wirtû Walgiû múſŭ nĕ nóri.
@@ -152,7 +152,7 @@
       - l[n=142]: Bèt ir mûſ' pămı̆nėk į múſû Girrĕ̜ părėjuſ',
       - l[n=143]: Kàd dainůdămă dâr ilgiaùs ſăwŏ Wáſără ſʒwéſi,
       - l[n=144]: "Ir: Iurgùtt', kinkyk, paplàk, nŭwăʒ́ůk păſăkyſi -"
-    - lg:
+    - lg[type=stanza,n=8]:
       - l[n=145]: Tù nieking's Ʒ́mogaù! mokykis cʒè păſı̆kákint',
       - l[n=146]: Kàd tâw kartais trópijaſ' ſkupày prı̆ſı̆wálgit'.
       - l[n=147]: I Paukſʒcʒùs ʒ́urėk! wien's prâstą Kirmı̆ną kramto,
@@ -163,7 +163,7 @@
       - l[n=152]: Tâw, Ʒ́mogaù! miel's Diew's daugiù daugiaus dŏwănójo,
       - l[n=153]: O tù dâr nurnì, kàd, kartais álkăną Dieną,
       - l[n=154]: Ar ſkupùs Cʒeſùs ſuláukęs, Sʒuppı̆nį̆ grámdai? -
-    - lg:
+    - lg[type=stanza,n=9]:
       - l[n=155]: Taip ſŭmı̆ſʒay bĕſı̆jůkiant, ſʒtai Uʒ́imm's păſı̆kėlė
       - l[n=156]: Ir tůjaus Errélis rėkaudams păſı̆ródė.
       - l[n=157]: Ticʒ tărĕ jis, Pulkaì ſŭſı̆rìnkę liaukı̆tė̆s óſʒti,
@@ -192,7 +192,7 @@
       - l[n=180]: '"O kiek ant Laukû linksmay pleſdéndămı̆ lákſto,'
       - l[n=181]: '"Ar pàs Ʒ́mones ant Kiemû cʒypſėdămı̆ burzda!'
       - l[n=182]: "\"O wey kóʒ́ną Diew's wiſſ ſú Păſı̆mėgı̆mŭ ſótin'."
-    - lg:
+    - lg[type=stanza,n=10]:
       - l[n=183]: "\"Kartais trópijaſ' ſuláukt' ir álkăną̆ Dieną,"
       - l[n=184]: '"Kàd wiſſùr perdaug Baiſybės Dárgănŭ téſʒka,'
       - l[n=185]: "\"Ar kàd dėl Ʒ́mogaus Griekû Diew's wárgı̆nă Swietą."
@@ -205,7 +205,7 @@
       - l[n=192]: "\"O ſʒtai, kàd tarp múſu kàs ką lèſt' păſı̆dráſin"
       - l[n=193]: '"Sù Tinklais glupiems Draugâms Iſʒkádą̆ pădáro;'
       - l[n=194]: '"Àr ſù prówita Pucʒkà tikt mùſʒă tı̆kt mùſʒa -'
-    - lg:
+    - lg[type=stanza,n=11]:
       - l[n=195]: "\"Ir tarp Paukſʒcʒû rôds tûl's kytras randăſı̆ Sukcʒus"
       - l[n=196]: "\"Kùrs gardʒey prı̆ſı̆ėſt', ſlaptôm's ſăwŏ nùmŭſʒă Draugą."
       - l[n=197]: "\"Wánag's, ans Klaſtórius, ir Pelėdă jŏ Dumcʒus,"
@@ -213,7 +213,7 @@
       - l[n=199]: "\"Daug kaſmét's, kaip ʒ́innôm', iſʒgaiſʒinnă Năbágû;"
       - l[n=200]: "\"Bèt tokſaì Raʒbáinink's dâr tàrp múſ' nĕſı̆rádo,"
       - l[n=201]: "\"Kaip Ʒ́mogùs tûl's yr', kàd jìs ſmăgŭráut' ı̆ſʒſı̆ʒója."
-    - lg:
+    - lg[type=stanza,n=12]:
       - l[n=202]: Taip bĕſı̆páſăkŏjant, Dywû Dywaì păſı̆dárė.
       - l[n=203]: Balſas, néy Nůſkęſtancʒo ſuſʒukkŏ nĕſʒwánkey,
       - l[n=204]: Ir wiſſ gélbėkit, ak! gélbėkit' pădŭſėjo.
@@ -222,7 +222,7 @@
       - l[n=207]: Tikt Sʒikſʒnóſparnis dâr wien's ſù pilkă Pĕlėda,
       - l[n=208]: Iſʒ biaurû Păſʒălliû pămăʒ́ì păſı̆dráſı̆nŏ lyſti,
       - l[n=209]: Ìr tikraý tı̆rı̆nėt', kôks Strókas tén nŭſı̆tikko.
-    - lg:
+    - lg[type=stanza,n=13]:
       - l[n=210]: Sʒtai wien's Pón's, puikey redyt's (tikt Gėdă ſăkyti)
       - l[n=211]: Miſlik tikt, aukſʒcʒáuſû Pónû wiens prı̆ſı̆ėdęs,
       - l[n=212]: Ir wiſſókiû Rincʒwyniû ſwĕtı̆mû prı̆ſı̆kóſʒęs,
@@ -233,7 +233,7 @@
       - l[n=217]: Irgı̆ Bĕdugnei jôs bey Pámotos prăſı̆wėrė.
       - l[n=218]: Ʒ́innôm' juk wiſſì, kaip Pónai kéikdămı̆ rėkia;
       - l[n=219]: Bèt ir Bûrai jau nů jû mokìnnăſı̆ rėkaut'
-    - lg:
+    - lg[type=stanza,n=14]:
       - l[n=220]: Kàs tâw Biedʒ́au, kenk', Sʒikſʒnóſparnis tı̆rı̆nėdams,
       - l[n=221]: Irgı̆ nŭſkúſdams Póną tą păſı̆dráſı̆nŏ kláuſti?
       - l[n=222]: Ar Gumbù ſergì perdaugel Kábı̆ăr ėdęs?
@@ -241,7 +241,7 @@
       - l[n=224]: Jùk ir tàwŏ Tĕtėn's uʒ́pérnay taip prı̆ſı̆ėdęs,
       - l[n=225]: Sù ſăwŏ Puſbroleis, kaip tù, pilwůdămı̆ ſirgo,
       - l[n=226]: Ik paſkiáus jie pérplyſʒo ir nùmı̆rrĕ baiſey.
-    - lg:
+    - lg[type=stanza,n=15]:
       - l[n=227]: Sʒtai Didpilwis ſʒittas tą Graudénı̆mą̆ jauſdams,
       - l[n=228]: 'Dâr daugiaùs iſʒputto ir durnůtı̆ prădėjo:'
       - l[n=229]: Nės jis tů Plaukû nů Kiauſʒės nùpĕſʒĕ Plůſʒtus;
@@ -260,7 +260,7 @@
       - l[n=242]: Ir Naujienas tàs bey tóki dywı̆nă Trúſą,
       - l[n=243]: Kàd Oraì pikti, kàsnakt's dâr prànĕſʒă Swietui,
       - l[n=244]: Ir dèl to Ʒ́mogaus Tamſôj' duſáudămă werkia -
-    - lg:
+    - lg[type=stanza,n=16]:
       - l[n=245]: Ak! tărĕ Lauras rymodam's ant ſtrippı̆niŏ ſàwo,
       - l[n=246]: Wiſſ Niekaì, kàd tûl's Ʒ́oplys ſù Blebbĕriŭ wápa,
       - l[n=247]: Bûk Pillónys wiſſ linkſmày kasdien' prı̆ſı̆wálgą,
@@ -272,7 +272,7 @@
       - l[n=253]: Ak, Gaidau! lietùwiſʒki kytrì Pı̆lŏſópai
       - l[n=254]: Taip glupày nè ʒaunija, kàd Sʒuppı̆nį̆ ſʒuttin';
       - l[n=255]: Ar, kàd jie wieſʒėt' naujàs Wyʒ́às prăſı̆máno -
-    - lg:
+    - lg[type=stanza,n=17]:
       - l[n=256]: Iùk tikt wien's Glupùmm's, kàd Milkus Káſpărŏ Tarnas
       - l[n=257]: Póniſʒkay păſı̆ródidam's koʒ́nâm păſı̆turſin',
       - l[n=258]: Ir Burùs praſtùs per Kialu Iówălą̆ laiko.
@@ -290,7 +290,7 @@
       - l[n=270]: Ir tăwŏ Kárdą ſù naujù Dirʒ́ù pămătydam's,
       - l[n=271]: Nè tújaus, kàd tù liepì Keppurrĕ̜ nŭmáuja,
       - l[n=272]: Ir, kaip nóri tù, jiſſaì nè nôr păſı̆klónot'.
-    - lg:
+    - lg[type=stanza,n=18]:
       - l[n=273]: Snargliau! eik pirmà mokinkis Kákălį̆ ſʒildit',
       - l[n=274]: Ir ſăwŏ Póno ſùteptus Sŏpăgùs nuſʒlůſtit'.
       - l[n=275]: Iùk ʒ́innaì, kaip jis tăwĕ dár per Drimĕlį̆ laiko,
@@ -312,7 +312,7 @@
       - l[n=291]: Ir jo wieʒ́libą bey wertą niekı̆nı̆ Wardą?
       - l[n=292]: Ticʒ tiktay Ponât! măʒ́ŭ wėl tèks ʒ́ingı̆nĕ ʒ́engti,
       - l[n=293]: Ir, kàd Diew's kŏrăwôs, dâr werkdams Ubbăgăis eisi.
-    - lg:
+    - lg[type=stanza,n=19]:
       - l[n=294]: Rôds, tărĕ Pricʒkus, jáun's, Ʒ́mogùs durnaý dŭkı̆nėdams
       - l[n=295]: Néy Sidábras gyw's Stiklè mudrèy ſʒŏkı̆nėja,
       - l[n=296]: Ir perdaug durnůdams ſâw Iſʒkádą̆ pădáro.
@@ -344,7 +344,7 @@
       - l[n=322]: Aſʒ bĕſı̆gėdėdams iſʒwydau Kriʒʒă bĕkumpſant;
       - l[n=323]: Waikĕ! tăriau, ką miſliji toktai pămătydams?
       - l[n=324]: Ar nè múſû̆ Ʒ́ŏplei taipjau ſʒŏkı̆nėdămı̆ dáro? -
-    - lg:
+    - lg[type=stanza,n=20]:
       - l[n=325]: Bûrkos ſàwŏ Lĕlès glupàs ſù Skrándgăliŭ rėdo,
       - l[n=326]: Ir ſuwýſtitas į tamſû Paſʒălį̆ kiſʒa;
       - l[n=327]: Iùk ʒ́innai, kaip Bûrai Weiſlę ſàwŏ kăwója.
@@ -356,7 +356,7 @@
       - l[n=333]: Wargt' ir werkt' Waikû pirmjáuſas bùwŏ Rĕméſtas.
       - l[n=334]: Dâr neywien's ikſʒôl' n'uʒ́áugo wiſſ bĕſı̆jůkdams;
       - l[n=335]: Ir iſʒ Lópſʒio dâr neywien's n'iſʒkópŏ nĕ werkęs.
-    - lg:
+    - lg[type=stanza,n=21]:
       - l[n=336]: Wey ʒ́urėkim' tikt! jau wèl ſŭ Pădėjı̆mŭ Diewo,
       - l[n=337]: Wáſărą̆ ſú ſʒiltôm's Dienélėm's jaucʒămĕ gryʒtant.
       - l[n=338]: Wey! kaip Ʒ́émé jau ſăwŏ nůgą Nuggărą̆ rėdo,
@@ -384,7 +384,7 @@
       - l[n=360]: Ypăcʒĕy, kàd potâm jau gywos randăſı̆ Lėlės,
       - l[n=361]: Ir Nenáudėlės dėl Niekû kwárſʒı̆nă Gálwas.
       - l[n=362]: Iùk ʒ́innai kaip yr', kàd Pûlk's Lėlu păſı̆dáro -
-    - lg:
+    - lg[type=stanza,n=22]:
       - l[n=363]: Ak Adom! tù pirm's Ʒ́mogaù iſʒdykŭſŏ Swieto.
       - l[n=364]: Tù ſù ſàwŏ Iĕwà Sodè Pawáſărı̆ ſʒwęſdams,
       - l[n=365]: Ir Gėrybęs uʒ́drauſtas ſlaptôms părăgàudams,
@@ -397,7 +397,7 @@
       - l[n=372]: Ar Tamſój' păſı̆ſlėpt' į Krúmus kùr nŭſı̆tráukei.
       - l[n=373]: Ʒ́innôm' jùk ir mès kôktù, kàd kaip nŭſı̆dėję,
       - l[n=374]: Slápomės, ar kartais ſʒén ir tén bĕgı̆nėjam' -
-    - lg:
+    - lg[type=stanza,n=23]:
       - l[n=375]: Tâw Tėtát' garbing's! pirmykſʒcʒos tàwŏ Lĕlátes
       - l[n=376]: Daug Dywû, bey daug nĕ rĕgėtû Sʒtukkû̆ pădárė,
       - l[n=377]: Ik potâm iſʒ tû Lėlu Pulkaì prăſı̆dėjo,
@@ -421,7 +421,7 @@
       - l[n=395]: Turrim' jau wiſſaip, kaip taiko Diew's, păſı̆kákįt'.
       - l[n=396]: Iùk nè wiſſ reik' wàrgt', ir tókios randăſı̆ Dienos;
       - l[n=397]: Kàd prı̆ſı̆wargę daug, ſʒirdingay wėl păſı̆dʒ́augiam.
-    - lg:
+    - lg[type=stanza,n=24]:
       - l[n=398]: Ant Ʒ́iemôs Smarkumm's ſû Sʒalcʒeis wėl păſı̆baìdė,
       - l[n=399]: Ir ilgû Nakcʒû Tamſybės jau nŭſı̆trumpin',
       - l[n=400]: Wey, Saulélė, tikt ʒ́urėk! atkópdămă greitay,
@@ -433,7 +433,7 @@
       - l[n=406]: Ak! kiek Trúſo reik's, ik' į Skunès ſŭgăbę́ſim,
       - l[n=407]: Kas ant Aukſʒto dâr, àr Klėtij' gullı̆ bĕ̀ Diego;
       - l[n=408]: Ir kiek dâr pălŭkėt' reikės, ı̆kı̆ Sʒuppı̆nį̆ wirſim' -
-    - lg:
+    - lg[type=stanza,n=25]:
       - l[n=409]: Nùgı̆ dăbàr, į diewiſʒką ʒ́urėdămı̆ Ranką,
       - l[n=410]: Iuddį̆kı̆mės pămăʒ́ì, nůlătay nŭſı̆twért' ſăwŏ Dárbus,
       - l[n=411]: Ir nĕ păbŭgkim', kàd iſʒgirſim' Dárgănăs úʒ́iant,
@@ -443,7 +443,7 @@
       - l[n=415]: O Akkėcʒoms reik's Nĕgĕliu, bey bingŭſŭ Kuinû.
       - l[n=416]: Ʒ́innôm' jùk, ką Iáucʒei mùms rėplódămı̆ riekia,
       - l[n=417]: Kuinai tùr, kàd liepjam' jiems, ſkraidydămı̆ truppįt' -
-    - lg:
+    - lg[type=stanza,n=26]:
       - l[n=418]: Rôds, tărĕ Slunkius, wėl benſyk ſŭ Pădėjimu Diewo
       - l[n=419]: Iſʒmiegot' ir Sanărı̆us atgaiwytı̆ gălėjŏm'.
       - l[n=420]: Ak! kiekſyk' aſʒ, Rúpeſcʒiû wiſſû nĕ mı̆nėdams,
@@ -470,7 +470,7 @@
       - l[n=441]: O tiktày nŭſı̆pelno jis ſâw Pinnį̆gą̆ grecʒną.
       - l[n=442]: Kàs iſʒ to, kàd Bûras tûl's perdaug bĕgı̆nėdams,
       - l[n=443]: Ir permier' bĕſı̆rúpı̆dams ſăwŏ ſunkı̆nă Sʒirdį!
-    - lg:
+    - lg[type=stanza,n=27]:
       - l[n=444]: Tėw's mănŏ Kubbas, taip glupay, kól gyw's, nĕ pădárė,
       - l[n=445]: O ir jo Tėw's Stépas taip gywént' nĕ mŏkinno.
       - l[n=446]: "\"Waikai! rėkdăwŏ jis ant Demblio girt's ı̆ſſı̆tieſęs,"
@@ -482,7 +482,7 @@
       - l[n=452]: "\"Kàd dâr ir Sĕnı̆ſtà ką ràſ' atſʒókdămă kartą -"
       - l[n=453]: Tůs Ʒ́ŏdĕliùs ſăwŏ Tėwo aſʒ tikray nŭſı̆twėriau,
       - l[n=454]: Ir, kôl gyw's kruttėſu, jû kasdien' pămı̆nėſu -
-    - lg:
+    - lg[type=stanza,n=28]:
       - l[n=455]: Tas durnàs Kalbàs wiſſì girdėdămı̆ Búrai,
       - l[n=456]: 'Gėdėjos; bèt Pricʒkus jâm draſà păſăkydams:'
       - l[n=457]: Eik, tărĕ Sʒúdwăbăli! kùr Sʒùdwăbălei păſı̆linkſmin.
@@ -496,7 +496,7 @@
       - l[n=465]: Népriĕtĕliau! tù lėbaudams, ir wiſſ ſmăgŭráudams,
       - l[n=466]: Lauką ſù Tworôms ir Námą wiſſă ſuėdei;
       - l[n=467]: O dâr ir ſăwŏ Waikeſcʒus păgădit' nĕſı̆gėdi?
-    - lg:
+    - lg[type=stanza,n=29]:
       - l[n=468]: Bèt jûs wieʒ́libi Kaimynai, jûs Găſpădórei
       - l[n=469]: Sù grecʒnôm's Găſpădinnėm's, mùms nè reik' nŭſı̆gėdėt,
       - l[n=470]: Kàd més búriſʒkus jaù wėl nŭſı̆twérdămı̆ Dárbus,
@@ -507,7 +507,7 @@
       - l[n=475]: O tingėdămı̆ wiſſ, ir ſnáuſdămı̆ Swietĕ nĕ tinkam'.
       - l[n=476]: Kàd Skilwys iſʒálkęs nôr gardʒ́ey păſı̆linkſmįt';
       - l[n=477]: Tai pirmà tùr wiſſas Kûn's wiernay păſı̆purtit'.
-    - lg:
+    - lg[type=stanza,n=30]:
       - l[n=478]: Taigı̆ nŭtwérkim' jau kiekwien's ſăwŏ Iáutį,
       - l[n=479]: "Ir iſʒrėdę jį, kaip reik', klauſyt' pămŏkykim':"
       - l[n=480]: Nės ką Ʒ́iemą jis yra Staldè ſŭdŭmójęs,
@@ -518,7 +518,7 @@
       - l[n=485]: Ar nŭſı̆minnęs Ʒ́ális tikt wôs wôs rĕplinėja.
       - l[n=486]: Tikt bandyk, koktù, kàd Amtmon's pràdĕdă rėkaut',
       - l[n=487]: Ir nèſwietiſʒkay prăſı̆kéikdams Iltı̆nį̆ grieʒ́ia.
-    - lg:
+    - lg[type=stanza,n=31]:
       - l[n=488]: Tù Nénáudėli Puky, taip jaù ſŭſı̆miſlik,
       - l[n=489]: Kàd tăwĕ Lauras ârtı̆ nŭſûs ant Káſpărŏ Récʒiu.
       - l[n=490]: Tù kasmét's jùk néy Razbáinink's wárgı̆nı̆ Iáucʒus,
@@ -542,7 +542,7 @@
       - l[n=508]: Taigı̆̀ Ʒ́mogaù dĕkăwôk uʒ́ taì kasdien', ſăwŏ Diewui,
       - l[n=509]: Kàd tăwŏ Laukis ſù Dwiliù tâw pàdĕdă dirbti,
       - l[n=510]: Ir kàd Kuinai tâw akkėdami ʒ́engt' nĕſı̆ſténgia.
-    - lg:
+    - lg[type=stanza,n=32]:
       - l[n=511]: Twérk prı̆ Răgû, kiſʒk į Kulbóką Tingı̆nį̆ Ʒ́álį,
       - l[n=512]: Baùſk jį, kàd klauſyt' nĕ nŏrės, ir tâw păſı̆prieſʒys.
       - l[n=513]: Tùr klauſyt', jùk tâm jiſſaì tăwŏ Páſʒărą̆ kramtė,
@@ -553,7 +553,7 @@
       - l[n=518]: Tâw, kàd jâm grumzdì, păſı̆lenkęs Uʒ́ʒ́ăgrı̆ welka;
       - l[n=519]: Taip, kàd jâm daugſyk ſeilėdams jo Liĕʒ́ŭwėlis,
       - l[n=520]: Iſʒ karſʒtû Naſrû néy Blėkas kábă nů̆ Zubû -
-    - lg:
+    - lg[type=stanza,n=33]:
       - l[n=521]: Iáutis, kaip girdì, ſâw wargdams Páſʒărą̆ pelno[s?],
       - l[n=522]: O ir tą daugſyk, kàd ſkúpas randăſı̆ Cʒėſas,
       - l[n=523]: Sù Maldélėms, ir kŏnĕ werkdams, wôs ı̆ſı̆práſʒo.
@@ -567,7 +567,7 @@
       - l[n=531]: Kàd tikt Diew's Sweikátą mielą tâw dŏwănója.
       - l[n=532]: Taigı̆ nŭrykim' jaù praſtóką ſàwo Kăſnélį,
       - l[n=533]: Ik' Ruddů potâm mùms důs riebjaus paſiwálgit.
-    - lg:
+    - lg[type=stanza,n=34]:
       - l[n=534]: Ant ʒ́urėk tiktay! Werſʒukkai jau ſʒŏkı̆nėja;
       - l[n=535]: O Erycʒei ſù Parſʒukkais ʒ́įſdămı̆ ſpárdos.
       - l[n=536]: Wiſʒtos ant Laktu jau daug iſʒkárkı̆nŏ Pautû;
@@ -578,7 +578,7 @@
       - l[n=541]: Ir bĕſı̆klónodam's Waikùs Kruwôn wărı̆nėja.
       - l[n=542]: Bà! Mėſôs wiſſókiôs ir ſʒulnû Smăgŭrėliû
       - l[n=543]: Wirt' ir kèpt' gardʒ́ey jaù daug wiſſùr păſidáro -
-    - lg:
+    - lg[type=stanza,n=35]:
       - l[n=544]: Nùgı̆ dăbâr Kaimynai, Gentys ir Găſpădórei!
       - l[n=545]: Rúpįkı̆tės akkylai, kàd uʒ́árdămı̆ Lauką,
       - l[n=546]: Daug wiſſókio ſâw iſʒbertumbit' Wăſărójo.
@@ -588,7 +588,7 @@
       - l[n=550]: Kàs ant cʒ́ielo Méto reik', taipo păſı̆rúpįt,
       - l[n=551]: Kàd koʒ́nà Dienà, nuſikándus' ſàwŏ Dălyką,
       - l[n=552]: Dâr ir ſèkancʒei n'uʒ́mirſʒtu Reikălą̆ ſkálſįt'
-    - lg:
+    - lg[type=stanza,n=36]:
       - l[n=553]: Rôds tărĕ Blėkius, ką més pérnay ſâw nŭſı̆pelnėm',
       - l[n=554]: Ir Ʒopóſtui ſàwŏ Nămáms Kampè păkăwójam',
       - l[n=555]: Sù Ʒ́iemà jau baigiaſ' ir wiſſùr ı̆ſſı̆tuſʒtin'.
@@ -603,7 +603,7 @@
       - l[n=564]: Wôs jau ʒ́innôm' ką nŭſı̆wirt', ir kům' păſı̆ſótįt'.
       - l[n=565]: Ak! jûs Kumpjei, jûs Deſʒrélės ſù Lăſʒı̆nėleis,
       - l[n=566]: Més kŏnĕ werkiam' jau, kasdien pămı̆nėdămı̆ júſu.
-    - lg:
+    - lg[type=stanza,n=37]:
       - l[n=567]: Ticʒ! tărĕ Pricʒkus jâm lietùwiſʒkay păſăkydams,
       - l[n=568]: Eik Ʒ́oply! tù jùk kasmét's dėl Edĕſiŭ ſkundies,
       - l[n=569]: Kàs tâw kàlt's? kâm wiſſ ſuláukęs Ruddĕnį̆ riebų,
@@ -611,7 +611,7 @@
       - l[n=571]: Kàd prieſʒ Mértiną tikt wôs Parſʒukk's păſı̆liekti.
       - l[n=572]: Cʒėdyk Népriĕtĕliau, kôl riebų ſʒuttı̆nı̆ Půdą,
       - l[n=573]: Tai taw kúdą nĕ̀ reik's prı̆ſı̆kaiſt', kàd Wáſără gryſʒ́ta.
-    - lg:
+    - lg[type=stanza,n=38]:
       - l[n=574]: Taigı̆ nŭtwérk iſʒ naujo wėl dėl Edĕſiû̆ Dárbus
       - l[n=575]: Ir pelnykis ką ſukrèy dėl Ruddĕniŏ ruddo.
       - l[n=576]: Dirwai důk, kàs reik', kád jôs Palúkkănŭ nóri;
@@ -637,7 +637,7 @@
       - l[n=596]: Sėk Linnû, kiek Gryta nŏres; minnáu nĕſı̆waidyk!
       - l[n=597]: Iùk ʒ́innaì, kaip wìſſ daugiaùs nôr Mótĕrŭ Búdas,
       - l[n=598]: Kàd jôs pràdĕdă werpt', ir jaù prı̆ſı̆werpŭſiŏs áudʒ́ia -
-    - lg:
+    - lg[type=stanza,n=39]:
       - l[n=599]: Allĕ nĕ peik minnáu! permier tą Motĕrŭ Prówą!
       - l[n=600]: Ar nĕ ſmăgù klauſyt', kàd wieʒ́libos Găſpădinnės
       - l[n=601]: Ʒ́iemą ſù Mergòms Windùs ſăwŏ ſukdămŏs ûʒ́ia?
@@ -650,7 +650,7 @@
       - l[n=608]: Ak iſʒties! mŭſŭ Burai neý redyti Pŏnácʒei,
       - l[n=609]: Dâr ſù Dumcʒeis vókiſʒkais ſŭſı̆ſėſt' ŭſſı̆geiſtu.
       - l[n=610]: Ir Prancúʒai jůs toliaus iſʒpeikt' nĕ gălėtu -
-    - lg:
+    - lg[type=stanza,n=40]:
       - l[n=611]: Rôds, tărĕ Pricʒkus, wiſſ Tieſà, kàs cʒè păſăkyta.
       - l[n=612]: Aſʒ kaip Sʒulcas per Kiemùs ilgay jŏdı̆nėdams,
       - l[n=613]: Daug įſı̆tėmijau, kaip dáro múſ' Găſpădinnes,
@@ -668,7 +668,7 @@
       - l[n=625]: Taipgı̆ Nămaì wiſſì paſkiáus nůgì păſı̆dáro,
       - l[n=626]: Kàd ſù Bukſwom's lópitoms Wyr's wôs ŭſſı̆dengia;
       - l[n=627]: O Waikai ant Ûlicʒu nůgi bĕgı̆nėja -
-    - lg:
+    - lg[type=stanza,n=41]:
       - l[n=628]: Móter's jûs Nenáudėles! tai jùms părăſʒyta.
       - l[n=629]: Bèt jûs Prietelkos, jûs wieʒ́libos Găſpădinnės!
       - l[n=630]: Jûs nĕ prı̆wálot' dėl tokiû Kalbu nŭſı̆gėdėt.
@@ -679,7 +679,7 @@
       - l[n=635]: Ir Sʒaudyklė ſù Sʒeiwà ſʒŏkı̆nėdămă tàrſʒkia;
       - l[n=636]: Iùms Garbė, kàd Audeklėlei, júſŭ nŭáuſti
       - l[n=637]: Ant margû Lanku, kaip Sniegs Pawáſărı̆o bliʒga.
-    - lg:
+    - lg[type=stanza,n=42]:
       - l[n=638]: Allĕ nĕ wéngkit dâr daugiàus, kaip reik' păſı̆purtit'.
       - l[n=639]: Ant Darʒ́û Păſʒălei Darbéliû lúkŭriă júſu.
       - l[n=640]: Taigı̆ pădėkit' jaù Windéliû wiſſă Klăpátą,
@@ -696,7 +696,7 @@
       - l[n=651]: Bèt daugiù daugiaùs jie gárbys júſŭ Mălónę,
       - l[n=652]: Kàd jie ſù naujù Rėdù Cʒeſnij' ſŭſı̆ſėdę,
       - l[n=653]: Láſʒı̆nŭs ir Deſʒràs ſà júſu Wirrălŭ wálgys.
-    - lg:
+    - lg[type=stanza,n=43]:
       - l[n=654]: Nùgi dăbàr, ką tikt įmánot' ſėkı̆tĕ Sėlklas!
       - l[n=655]: Sėkı̆tĕ Kopuſtùs, Môrkùs ſù diddĕlĕ Sáuje;
       - l[n=656]: Rópju, Paſtarnókû Swiklû beygı̆ Rĕpukkû;
@@ -707,7 +707,7 @@
       - l[n=661]: Ganà.
   - part[n=2]:
     - head: Wasaròs Darbaì
-    - lg:
+    - lg[type=stanza,n=1]:
       - l[n=1]: Sweik's Swietéli márg's! Sʒwentès Pawáſăriŏ ſʒwentęs;
       - l[n=2]: Sweik's ir tù Ʒ́mogaù! ſuláukęs Wáſărą̆ mielă;
       - l[n=3]: Sweik's Kwietkélėmis păſı̆dʒ́augęs, ſweik's prı̆ſı̆ůſtęs;
@@ -719,7 +719,7 @@
       - l[n=9]: Ogı̆, păbaigus tą, potâm ir Wáſărą̆ linksmą.
       - l[n=10]: Taip prieſʒ Sekminnęs Burùs ı̆ Baudʒ́iăwą̆ kwieſdams,
       - l[n=11]: Ir, kas reik' atlikt', pămŏkįdams ſwéikı̆nŏ Pricʒkus.
-    - lg:
+    - lg[type=stanza,n=2]:
       - l[n=12]: Rôds ſweik's Kûn's, kurs wiſſ ſʒŏkı̆nėdams nùtwĕriă Dárbus,
       - l[n=13]: Yr' diddʒ́áuſi bey brangiáuſi Dówănă Diewo.
       - l[n=14]: Tas Ʒ́mogùs, kùrs daug trŭſı̆nėjęs bey prı̆ſı̆wárgęs,
@@ -737,7 +737,7 @@
       - l[n=26]: "O nèy Gráſʒio ſâw, kád reik', iſʒimtı̆ nĕdryſta:"
       - l[n=27]: Bet néy Blóʒnas wiſſ nĕdărytą Wirrălą̆ ſrébja,
       - l[n=28]: Ir ſkarrôt's bèy pùſnůgis kasdien păſı̆ródo -
-    - lg:
+    - lg[type=stanza,n=3]:
       - l[n=29]: Més Lietuwninkai wyʒ́óti, més Năbăgėlei
       - l[n=30]: Pónams, ir Tarnâms jû, rôds prilygtı̆ nĕgalim';
       - l[n=31]: Bèt ir póniſʒkas Liggàs kentėt' nĕprı̆wálôm'.
@@ -755,7 +755,7 @@
       - l[n=43]: O kàd kartais kokį dâr Lăſʒı̆nû Sʒmotélį,
       - l[n=44]: Ar Deſʒrôs lietùwiſʒkôs bèn kiek părăgáujam';
       - l[n=45]: Tai dâr jů dailiaus uʒ́dėt's mums ſékăſı̆ Dárbas -
-    - lg:
+    - lg[type=stanza,n=4]:
       - l[n=46]: Rôds, tărĕ Lauras, ant kumpôs Laſʒdôs păſı̆rėmęs,
       - l[n=47]: Diewui bûk Garbė! ſweikì Pawáſărį̆ baigiam',
       - l[n=48]: Ir wiſſì drutì pargryſʒtant Wáſărą̆ mátom'.
@@ -770,7 +770,7 @@
       - l[n=57]: O kiek jû Darʒ́è Ʒ́mogaus Rankà nŭſı̆ſkįnė,
       - l[n=58]: Ir Groʒ́ybėm's jû margôm's trumpay păſı̆dʒ́auguſ',
       - l[n=59]: Iaugı̆ ſŭwytŭſĕs ir nĕdĕringas iſʒmĕtĕ laukan -
-    - lg:
+    - lg[type=stanza,n=5]:
       - l[n=60]: Bèt taip ir Paukſʒtéliams mûſ' linksmiems păſı̆dárė,
       - l[n=61]: Ką Gĕgŭʒ́ė păkŭkáwo, ką Lakſʒtingălă ſůkė,
       - l[n=62]: Ir ką Wiewerſei Porôm's lakſtydămı̆ ʒ́aidė;
@@ -779,7 +779,7 @@
       - l[n=65]: Tėwą ſù Momà praſtóję pénı̆ſı̆ pátys,
       - l[n=66]: Ir Dainàs ſăwŏ Tėwû atkartódămı̆ cʒypſi.
       - l[n=67]: Taip trumpàm Cʒ́ėſè néy naujas Swiet's păſı̆dárė -
-    - lg:
+    - lg[type=stanza,n=6]:
       - l[n=68]: Tókius aſʒ Dywùs kaip ſén's Ʒ́mogùs pămătydams,
       - l[n=69]: 'Irgı̆ dŭſáudams iſʒ Sʒirdies, tů ſʒúktĕriŭ graudʒ́ey:'
       - l[n=70]: Ak! tărŭ, kaip wiſſay nieking's mŭſŭ Weikălăs Amʒ́io.
@@ -790,7 +790,7 @@
       - l[n=75]: Ik' potâm jis, pérʒ́ydejęs ir nŭſı̆rėdęs,
       - l[n=76]: Uʒ́auginn' Waiſùs, ir Amʒ́į ſáwŏ păbaigia.
       - l[n=77]: Taip, iſʒ wiſſo taip, ir mums biedniems păſı̆dáro. -
-    - lg:
+    - lg[type=stanza,n=7]:
       - l[n=78]: Més / taip Pôn's kaip Bûr's / Lopſʒij' werkſʒléndămı̆ Biedʒei,
       - l[n=79]: Ámʒ́io búſencʒo tikt blógą Pumpŭrą̆ ródôm'.
       - l[n=80]: O paskùy, kàd Cʒėſas jaù ʒ́ydėti păreina;
@@ -809,7 +809,7 @@
       - l[n=93]: Sù Groʒ́ybėmis wiſſóm's į Nieką̆ păwirſta.
       - l[n=94]: Taı̆gı̆ mătaì, kaip ʒ́mógiſʒkas trumpintĕlı̆s Ámʒ́is
       - l[n=95]: Ʒ́ydincʒôms ir krintancʒôms prilygſtă Ʒ́ôlélėms -
-    - lg:
+    - lg[type=stanza,n=8]:
       - l[n=96]: Taip bĕſı̆páſăkŏjant, ſʒtai Wákmiſtras păſı̆ródė,
       - l[n=97]: Ir bĕſı̆ſpárdidam's taip baisey kéiktı̆ păgáwo,
       - l[n=98]: Kàd Swiet's wiſſas ſù wiſſaìs Daiktaìs pădrĕbėjo.
@@ -828,7 +828,7 @@
       - l[n=111]: Dėl tokiû Baiſybju jau apalptı̆ prădėjo;
       - l[n=112]: O daug Ʒwirbliû pùſgywjû nů Stógŏ nŭpůlė.
       - l[n=113]: Taip, ar girdit', taip tàs Népriĕtĕlus prăſı̆kéikė -
-    - lg:
+    - lg[type=stanza,n=9]:
       - l[n=114]: Ak! tărĕ Selmas, jau perdaug yr' Swietĕ Bĕdiewjû,
       - l[n=115]: Ant kurriû Lieʒ́ùwjo wiſſ Welnai ſʒŏkı̆nėja.
       - l[n=116]: Tûl's Apjékėlis ſuláukęs Rytmĕtį̆ mielą̆,
@@ -841,7 +841,7 @@
       - l[n=123]: Důną nùtwĕriă riekt', potâm ir Wirrălą̆ ſrébja.
       - l[n=124]: Taipjis ſù Welnais iſʒauſʒant ìmmăſı̆ Dárbus;
       - l[n=125]: Taip ir témſtant jau kirmyt' į Pátălą̆ ʒ́ergia -
-    - lg:
+    - lg[type=stanza,n=10]:
       - l[n=126]: Kàd pilwôt's kôks Pónpălăikis taipo prăſı̆kéikia,
       - l[n=127]: Tai jau nè Dywai, nès Wélnui jis păſı̆dáwęs,
       - l[n=128]: Pótĕrŭ gėdiſ', ir Dangaus pămı̆nėdams jůkiaſ';
@@ -867,7 +867,7 @@
       - l[n=148]: Taip iſʒtáręs jis, Kuleis prŏ Dŭrrìs iſʒſʒóko,
       - l[n=149]: Ir ant Kummĕliŏ kétwregio tůjaus ŭſſı̆métęs,
       - l[n=150]: Skubbı̆nŏs ir kittiems Kaimynams Urdĕlį̆ ródit'.
-    - lg:
+    - lg[type=stanza,n=11]:
       - l[n=151]: O kaip jau Dienà păſăkyta bùwŏ prăſʒwittuſ',
       - l[n=152]: Sʒtai Baudʒ́áuninkai wiſſì Pulkais ſŭſı̆rìnko.
       - l[n=153]: Wien's ſăwŏ Káblį, o kittſai naujintĕlĕ̜ Sʒákę
@@ -882,7 +882,7 @@
       - l[n=162]: Sáko jùk wiſſùr, kàd Bûr's į Baudʒ́ăwą̆ ſlenka;
       - l[n=163]: Ir, kàd kartais ſù Piktù jį reikiă păjuddįt,
       - l[n=164]: Kàd, kaip půlaſ' jâm, jis ʒ́engt' ir dirbt' ŭſſı̆geiſtu -
-    - lg:
+    - lg[type=stanza,n=12]:
       - l[n=165]: Allĕ ką̆ mácʒija? cʒè mums nè reik' nŭſı̆dywyt'.
       - l[n=166]: Amtsrôt's Walcʒaus to, kurſai tą Baudʒăwą̆ waldė,
       - l[n=167]: Tôks ſʒirding's bŭwŏ Pôn's, kad kóʒ́nas jo pămı̆nėdams,
@@ -905,7 +905,7 @@
       - l[n=184]: Nės tikt wókiſʒkay jiſſaì mokkėdăwŏ kólôt'.
       - l[n=185]: O kàd kartais ſʒį ar tą reikėdăwŏ garbįt'.
       - l[n=186]: Taì jìs tâm lietùwiſʒay pădărydăwŏ Garbę.
-    - lg:
+    - lg[type=stanza,n=13]:
       - l[n=187]: Allĕ dăbôk Brolau! aſż tâw daugiaus păſăkyſu.
       - l[n=188]: Tù ſŭ mănim' ʒ́innaì, kaip Bùrą Baudʒ́ăwă baudʒ́ia;
       - l[n=189]: Ir, kaip Biedʒ́us tôks kasdien kantrey păſı̆lenkęs,
@@ -936,7 +936,7 @@
       - l[n=214]: Iſʒtı̆ſăs ir diddey duſáudams Wándĕnį̆ láka,
       - l[n=215]: Kùr Wăbălaì wiſſóki ſù Warlėm's ſʒŏkı̆nėja;
       - l[n=216]: O ſʒtai Dìkſas ſù Laʒdà dâr mùſʒă Năbágą - Brûkliu
-    - lg:
+    - lg[type=stanza,n=14]:
       - l[n=217]: Ak, Pôn's Amtsrôt's ak! dėl kô mùms numı̆rĕi pérnay?
       - l[n=218]: Ak, ſŭ tăwim' jau ir Linsmybės múſŭ prăpůlė!
       - l[n=219]: Ak Tėtuttı̆! tăwęs kasdien kiekwiens pămı̆nėdams,
@@ -979,7 +979,7 @@
       - l[n=256]: Irgı̆ paprówijęs ję, po Galwu păſı̆dėjau.
       - l[n=257]: Sʒtai! potâm mănĕ jau daugiaus nè gandı̆nŏ Deiwės,
       - l[n=258]: Ir aſʒ Náktij' rėkaut ir durnůt păſı̆lówjau.
-    - lg:
+    - lg[type=stanza,n=15]:
       - l[n=259]: Iau Dywùs Warlu, bèy Péliu, irgı̆ Pĕlėdu
       - l[n=260]: Sù Naujienôm's Ʒ́urkiu, bey nuplìkkŭſŭ̂ Ʒ́wirbliû,
       - l[n=261]: Ir kàs dâr daugiaus tokiû Dywû păſı̆dárė;
@@ -999,7 +999,7 @@
       - l[n=275]: '"O mėʒk greitay ir linksmaý pakwippŭſį̆ Skárbą!'
       - l[n=276]: "\"Iſʒ menkû Daiktû daugſyk' Dywaì păſı̆dáro;"
       - l[n=277]: '"O iſʒ Mėſʒlo ſmirdincʒo Ʒ́egnónĕ păreina -'
-    - lg:
+    - lg[type=stanza,n=16]:
       - l[n=278]: Tûl's nuſwillęs Pónpălăikis rôds jůkiăſı̆ Bûrams,
       - l[n=279]: Ir bĕſı̆ſʒypſodams jû Dárbųs niekı̆nă Blóʒnas;
       - l[n=280]: Lygei kàd tokſaì bè Búrû gâl įſiremti;
@@ -1027,7 +1027,7 @@
       - l[n=302]: Taigı̆ nè̆ dywikis, kàd kartais Drimmĕlı̆ puikų
       - l[n=303]: Zaunijant girdì. Iìs taip glupay nĕdărytu,
       - l[n=304]: Kàd jo Tėw's jį bût' mŭſŭ Dárbus dirbt' pămŏkinęs
-    - lg:
+    - lg[type=stanza,n=17]:
       - l[n=305]: Iaugı̆ gănà ſʒiámſyk Staldè pàs Meʒ́ı̆nį̆ ſʒûtit';
       - l[n=306]: Dâr ir Piewôms reik's, ir Dirwôms ką păſăkyti.
       - l[n=307]: Waikai ſkubbį̆kı̆tės, ant Wákar's jau prı̆ſı̆artin';
@@ -1037,7 +1037,7 @@
       - l[n=311]: Ak ir Cʒėſas bùs; Ioninnu diddĕlĕ̜ Sʒwentę,
       - l[n=312]: Kaìp kiekwien's ʒ́innaì, poryt wieſʒėdămı̆ ſʒwéſim';
       - l[n=313]: O n'ilgay po to Laukû Truſùs nuſitwérſim' -
-    - lg:
+    - lg[type=stanza,n=18]:
       - l[n=314]: Ak! tărė̆ Kriʒʒas, rôds dâr daug mùms reik's păſı̆purtit',
       - l[n=315]: Ik' wiſſùr ſăwŏ búriſʒkųs atlikſı̆mĕ Dárbųs.
       - l[n=316]: Allĕ ʒ́ė̆lĕk Diewè, kaip gâl warging's Găſpădórus
@@ -1058,14 +1058,14 @@
       - l[n=331]: Sʒtai jaù, miſlyk tikt, jàs taip iſʒdróſʒtı̆ mŏkėjau,
       - l[n=332]: Kàd tûl's Bérnas ſén's dėlto diddey nŭſı̆gando,
       - l[n=333]: Ir bĕſı̆gėdėdams ſaugójos mân păſı̆ródit -
-    - lg:
+    - lg[type=stanza,n=19]:
       - l[n=334]: Rôds nĕgrăʒ́ù ʒ́illiems Bernâms, ir dìddĕlė̆ Gėda,
       - l[n=335]: Kàd jůs kôks Bernukk's glupôks apgėdı̆nă dirbdams;
       - l[n=336]: O ſʒtai dâr Algôs tokie daug Dólĕrı̆u tyko,
       - l[n=337]: Ir wiſſ Páſėlio daugiaus iſʒwerʒ́t' nĕſı̆gėdi.
       - l[n=338]: Ak! kùr dingo Prúſůſe barʒdótă Gădynė,
       - l[n=339]: Kaip Sluʒ́áunink's dăr uʒ́ menką Pinnį̆gą̆ klauſė.
-    - lg:
+    - lg[type=stanza,n=20]:
       - l[n=340]: Aſʒ, dâr Waikpălăikiu glupù pàs Blebbĕrį̆ búdams,
       - l[n=341]: Daugſyk dywijaus, kàd kôks turting's Găſpădórus,
       - l[n=342]: Sù Bernais kasméts ſŭdĕrėdams, Dólĕrį̆ ſúlė;
@@ -1082,7 +1082,7 @@
       - l[n=353]: O Nenáudėlės Mergaites ſù Kĕdĕlácʒeis,
       - l[n=354]: Lyg kaip Iumprowos păſı̆ródit' jaù nĕſı̆gėdi.
       - l[n=355]: Taip Lietùwninkai ſăwŏ Wieʒ́libummą̆ prăʒ́áidė.
-    - lg:
+    - lg[type=stanza,n=21]:
       - l[n=356]: Bèt ir mûſ' Walgių̆s lietùwiſʒkay pădărytųs
       - l[n=357]: Tûl's Iſʒdykėlis nenáud's iſʒpeikt' nĕſı̆bijo.
       - l[n=358]: Tėwai mûſ' kytrì Kiſſielų wirdămı̆ ſkánų,
@@ -1093,7 +1093,7 @@
       - l[n=363]: Ak! kaip girdăwŏ ſótinti Bernaì Găſpădórių.
       - l[n=364]: Ogı̆ dăbàr kasdien kiekwiens Mėſôs ı̆ſſı̆ʒ́ódams,
       - l[n=365]: Ir daugſyk kaip Sʒů iſʒplėſʒdams, wargı̆nă Búrą.
-    - lg:
+    - lg[type=stanza,n=22]:
       - l[n=366]: Tikt gìrdėk Brolaù! kaip mân Biednâm păſı̆dárė.
       - l[n=367]: Aſʒ kŏnĕ penkiasdéſʒimt's Métû ſį̀ ſăwŏ Námą
       - l[n=368]: Wieʒ́libay waldydams, ir niĕkădôs nĕpăteikdams,
@@ -1105,7 +1105,7 @@
       - l[n=374]: Uʒ́mokėt' n'ı̆mănaù, ir Amtmôn's iſʒbără wiſſą,
       - l[n=375]: Ar neſwietiſʒkay ſupykęs mùſʒă per Auſį;
       - l[n=376]: O ſʒtai mân daugſyk dėl Cʒyʒ́ės taip păſı̆dárė -
-    - lg:
+    - lg[type=stanza,n=23]:
       - l[n=377]: Bèt àk! kaipgı̆ găliù mokėt', kàs reik', ſăwŏ Pónams?
       - l[n=378]: Kàd nĕlăbà Sʒeimyna jaù mănĕ wiſſą̆ ſŭėdė -
       - l[n=379]: Ak! mân Biedʒ́ui jaù bewéik reik's Ubbăgăis eiti -
@@ -1118,7 +1118,7 @@
       - l[n=386]: O ſʒtai wémdămı̆ dâr, Werſʒienôs jaù prăſı̆mánė,
       - l[n=387]: Ir diddey mănĕ gwóltija, kàd aſʒ păſkŭtinnį,
       - l[n=388]: Ir wienturtį Werſʒį jiems mĕſı̆nėt' păʒ́ădėcʒau -
-    - lg:
+    - lg[type=stanza,n=24]:
       - l[n=389]: Bèt ir dėl Algôs taipjaù kasmét's păſı̆dáro.
       - l[n=390]: Kartais Waikpălăikis Bukſwàs wôs mokă nĕſʒóti,
       - l[n=391]: Ir daugſyk nĕſı̆gėdėdams / meldʒiu nĕpădywyk /
@@ -1138,7 +1138,7 @@
       - l[n=405]: Súlyk jâm doſnay ant Méto Dólĕriŭ déſʒimt',
       - l[n=406]: O paſkuy girdėk, kaip Blóʒnas tôks į̆ſı̆rėmęs,
       - l[n=407]: Dâr ir Páſėlio brangaùs iſʒwerʒ́t' nĕſı̆gėdės -
-    - lg:
+    - lg[type=stanza,n=25]:
       - l[n=408]: Bèt kàd dirbt' ką reik', wiſſùr Dywaì păſı̆dáro.
       - l[n=409]: Wágys wôs Mėſôs grecʒnôs gardʒ́ey prı̆ſı̆ėdė,
       - l[n=410]: Ir ſaldʒ́iu Koſʒtùwju wŏs doſnay prı̆ſı̆gėrė;
@@ -1165,7 +1165,7 @@
       - l[n=431]: Sù kittais Draugais păſı̆rittę Nùgărą̆ ſkalbė;
       - l[n=432]: Taip, kàd mân kelliàs Nedėles ſirgtı̆ rĕikėjo.
       - l[n=433]: Taì margì Daiktaì! kàd jaù Plaukaì păſı̆ſʒáuſʒia -
-    - lg:
+    - lg[type=stanza,n=26]:
       - l[n=434]: Kriʒʒui taip bĕſı̆ſkundʒ́ant, ſʒtai Pulkai ſŭſı̆bėgo,
       - l[n=435]: 'Ir wiſſùr Rėksmaì: ſʒôk, kirſk, grėbk, kráuk păſı̆dárė.'
       - l[n=436]: Tů Laukai, kaip ſkruſdėlyn's kribʒ́dėtı̆ păgáwo,
@@ -1181,7 +1181,7 @@
       - l[n=446]: Giltı̆nė ſù Dalgiù, néy ſéną grémʒ́dămă Barʒdą,
       - l[n=447]: Bûrams tů wiſſiems wiſſùr iſʒtuſʒtı̆nŏ Piewąs;
       - l[n=448]: Tikt Plaucʒúno wieno dâr nè kruttı̆nŏ Sklypą.
-    - lg:
+    - lg[type=stanza,n=27]:
       - l[n=449]: Tàs Nenáudėlis Plaucʒûn's pàs Káſpărą̆ pérnay
       - l[n=450]: Talkojè păwı̆tôt's, taip baiſey búwŏ prı̆rìjęs,
       - l[n=451]: Kàd jįs Náktij' ant tamſû Laukû klı̆dı̆nėdams
@@ -1194,7 +1194,7 @@
       - l[n=458]: Ir waitódams wìſſ ir ſʒén ir tén bĕgı̆nėjo;
       - l[n=459]: Ik' paſkiáus iſʒ Pápykio Berʒ́innį păgáwęs,
       - l[n=460]: Pácʒę ſù glupaìs Waikaìs kŏnĕ nùmŭſʒĕ Smirdas
-    - lg:
+    - lg[type=stanza,n=28]:
       - l[n=461]: Taip potâm jiſſaì neſwietiſʒkay prı̆ſı̆dúkęs,
       - l[n=462]: Ir wienauſį Kuinpălăikį praſtay păʒ́ĕbójęs,
       - l[n=463]: I Kărăláucʒų Dalgį pirkt' tieſôg nŭkĕláwo.
@@ -1207,7 +1207,7 @@
       - l[n=470]: Sʒnybʒ́dams ir rĕplı̆nėdams wiſſ ſù Piáutŭwŭ kirto;
       - l[n=471]: Bèt Kaimynai jo, Ruggiùs jaù búwŏ ſŭwálę,
       - l[n=472]: Ir kellì Kwiecʒû Plyckùs păſı̆képę wálgė.
-    - lg:
+    - lg[type=stanza,n=29]:
       - l[n=473]: Mân dėlto bĕſı̆dywijant, ſʒtai Káſpărŏ Tarnas
       - l[n=474]: Iſʒ Ruggiû Kiaulès guinódams, mân păſı̆rodė.
       - l[n=475]: Kàs tai, kláuſiau jį, kienó tà dwylı̆kă Parſʒu?
@@ -1218,7 +1218,7 @@
       - l[n=480]: Ak! kàd jaù Găſpădórus pàts wŏs gyw's păſı̆juddin',
       - l[n=481]: Ir néy Uttėlė, kraujû prı̆ſı̆ſurbŭſı̆ ſlenka;
       - l[n=482]: Ką jaù Bernas weiks, kàd jâm jìs lieps păſı̆purtit'
-    - lg:
+    - lg[type=stanza,n=30]:
       - l[n=483]: 'Ak tărĕ Paikʒ́entis mokyto Blebbĕriŏ Bérnas:'
       - l[n=484]: Mâns Gaidaù! nè miſlik, kàd tikt múſŭ Pŏnácʒei
       - l[n=485]: Ant Cʒeſniu ſù Iumprowôm's durnay ſʒŏkı̆nėja,
@@ -1232,7 +1232,7 @@
       - l[n=493]: "Tů ſù Kórtôm's ir Klaſtôm's kitt's kittă nŭgáuna:"
       - l[n=494]: Bèt ir Burai jaù nů ju mokinnăſı̆ bránit',
       - l[n=495]: Ir bĕſı̆ſʒypſojas, kàd Kriʒʒas Kriʒʒă prı̆gáuna.
-    - lg:
+    - lg[type=stanza,n=31]:
       - l[n=496]: Eik nè ʒaunik taip, aſʒ jam draſà păſăkydams,
       - l[n=497]: Dywijaus jo Kalbai, tů nù jo nŭſı̆gréʒ́ęs.
       - l[n=498]: Sáko rôds Mieſtè, kàd Búrai menk ı̆ſſı̆máno,
@@ -1242,7 +1242,7 @@
       - l[n=502]: Wierikit' tikt mân, kàd tûl's Wyʒ́às ŭſſı̆mówęs,
       - l[n=503]: Sù Protù daugſyk apgáuna diddĕlį̆ Póną;
       - l[n=504]: Tikt nĕdryſta Biedʒus wiſſ, kaip reik', păſăkyti
-    - lg:
+    - lg[type=stanza,n=32]:
       - l[n=505]: Taip bĕdŭmójant mân, ſʒtai wėl Nukimm's păſı̆dárė.
       - l[n=506]: Ródėſ' mân iſʒtieſ', kàd Iáucʒû Kaimĕnĕ blówė
       - l[n=507]: O ſʒtai Waikpălăikei Plaucʒúno pàrnĕſʒĕ Plónį.
@@ -1268,7 +1268,7 @@
       - l[n=527]: Ir Kaimynųs iſʒ wiſſû Kampû ſŭwădinnęs,
       - l[n=528]: Taip neſwétiſʒkay ir kiauliſʒkay prı̆ſı̆rìjo,
       - l[n=529]: Kàd jaù ſù wiſſaìs Swecʒeìs po Sůlŭ nŭpůlė -
-    - lg:
+    - lg[type=stanza,n=33]:
       - l[n=530]: Ak! tărĕ Selmas, jaù toktù ſù múſŭ Gădyne,
       - l[n=531]: Kaip jaù Sʒweiſtĕrı̆s ir Prancúʒas Lietŭwą gáwo.
       - l[n=532]: Rôds ir tarp Lietùw'ninkû tûl's randăſı̆ Kiaulė,
@@ -1282,7 +1282,7 @@
       - l[n=540]: Ogı̆ dăbàr jaù més Krikſʒcʒonim's búdămı̆ Prúſai,
       - l[n=541]: Més Lietùw'ninkai taip baiſey ryt' nĕſı̆gėdim',
       - l[n=542]: Kàd ir Wókiecʒei glupóki tùr nŭſı̆dywit' -
-    - lg:
+    - lg[type=stanza,n=34]:
       - l[n=543]: 'Selmui taip bĕſı̆raukant, ſʒtaì Păkămórė̆ ſŭrikko:'
       - l[n=544]: "\"Waikai! kâm wiſſ wėpſôt' taip? ant Dargănă ródoſ',"
       - l[n=545]: "\"Ir Stulpaì Saulélės ant Dĕbĕſiû prăſı̆plátin'."
@@ -1309,7 +1309,7 @@
       - l[n=566]: "\"Pátys į Laukùs tuſʒcʒiàs Kăſʒĕlès nŭſı̆nèſʒim';"
       - l[n=567]: '"O Galwíams warkſtantiems, nĕtŭrrėdami Prádû,'
       - l[n=568]: "\"Iſʒ Bėdôs Pietùms nĕdăryta Páſʒărą̆ důſim' -"
-    - lg:
+    - lg[type=stanza,n=35]:
       - l[n=569]: "\"O jûs Móters, ar ir jûs taipjau păſı̆leidot'?"
       - l[n=570]: "\"Kâm Linnû ráut', ir kaip reik', iſʒkarſʒt' nĕſſı̆rengiat?"
       - l[n=571]: '"Ar nè Gėda jùms, kàd Wokiecʒû Găſpădinnės'
@@ -1326,7 +1326,7 @@
       - l[n=582]: '"O ſʒtai dâr nĕgăná, kàd wókiſʒkay dăbı̆nėjas;'
       - l[n=583]: "\"Bèt jaù ir prancúʒiſʒkay kalbėt' prăſı̆mánė."
       - l[n=584]: '"Taipgı̆ bĕʒaunı̆dămôs ir Darbo ſàwŏ pămirſʒta -'
-    - lg:
+    - lg[type=stanza,n=36]:
       - l[n=585]: O jûs Wyrai! kâmgı̆ Nĕnáudėlû Mŏtĕriſʒkiu,
       - l[n=586]: '"Ir Iſʒdykeliû Mergu Raſpuſtą nĕ draudʒiat?'
       - l[n=587]: "\"Ar jaù nórit' Wókiecʒiams nůgì păſı̆ródit',"
@@ -1354,7 +1354,7 @@
       - l[n=609]: Wirt' ŭſſı̆geiſim', ógı̆ păgàrdit' jůs nĕgălėſim'?
       - l[n=610]: Ʒ́innôt' jùk, kaip Grybas, kàd jį mókı̆ păprówit',
       - l[n=611]: Wirrălŭs ir Ăwı̆ʒ́u Krůpàs uʒ́gardı̆nă ſʒauney -
-    - lg:
+    - lg[type=stanza,n=37]:
       - l[n=612]: Bet ir ſù Riĕſʒŭtais ſaldʒ́eis taipjaù păſı̆dáre.
       - l[n=613]: Wókietės tokiû Daiktû Bacʒkàs prı̆ſı̆rinko,
       - l[n=614]: Ir jaù kélios jû pardůt' Ʒ́akkùs prı̆ſı̆pylė.
@@ -1368,7 +1368,7 @@
       - l[n=622]: Nè, Gaidau! nè ſúlyk jôms, kàs jôms nĕpăreitiſ'.
       - l[n=623]: Dantys jùk, annôt annô, ſukróſʒŭſŭ Métû,
       - l[n=624]: Rieſʒŭtı̆ pérką̂ſt' ir kramtyt', jaù nèdĕră Bóbôms -
-    - lg:
+    - lg[type=stanza,n=38]:
       - l[n=625]: Allĕ nĕ reik' dėl to dâr tą Niekuttı̆ păniekit'
       - l[n=626]: Mergos wiſſos, ir wiſſì jaunintĕlı̆ Klápai
       - l[n=627]: Tàs Gėrybęs jùk kramtydămı̆ gárbı̆nă ſkaudʒ́ey.
@@ -1383,7 +1383,7 @@
       - l[n=636]: Taip pămătyſim' tů' kaip Windai múſŭ Ʒ́ŭpóniu
       - l[n=637]: Pákŭlŭ bey Linnu Gryſʒtès pĕſʒı̆nėdămı̆ ſtapters.
       - l[n=638]: Taip Ʒ́iemà păſı̆baigs, o més nůgì păſı̆likſim'.
-    - lg:
+    - lg[type=stanza,n=39]:
       - l[n=639]: 'Stuy tărĕ, Kaiminkàs wiernay uʒſtódămă Iékė:'
       - l[n=640]: Móters! ar jaù més wiſſáy păſı̆důſı̆mĕ Gėdai?
       - l[n=641]: Kàs tai pèr Nukimm's? dėl kô taip rekiătĕ Wyrai?
@@ -1394,7 +1394,7 @@
       - l[n=646]: Ir ſù jéjĕ pŏdraug Biaurybes Ruddĕniŏ ſʒlápjos;
       - l[n=647]: O wey dâr nĕwălyt's ant Lauko ſtôw Wăſărójas,
       - l[n=648]: Irgı̆ Kănápės Wėjû parblôkſʒtos ſwı̆rı̆nėja.
-    - lg:
+    - lg[type=stanza,n=40]:
       - l[n=649]: Taip bĕſı̆prieſʒijant, ſʒtai! Wákmiſtras păſı̆róde,
       - l[n=650]: Ir ſù jům' Sʒlapjurgis, bey Păkŭlûns Păkămóre.
       - l[n=651]: Tůs baiſingus tris Swecʒùs pămătydămı̆ Búrai,
@@ -1429,7 +1429,7 @@
       - l[n=680]: '"Koʒ́naswiens Bludùs ir Půdus pràdĕdă tárſʒkįt;'
       - l[n=681]: '"Kàd po tiek Wargû bèn kartą wėl păſı̆dʒ́augtu,'
       - l[n=682]: '"Ir taip daug pardówitas Dŭſʒĕlès gaiwįtu...'
-    - lg:
+    - lg[type=stanza,n=41]:
       - l[n=683]: "\"Allĕ Ʒ́mŏgaù, Ʒ́mogaù! ſaugókiſ' to nĕ mı̆nė́ti,"
       - l[n=684]: '"Kùrs tâw ant Laukû bĕgı̆nėjant ir trŭſı̆nėjant,'
       - l[n=685]: '"Sù ſăwŏ dangiſʒkais Sargaìs kribʒdėtı̆ pădėjo.'
@@ -1450,7 +1450,7 @@
       - l[n=700]: "\"Taigı̆ dăbókı̆tĕs ir Maſʒnàs cʒėſù prı̆ſı̆kráukit',"
       - l[n=701]: "\"Kàd koʒ́nâm, kàs reik's, į Cʒėſo Reikălą̆ tikrą"
       - l[n=702]: "\"Cʒupert irgı̆ nŭtwért' tůjaùs ſù Sáujĕ gălėſit' -"
-    - lg:
+    - lg[type=stanza,n=42]:
       - l[n=703]: Taip mùs atſuſdams Pôns Amtsrôt's múſ' mălŏningas
       - l[n=704]: Mùms jŭſŭ Myliſtą ſʒį karta pàliĕpĕ ſweikįt,
       - l[n=705]: Melſdams nůſʒirdʒey wiſſùs, cʒeſù păſı̆rupįt',
@@ -1466,7 +1466,7 @@
       - l[n=715]: ganà.
   - part[n=3]:
     - head: Rùdenio Gerýbės
-    - lg:
+    - lg[type=stanza,n=1]:
       - l[n=1]: Ànt, saulélė wėl nu mús' atstódămă ritas,
       - l[n=2]: Ìrgı̆ pălìkŭsı̆ mùs greità wăkăróp nŭsı̆léidza.
       - l[n=3]: Weì, kasdën daugiaùs ji mùms săwŏ spìndŭlį slépia;
@@ -1478,7 +1478,7 @@
       - l[n=9]: Bóbą sù dëdù blogù pas kăkălį̆ siùncza,
       - l[n=10]: Ó kitùs atszìlt į stùbą rágı̆nă lįsti,
       - l[n=11]: Ìr walgiùs drungnùs bei szìltą wìrălą̆ wálgyt.
-    - lg:
+    - lg[type=stanza,n=2]:
       - l[n=12]: Żémė sù wisaìs păszăleìs įmùrŭsı̆ wèrkia,
       - l[n=13]: Kàd mŭsŭ rátai jós iszpláutą nùgărą̆ drásko.
       - l[n=14]: Kùr pirm dù kuinù lengwaý mums pàwĕżė̆ násztą,
@@ -1489,7 +1489,7 @@
       - l[n=19]: Ó lytùs żmonėms teszkėdams nùgărą̆ skàlbia.
       - l[n=20]: Wýżos sù blogaìs sopágais wándĕnį̆ sùrbia,
       - l[n=21]: Ìr biauriùs purwùs kaip tászlą mįdămı̆ mìnko.
-    - lg:
+    - lg[type=stanza,n=3]:
       - l[n=22]: Àk, kur dìngot gëdros júsgı̆ păwásăriŏ dënos,
       - l[n=23]: Kaìp mes, pirmąsýk stubós atwérdămı̆ lángus,
       - l[n=24]: Szìldantį sziltós saulélės spìndŭlį̆ jaùtėm?
@@ -1505,7 +1505,7 @@
       - l[n=34]: Wìslab jaù prastójo mùs ir nùlė̆kė̆ slėptis.
       - l[n=35]: Taìp laukaì păsı̆lìko mùms wisùr gė̆dŭlìngi,
       - l[n=36]: Ìrgı̆ grŏżýbės jú nei kápas séns păsı̆ródo.
-    - lg:
+    - lg[type=stanza,n=4]:
       - l[n=37]: Krúmus ir girès linksmàs jau Gìltı̆nė̆ sùka,
       - l[n=38]: Ìr grożýbes jú gaiszìn draskýdămă wėtra.
       - l[n=39]: Szákos, ant kuriú po lápais ùżgı̆mė̆ weìslė,
@@ -1524,7 +1524,7 @@
       - l[n=52]: Kàd tikt wárnos dár biaurýbę rùdĕniŏ gárbin,
       - l[n=53]: Ó pauksztélei sù dainóms anksztaý păsı̆slėpė,
       - l[n=54]: Ìrgı̆ bĕ rúpeszu szaltaý sapnůdămı̆ mëgti.
-    - lg:
+    - lg[type=stanza,n=5]:
       - l[n=55]: Àk, darżú grożýbės jús su sáwŏ żŏlélėms,
       - l[n=56]: Jús kwëtkélės jáunos, júsgı̆ păwásăriŏ szlówė,
       - l[n=57]: Àk, kur dìngo jús' puikùms su sáwŏ kwăpéleis!
@@ -1539,7 +1539,7 @@
       - l[n=66]: Àlĕ nĕdìngokit, kad més dėl álăsŏ mëlo
       - l[n=67]: Ar dėl jús' dainú szwentú jus szériămĕ twártůs;
       - l[n=68]: Né, mes dėl mėsós tiktaý jŭsŭ gìriămĕ bàlsą.
-    - lg:
+    - lg[type=stanza,n=6]:
       - l[n=69]: Tìkt dywaì żiurėt, kaip móters dìlı̆nă stùngius,
       - l[n=70]: Ìr baisù klausýt, kad bóbos társzkı̆nă půdus.
       - l[n=71]: Grýta sù Pimè kampůto titnăgŏ jëszko,
@@ -1553,7 +1553,7 @@
       - l[n=79]: Snáusdams ir zubùs laiżýdams ėdĕsiŏ týko;
       - l[n=80]: Nės Astė pëtùms nŭpĕnėtą szùtı̆nă gaìdį,
       - l[n=81]: Ìr kelìs kwëczú plyckùs į kákălį̆ száuja.
-    - lg:
+    - lg[type=stanza,n=7]:
       - l[n=82]: Dócziu taìp bĕsı̆laìżant ìr dideý bĕsı̆dzaùgiant,
       - l[n=83]: Sztaì, kwëslýs puikeý rėdýts ir raìts păsı̆ródė,
       - l[n=84]: Ìr wisùs swodbón ateìt pas Krìzą̆ păprászė.
@@ -1581,7 +1581,7 @@
       - l[n=106]: Bèt wainikas sù kasóms mergú dăbı̆nėjims.
       - l[n=107]: Bóbos, szùksztu jùms, margú wainìkŭ nŏrėti,
       - l[n=108]: Ó jus mérgos wėl, mináu, n'ŭssı̆geiskı̆tĕ kýku.
-    - lg:
+    - lg[type=stanza,n=8]:
       - l[n=109]: Taìp kaip gìrdit, dìdis pùlks wisaìp ı̆ssı̆rėdęs,
       - l[n=110]: Irgı̆ nĕszwánkey klýkaudams pas Krìzą̆ nŭkáko.
       - l[n=111]: Krìzas tů păsı̆klóniodams pasweíkı̆nŏ kóżną,
@@ -1592,7 +1592,7 @@
       - l[n=116]: Ìr săwŏ sùkwëstus svĕtĕliùs taipó pămy̆lėjo,
       - l[n=117]: Kàd kelì jau búriszkas szutkàs prăsı̆mánė,
       - l[n=118]: Ìr wëns wálgydams pas stálą szúdą̆ păsákė.
-    - lg:
+    - lg[type=stanza,n=9]:
       - l[n=119]: Taìp pirmónes swódbiszkas linksmaý bĕrăgáujant,
       - l[n=120]: Sztaì, tů swódbiszkas bliowìms wisùr păsı̆kėlė,
       - l[n=121]: Taìp, kad ìr arkleì blogì szŏkı̆nėdămı̆ żwéngė.
@@ -1608,7 +1608,7 @@
       - l[n=131]: Sztaì, tů pró wartùs rėdýtą pàrwĕżė̆ pórą,
       - l[n=132]: Ànt kuriós szwents wýskupas pas dëwstălį̆ szwèntą
       - l[n=133]: Winczăwŏdams, kaip reìk', żegnónę bùwŏ pădėjęs.
-    - lg:
+    - lg[type=stanza,n=10]:
       - l[n=134]: Gèntys ir kaimýnai, jaù wisì sŭsı̆bėgę,
       - l[n=135]: Ìr jaunìkį sù marczè paswéikı̆nĕ̜ daìley,
       - l[n=136]: Tů gardzeý păwı̆tót į Krìzo sùwĕdė̆ námą.
@@ -1621,7 +1621,7 @@
       - l[n=143]: Kárwiu trìs berżdàs o jáuczu dù mė̆sı̆nėjo;
       - l[n=144]: Bèt këk kiaùliu beì awiú, mė̆sı̆nìnks nĕrŏkáwo;
       - l[n=145]: Àlĕ żą̆sú bei wìsztu wós wënà păsı̆lìko.
-    - lg:
+    - lg[type=stanza,n=11]:
       - l[n=146]: Tàs mėsàs wisókias szeìp ir taìp sŭkăpótas,
       - l[n=147]: Krìzo kùkorius taip smàrkey plészkı̆nŏ swódbai,
       - l[n=148]: Kàd ant úlyczu wisùr użìms păsı̆kėlė,
@@ -1635,7 +1635,7 @@
       - l[n=156]: Ó potám kwësleì greitì daug sùnĕszė̆ wàlgiu,
       - l[n=157]: Jáutënos rëbiós, kiaulënos ìrgı̆ żąsënos,
       - l[n=158]: Plaùczu beì kĕpĕnú bei daùgel szùtį̆tŭ blėku.
-    - lg:
+    - lg[type=stanza,n=12]:
       - l[n=159]: Swótams taìp potám Tė̆wėmús', szwentaý păsı̆kaìczus,
       - l[n=160]: Ir krikszczóniszkay pas stálą jaù sŭsı̆sėdus,
       - l[n=161]: Krìzas sáwŏ swĕczùs meilìngay rágı̆nŏ wálgyt,
@@ -1653,7 +1653,7 @@
       - l[n=173]: Taìp kad jú taukaì per bàrzdą jaù nŭlăszėjo.
       - l[n=174]: Nės jë mìslyjo, kad búrs, pas Krìzą̆ sė̆dėdams,
       - l[n=175]: Klóniotis ir póniszkay păsı̆èlgt nĕprı̆wálo.
-    - lg:
+    - lg[type=stanza,n=13]:
       - l[n=176]: Taìpgı̆ bĕwálgant jaù ir búriszkay bĕsı̆dzaùgiant,
       - l[n=177]: Krìzas szúktĕrė̆jo; sztai, tů tarnaì păsı̆ródė,
       - l[n=178]: Ìr alaùs macnaùs su drógais àtnĕszė̆ báczką;
@@ -1661,7 +1661,7 @@
       - l[n=180]: Pýwo sùdrumsto malkùs tikt kósziă tı̆kt kószia.
       - l[n=181]: Nės tirsztóks alùs perdėm per gómŭrį̆ plaùkdams
       - l[n=182]: Ìr tirsztì malkaì weikiaùs prisótı̆nă skìlwį.
-    - lg:
+    - lg[type=stanza,n=14]:
       - l[n=183]: Sztaì, wisì swotélei sù păsı̆mėgı̆mŭ wálgę
       - l[n=184]: Ìr tirsztú malkéliu jaù dosnaý prı̆sı̆sùrbę,
       - l[n=185]: Pótĕriŭ, kaìp krikszczonims reìk', skaitýt ŭssı̆mirszo,
@@ -1676,7 +1676,7 @@
       - l[n=194]: Neì koks żákas lénkiszkas po sůlŭ nŭpůlė,
       - l[n=195]: Taìp kad kóżnas wëns dėl tó dideý nŭsı̆gàndo,
       - l[n=196]: Ìr wos pùsgywį su drógais ìsznĕszė̆ laùkan.
-    - lg:
+    - lg[type=stanza,n=15]:
       - l[n=197]: Bèt ir móters swódbiszkay păsı̆dzaùgt n'ŭssı̆mìrszo,
       - l[n=198]: Àlĕ lăbaý kytreý; nės greìtos mótĕrŭ klástos
       - l[n=199]: Kàrtais ìr kytriáusį klápą mókă prı̆gáuti.
@@ -1711,7 +1711,7 @@
       - l[n=228]: Àr basì, rubùs nŭsı̆wìlkę, sztùką̆ pădárė.
       - l[n=229]: Jùk żinaì, kaip lìnksmas búrs perdaùg prı̆sı̆sùrbęs
       - l[n=230]: Kàrtais ànt czesniú durnàs szutkàs prăsı̆máno.
-    - lg:
+    - lg[type=stanza,n=16]:
       - l[n=231]: Bèt girdėkit dár toliaùs, kas czè păsı̆dárė.
       - l[n=232]: Dù kaimýnu nèkwëstu swodbón ătsı̆bástė,
       - l[n=233]: Wëns ju Slùnkium o kitsaì Pelėdă wădìnams.
@@ -1738,7 +1738,7 @@
       - l[n=254]: Ìk Enskýs, isz pápykio berżìnį̆ păgrëbęs,
       - l[n=255]: Slùnkiaus ìrgı̆ Pĕlėdos szónus skàlbtı̆ prădėjo,
       - l[n=256]: Ìr potám, plaukú nŭsı̆twėręs, ìszmĕtė̆ laùkan.
-    - lg:
+    - lg[type=stanza,n=17]:
       - l[n=257]: Àlĕ nĕdýwy̆kı̆tės, kalbàs girdėdămı̆ tókias.
       - l[n=258]: Jùk ir pónai, póniszkay daugsýk prı̆sı̆rìję,
       - l[n=259]: Búriszkus sztukiùs kaip més prămănýdămı̆ jůkias.
@@ -1749,7 +1749,7 @@
       - l[n=264]: Wìs szwentùs ir wëżlibus tikt ìsztăriă dáiktus.
       - l[n=265]: Àk, szlapjùrgis ir tarp jú, perdaùg prı̆sı̆kószęs,
       - l[n=266]: Búriszkas szutkàs iszplópt taipjaù nĕsı̆gėdi.
-    - lg:
+    - lg[type=stanza,n=18]:
       - l[n=267]: Àk, tărė̆ Priczkus, àsz tëk métu szùlcŭ bĕbúdams,
       - l[n=268]: Dwáriszkus budùs ir pónu wìsą̆ răbátą
       - l[n=269]: Plùk į̆sı̆tėmyjau, girdėdams ìrgı̆ žiŭrėdams
@@ -1769,7 +1769,7 @@
       - l[n=283]: Àlĕ trĕczàsis, dù biauriù rykù nŭsı̆twėręs,
       - l[n=284]: Rùpuiżes baisiàs į bliúdą társzkı̆nŏ plátų;
       - l[n=285]: Nės tas rùpuiżes mŭsŭ pónai gárbı̆nŏ skaùdzey.
-    - lg:
+    - lg[type=stanza,n=19]:
       - l[n=286]: Taìpgı̆ bĕżiúrint mán jau dúszei pìktă păstójo,
       - l[n=287]: Ìr asz, pró durìs iszszókęs, wémtı̆ prădėjau.
       - l[n=288]: Taìp neswëtiszkay nŭsı̆wėmęs wėl păsı̆ródzau,
@@ -1788,7 +1788,7 @@
       - l[n=301]: Sztaì, żiuriù, këkwëns tarp jú jau rèngiăsı̆ sėstis,
       - l[n=302]: Ìr, wisaý dangaùs użmìrszęs, ìmăsı̆ száuksztą,
       - l[n=303]: Ìrgı̆ bĕżaùnydams walgiùs į gómŭrį̆ kìsza.
-    - lg:
+    - lg[type=stanza,n=20]:
       - l[n=304]: Àsz dar tókias biaurybès kol gýws nĕrĕgėjęs,
       - l[n=305]: Taìp nŭsı̆dýwyjau, kad jaù kŏnĕ rėktı̆ prădėjau.
       - l[n=306]: Tìkt sŭsı̆mìslyjęs, kad mán cze nèdĕră rėkaut,
@@ -1810,7 +1810,7 @@
       - l[n=322]: Taìp trumpaý pădŭmójęs sáw ir átrăszą̆ gáwęs,
       - l[n=323]: Tů kŏnĕ dwìlinks ìr neswëtiszkay nŭsı̆gàndęs,
       - l[n=324]: Pró durìs iszszókau ìrgı̆ nămó parjójau.
-    - lg:
+    - lg[type=stanza,n=21]:
       - l[n=325]: Àk, tărĕ Sèlmas, róds neszwánkios músŭ gădýnės
       - l[n=326]: Ànt wisú szelmýstu jaù wisaý păsı̆léido.
       - l[n=327]: Póns ir tàrnas jó peklón tikt bėgă tı̆kt bėgă,
@@ -1825,7 +1825,7 @@
       - l[n=336]: Lùmper ìrgı̆ kămėdigės apjékı̆nŏ póną,
       - l[n=337]: Ó tarnaì jo bè drausmės kekszáudămı̆ jůkias.
       - l[n=338]: Àk kur dìngo wëżlibùms jau músŭ gădýniu!
-    - lg:
+    - lg[type=stanza,n=22]:
       - l[n=339]: Taìp bĕsı̆pásăkŏjant ir swódbą wìsą bĕbaìgiant,
       - l[n=340]: 'Sztaì, tůjaùs wyżóts atbėgęs Blèbĕriŏ tàrnas:'
       - l[n=341]: Àk, tărĕ, lìnksmı̆nkı̆tės, jau wėl czesnìs păsı̆dáro.
@@ -1841,7 +1841,7 @@
       - l[n=351]: O dar wìs daugiaùs mėsós į kámı̆ną̆ kèmsza.
       - l[n=352]: Taìgı̆ dăbàr czesnìs lëtùwiszkay păsı̆dárė,
       - l[n=353]: Ìr wargùs wisùs użmìrszę wėl ătsı̆gáusim.
-    - lg:
+    - lg[type=stanza,n=23]:
       - l[n=354]: Àle nĕmìslykit, tokią girdėdămı̆ kàlbą,
       - l[n=355]: Kàd ant ápjůko ji mùms yrà prămănýta;
       - l[n=356]: Jùk permër mes bëdzei ánt laukú prı̆sı̆wàrgom,
@@ -1859,7 +1859,7 @@
       - l[n=368]: Prákaito taip daùg nu wéido mùms nŭlăszėjo,
       - l[n=369]: Kád per nósį tészkanczos wis rìtŏsı̆ srówės.
       - l[n=370]: Àk, mes bëdzei, àk wisùr dideý prı̆sı̆wàrgom!
-    - lg:
+    - lg[type=stanza,n=24]:
       - l[n=371]: Nùgı̆ dăbàr, nasztàs wargú wisàs nŭsı̆krátę,
       - l[n=372]: Jaù păsı̆lìnksmįkim bensýk czesnýj sŭsı̆kwëtę.
       - l[n=373]: Tám juk Dëws dosnùs gerýbes mùms dŏwănója,
@@ -1882,7 +1882,7 @@
       - l[n=390]: Àr nĕ gĕraý, kad dár per mėszlus spìrgı̆nı̆ spìrgus,
       - l[n=391]: Ìr kad pèr rugiùs į mëlą baùdzăwą̆ bėgdams
       - l[n=392]: Àrgı̆ nămėj ką weìkdams sáw ı̆ssı̆szùtı̆nı̆ kùmpį?
-    - lg:
+    - lg[type=stanza,n=25]:
       - l[n=393]: Róds, tărė Laùras, sù mërà wis reìk' păsı̆pùrtįt.
       - l[n=394]: Próto reìk', kad ką rudèns czėsè mė̆sı̆nėji,
       - l[n=395]: Ó kad czėrauji, wėl reìk' su rámzŭmŭ czėraut.
@@ -1899,7 +1899,7 @@
       - l[n=406]: Skìlwį pérmaldyt ir rámdyt pászărŏ sténa;
       - l[n=407]: Ó dar ìrgı̆ pălùdënai daugsýk ı̆ssı̆szëpę,
       - l[n=408]: Kàd darbaì laukù prăsı̆plátı̆nă, lŭkŭriă szmótu.
-    - lg:
+    - lg[type=stanza,n=26]:
       - l[n=409]: Taìgı̆ nĕ wìs kasdën, nei swódbą dìdĕlĕ̜ kéldams
       - l[n=410]: Ìr nei kókias kriksztynàs pădărýdămăs czėrauk!
       - l[n=411]: Nè kasdën wis sù smalstùmais wėdărą̆ lìnksmįk
@@ -1915,7 +1915,7 @@
       - l[n=421]: Wìslab bùs gardù ir táw dideý sŭsı̆gádys,
       - l[n=422]: Kàd kasdën, kaip reìk', bandýsi màndăgĕy czėraut,
       - l[n=423]: Ìrgı̆ bĕczėraudams kitú dënú pămı̆nėsi.
-    - lg:
+    - lg[type=stanza,n=27]:
       - l[n=424]: Àlĕ nĕpýk, gaidaù, kad żódį dár păsăkýsiu.
       - l[n=425]: Tàrp Lëtùwninku daugsýk tuls ràndăsı̆ smìrdas,
       - l[n=426]: Kùrs, lëtùwiszkay kalbėdams ìr szŏkı̆nėdams,
@@ -1930,7 +1930,7 @@
       - l[n=435]: Kàd mes jàs tikt wìs kaip kiaùlės ėsdămı̆ rýtum?
       - l[n=436]: Pìlwą róds kasdën protìngay reìkiă pălìnksmįt,
       - l[n=437]: Bèt ir, kàs ant pìlwo reìk', wis tùrı̆mĕ rúpįt.
-    - lg:
+    - lg[type=stanza,n=28]:
       - l[n=438]: Taì jau wìs tësà, szweplódams ìsztărė̆ Bùżas;
       - l[n=439]: Żìnom jùk wisì, kaip més nůgìntĕlı̆ gémam,
       - l[n=440]: Taìp didzáusias póns, kaip més wyżótı̆ năbágai,
@@ -1944,7 +1944,7 @@
       - l[n=448]: Ìr jo wýstyklus biauriùs su wándĕniŭ pláuti.
       - l[n=449]: Àk, nĕpădýwyk mán dėl tókio dýwı̆nŏ żódzo;
       - l[n=450]: Jùk żinaì, kad wìs tësà, ką czè sŭwăpėjom.
-    - lg:
+    - lg[type=stanza,n=29]:
       - l[n=451]: Taìp këkwëns żmogùs wargìngay pràdĕdă żióptert,
       - l[n=452]: Kàd jis ìsz tamsós į swëto rìtăsı̆ szësą,
       - l[n=453]: Ìr potám lopszýj sapnůdams szaúkiă păgálbos;
@@ -1964,7 +1964,7 @@
       - l[n=467]: Bèt jau taìp kożnám Dëws wëtą màndăgĕy táikė,
       - l[n=468]: Kàd wëns kaìp baisùs kŭnį̆gáiksztis skiaùtŭrĕ̜ ródo,
       - l[n=469]: Ó kits pèr purwùs klampódams mėżı̆nį̆ raùso.
-    - lg:
+    - lg[type=stanza,n=30]:
       - l[n=470]: Róds yr' daùg żiopliú, kurë năbăgėlį̆ búrą
       - l[n=471]: Ìsz nĕlăbós szirdës per paìką drìmĕlį̆ laìko,
       - l[n=472]: O sztai, pátys jùk daugsýk kaip drìmĕlĕi èlgias.
@@ -1980,7 +1980,7 @@
       - l[n=482]: Ó sztai, tů paskùy kaip dìdis póns į̆sı̆rėmęs,
       - l[n=483]: Ìrgı̆ nĕswëtiszkay darkýdams, wárgı̆nă bëdzų,
       - l[n=484]: Àr bĕsı̆szýpsodams jo prástą nëkı̆nă námą.
-    - lg:
+    - lg[type=stanza,n=31]:
       - l[n=485]: Róds, tărė̆ Prìczkus, taìp ir mán daugsýk păsı̆dárė,
       - l[n=486]: Kàd asz szaltyszáudams szén ir tén jŏdı̆nėjau.
       - l[n=487]: Àmtmons kéikė taìp, kad mán plaukaì păsı̆sziáuszė,
@@ -1997,7 +1997,7 @@
       - l[n=498]: Taì ben dúszei taìp skaudù nei sùnkŭ nĕbútu.
       - l[n=499]: Ógı̆ dăbàr taip gėdiszkay wisùr păsı̆ródau,
       - l[n=500]: Kàd ir waìkpălăikei jau mán ı̆ssı̆szëpt păsı̆drąsin.
-    - lg:
+    - lg[type=stanza,n=32]:
       - l[n=501]: Ànday trópyjos, kad àsz, į baùdzăwą̆ jódams,
       - l[n=502]: Kaìp szaltýsziui reìk', įdróżiau tìngı̆nį̆ Slùnkių.
       - l[n=503]: Bèt jisaì tůjaùs mănĕ̜ pèszt ir mùszt păsı̆kėsęs,
@@ -2010,7 +2010,7 @@
       - l[n=510]: Lýgey kaìp antaý szaszůts pawásăriŏ snëgas,
       - l[n=511]: Kàd jis pràdĕdă tìrpt, żëmós jau nèdĕră kéliui,
       - l[n=512]: Lýg taip sù garbėms wisóms ir mán păsı̆dárė.
-    - lg:
+    - lg[type=stanza,n=33]:
       - l[n=513]: Bà, kaip jáuns buwaù, - kur dìngot, mánŏ dë̆nélės! -
       - l[n=514]: Aì, kaip jáuns buwaù, wisì mănĕ̜ gìrdăwŏ klápai.
       - l[n=515]: Àr but' póns ar búrs, ar bérns ar slúgı̆nė̆ kèrdzaus,
@@ -2030,7 +2030,7 @@
       - l[n=529]: Pó balnù mănĕ̜ wëżlibay į baùdzăwą̆ wìlko.
       - l[n=530]: Ógı̆ mănęs, żėlėk Dëwè, nuplìkŭsiŏ tàrno
       - l[n=531]: Jaù wisaý nei szìs nei tàs sŭsı̆mìlt nĕsŭprànta.
-    - lg:
+    - lg[type=stanza,n=34]:
       - l[n=532]: Àk, tărĕ jám Enskýs, isztráukęs dìdĕlį̆ peilį,
       - l[n=533]: Màns broliaù szirdìngs, kam spárdais taìp sŭsı̆raùkęs?
       - l[n=534]: Jùk ir mán taipjaù kaip táw wisaý păsı̆dárė.
@@ -2047,7 +2047,7 @@
       - l[n=545]: Kaìp ugnìs baisì per mėsą szókdăwŏ këtą,
       - l[n=546]: Ìr kaip kóks smarkùs bindókas skéldăwŏ káulus,
       - l[n=547]: Kaìp man Jóns, Mikóls ir Laùras liùdı̆mą̆ důda.
-    - lg:
+    - lg[type=stanza,n=35]:
       - l[n=548]: Bèt nĕ gănà dar bùs; asz táw daugiaùs păsăkysiu.
       - l[n=549]: Kàd asz - tìkt girdėk, broliaù, kaip mán păsı̆dárė,
       - l[n=550]: Ìr kaip búrams dár kasméts daugsýk păsı̆dáro,
@@ -2070,7 +2070,7 @@
       - l[n=567]: Jùk żianaì, kaip mùms kasméts reik' mézlăwą̆ mëlą
       - l[n=568]: Àmtmonams mokėt, kad jë jau ùrdĕlį̆ siùncza
       - l[n=569]: Àr per wákmistrus skwërtůt ir mùszt nĕsı̆liáuja.
-    - lg:
+    - lg[type=stanza,n=36]:
       - l[n=570]: Àk szirdìngs broliaù, dideý meldzù, nĕpădýwyk,
       - l[n=571]: Ìr nĕsăkýk lë̆sı̆nìnkui, kàd Obrýs mănŏ bérnas
       - l[n=572]: Médzu wógt ar ką păsı̆kìrst kas rùdĕnį̆ rèngias.
@@ -2092,7 +2092,7 @@
       - l[n=588]: Kùrs, săwŏ lászı̆niŭs ir zopóstą wìsą̆ sŭėdęs,
       - l[n=589]: Ìr uż pýwą skìnkį wós ar wándĕnį̆ szliùrpdams,
       - l[n=590]: Ìsz bėdós nei Żýdas jaù prı̆wı̆liót păsı̆prátin.
-    - lg:
+    - lg[type=stanza,n=37]:
       - l[n=591]: Tàm këmè, broliaù, kur àsz săwŏ szùtı̆nŭ půdą,
       - l[n=592]: Dù tikrù szelmiù păgrătà sŭ mănìm gywéna.
       - l[n=593]: Wëną jú baudzáuninkai Pelėdă wădìna,
@@ -2107,7 +2107,7 @@
       - l[n=602]: Àsz jau taìp baisėjůs, kàd man pàdrĕbă kìszkos.
       - l[n=603]: Tìkt girdėk, asz tókius táw dywùs păsăkýsiu,
       - l[n=604]: Kàd plaukaì taw ànt żilós galwós păsı̆sziáuszis.
-    - lg:
+    - lg[type=stanza,n=38]:
       - l[n=605]: Tróbos smìrdu tú, kad jàs kas nór' į̆sı̆tėmyt,
       - l[n=606]: Neì pustýnės isz wisú păszăliú păsı̆ródo.
       - l[n=607]: Kàd auksztýn żiurì, pămătaì sudrìskŭsį̆ kraìką,
@@ -2121,7 +2121,7 @@
       - l[n=615]: Nės kur tìkt żiurì, wisùr mėżı̆nýs păsı̆ródo.
       - l[n=616]: Jùk jë ìr kiaulès stubój taikýt nĕsı̆gėdi,
       - l[n=617]: Ìr, kad jëms padýwyji, dar bárăsı̆ smàrkey.
-    - lg:
+    - lg[type=stanza,n=39]:
       - l[n=618]: Ànday trópyjos, kad àsz, Pelėdą̆ sŭtìkęs,
       - l[n=619]: Jám dėl kiaùliszkos biaurýbės ką păsăkýti
       - l[n=620]: Ir jį kaìp kaimýns wërnaý bandzaù pămŏkįti.
@@ -2137,7 +2137,7 @@
       - l[n=630]: Tů trys kiaùlės dáglos sù daglaìs săwŏ pàrszais,
       - l[n=631]: Lýg kad skèrdė kàs, stubój sużwìgŏ nĕszwánkey,
       - l[n=632]: Ìr pro lángus ìr plysziùs kuleìs ı̆ssı̆rìto.
-    - lg:
+    - lg[type=stanza,n=40]:
       - l[n=633]: Tókius àsz dywùs kol gýws në̆kădós nĕsŭláukęs,
       - l[n=634]: Taìp nŭsı̆dýwyjau, kad mán plaukaì păsı̆sziáuszė.
       - l[n=635]: Ó tù nèprë̆tĕliau skaróts su wàlkătă Slùnkium
@@ -2156,7 +2156,7 @@
       - l[n=648]: Taìgı̆ mătaì, gaidaù, kaip kàrtais waìds păsı̆dáro,
       - l[n=649]: Kàd nenáudėlį kokį bandaì pămŏkįti
       - l[n=650]: Ìr pămŏkįdams jį, kaip reìk', păsı̆drąsı̆nı̆ kóliot.
-    - lg:
+    - lg[type=stanza,n=41]:
       - l[n=651]: Taìp bĕsı̆pásăkŏjant ir swódbą wìsą bĕbaìgiant,
       - l[n=652]: Źémė sù wisaìs daiktaìs wirpėtı̆ păgáwo.
       - l[n=653]: Tů sweczeì wisì, dėl tó dideý nŭsı̆gàndę,
@@ -2168,7 +2168,7 @@
       - l[n=659]: Taìp neswëtiszkay wirkszczàs su sprágı̆lŭ daùżė,
       - l[n=660]: Kàd ir pélės po szaudaìs kribżdėtı̆ nĕdrįso,
       - l[n=661]: Ó sweczú daugùms saw négandas păsı̆dárė.
-    - lg:
+    - lg[type=stanza,n=42]:
       - l[n=662]: Àlĕ nĕdýwy̆kı̆tės kalbàs girdėdămı̆ tókias;
       - l[n=663]: Jùk Doczýs kasméts, suláukęs rùdĕnį̆ rëbų,
       - l[n=664]: Ìr iszkùldams sáwŏ jăwùs, iszgàndı̆nă swëtą.
@@ -2178,7 +2178,7 @@
       - l[n=668]: Sáwŏ bė̆dàs ir ìszgąsczus mùms prànĕszė̆ kàrtais.
       - l[n=669]: Jùk wos kiaùlstaldis, wos klėtis jám păsı̆lìko,
       - l[n=670]: Ìrgı̆ nămaì jo neì pustýnė jaù păsı̆ródo.
-    - lg:
+    - lg[type=stanza,n=43]:
       - l[n=671]: Tàs neszwánkus dárbs, kurį Doczýs prăsı̆mánė,
       - l[n=672]: Daùg nesándoru bei waìdu swëtĕ pădárė.
       - l[n=673]: Àk këk wëżlibu kaimýnu, bùtą̆ pălìkę,
@@ -2189,7 +2189,7 @@
       - l[n=678]: Àlĕ prŏwós wertós, kaip reìk', nëkădós nĕsŭláukė.
       - l[n=679]: Żìnom jùk, żĕlĕk Dëwè, kaip músŭ gădýnė,
       - l[n=680]: Àszărăs ìszwerktas po kóju mįdămă, szýpsos.
-    - lg:
+    - lg[type=stanza,n=44]:
       - l[n=681]: Àlĕ nĕżinot dár, dėl kó Doczýs nĕpăteìkia,
       - l[n=682]: Ìr dėl kó jis taìp kasméts su sprágı̆lŭ daùżia.
       - l[n=683]: Sáko daùg żmoniú, kurë jo sziùpı̆nį̆ wálgė,
@@ -2204,7 +2204,7 @@
       - l[n=692]: Ìr slaptóms pardáwus' wìs părăgáudămă sùrbia.
       - l[n=693]: Ó dar tó nĕ gănà, bet ìr waikùs nŭsı̆wédus'
       - l[n=694]: Ìr į tėwo prëglobstį păsŏdìnŭsı̆ maùkia.
-    - lg:
+    - lg[type=stanza,n=45]:
       - l[n=695]: Pérnay trópyjos, kad Kàspars, Blèbĕriŏ tàrnas,
       - l[n=696]: Atlankýt Plauczúną, sù Doczù nŭkĕliáwo;
       - l[n=697]: Bèt ir Krìzas sù Laurù tenjaù nŭwăżiáwo.
@@ -2221,7 +2221,7 @@
       - l[n=708]: Ìrgı̆ răgaìsziu pèr tarnùs atnèszdı̆nŏ kúmams;
       - l[n=709]: Ó sweczeì wisì, margóms eilėms sŭsı̆sėdę,
       - l[n=710]: Lászı̆niŭs ir jukàs Plauczúno girdămı̆ wálgė.
-    - lg:
+    - lg[type=stanza,n=46]:
       - l[n=711]: Taìpgı̆ bĕwálgant ìr kaimýniszkay bĕsı̆dzaùgiant,
       - l[n=712]: Laùras sù Doczù pămăżì nurnėtı̆ păgáwo,
       - l[n=713]: Ìr dėl kiaùlstaldzu pargráutu ìr păgădįtu
@@ -2230,7 +2230,7 @@
       - l[n=716]: Ìrgı̆ bĕwálgant kiaùlstadzu biauriú pămı̆nėti?
       - l[n=717]: Àlĕ dăbókit dár toliaùs, kas czè păsı̆dárė,
       - l[n=718]: Ìr ką Krìzas, séns żmogùs, mums prànĕszė̆ pérnay.
-    - lg:
+    - lg[type=stanza,n=47]:
       - l[n=719]: Pýwo trìs baczkàs Plauczúns, brangeý nŭsı̆pìrkęs,
       - l[n=720]: Į swetlýczą pèr tarnùs įnèszdı̆nŏ greìtay.
       - l[n=721]: Bèt Enskýs, jo klápczus, daùg pălăwótu krágu
@@ -2243,7 +2243,7 @@
       - l[n=728]: Ìr dėl kiaùliu nùmusztu by̆lı̆nėtı̆ prădėjo.
       - l[n=729]: Sztaì, tůjaùs isz żódzu kiaùliszkay păsăkýtu
       - l[n=730]: Pékliszkas razbájus ir niukìms păsı̆kėlė.
-    - lg:
+    - lg[type=stanza,n=48]:
       - l[n=731]: Róds, kad búrs czĕstăwóts jau próto wìsŏ nĕtènka,
       - l[n=732]: Sztaì, tůjaùs jau ìr pădŏrùmo wìsŏ nĕtènka.
       - l[n=733]: Jùk ir páts Plauczúns, kurs czésnį bùwŏ păkėlęs,
@@ -2252,7 +2252,7 @@
       - l[n=736]: Àr dywaì, kad swótai jó, dosnaý prı̆my̆lėti,
       - l[n=737]: Kúmu wëzlibu kalbàs kalbėt nĕnŭmánė?
       - l[n=738]: Ó dar tó nĕ gănà; klausykit, kàs păsı̆dárė.
-    - lg:
+    - lg[type=stanza,n=49]:
       - l[n=739]: Kùbas sù Laurù, garbìngo Kàspărŏ żéntu,
       - l[n=740]: Ìr Mikólas, ànt këmú statýts păkămórė,
       - l[n=741]: Sù kitaìs draugaìs ant Dóczo ùmărŭ szóko.
@@ -2261,7 +2261,7 @@
       - l[n=744]: Kàd wëns nósës, kìts ausiú girdėt nĕpălaìkė.
       - l[n=745]: Ypăczĕy Dóczį taìp neswëtiszkay păgădìno,
       - l[n=746]: Kàd jį jó waikaì lowýj wos pàrnĕszĕ gýwą.
-    - lg:
+    - lg[type=stanza,n=50]:
       - l[n=747]: Pìmė, jó patì, dėl tó dideý nŭsı̆gàndus',
       - l[n=748]: Pùsgywį wyrùtį wìs globódămă wèrkė,
       - l[n=749]: Ìr jo kiaùszę pérmusztą mazgódămă szlůstė.
@@ -2274,7 +2274,7 @@
       - l[n=756]: Gaìliu dár ir lènkiszko dagùtŏ prı̆dėjo.
       - l[n=757]: Tů stubà dėl tó wisà smirdėtı̆ păgáwo,
       - l[n=758]: Ó Doczýs jau wėl pămăżì kribżdėtı̆ prădėjo.
-    - lg:
+    - lg[type=stanza,n=51]:
       - l[n=759]: Pìmė, jó mŏtĕrìszkė, sù kitóms mŏtĕriszkėms
       - l[n=760]: Dzaùgės ìr Doczùką sù gătăwaìs tĕpălėleis
       - l[n=761]: Móstyt tů ir jó żaizdàs aptwért sŭsı̆rìnko;
@@ -2289,7 +2289,7 @@
       - l[n=770]: Ìr czerpès su lëkarstwoms prŏ dŭrìs iszmėtęs,
       - l[n=771]: Tů waikùs, kurë jo stérwą bùwŏ sŭwálę,
       - l[n=772]: Dúkdams wìs ir rėkaudams, kŏnĕ nùmŭszė̆ smìrdas.
-    - lg:
+    - lg[type=stanza,n=52]:
       - l[n=773]: Àk, tărė̆ Sèlmas, bèngı̆ păliáuk su pásăkă sáwo!
       - l[n=774]: Jaù perdaùg dywú! jau aùsys músŭ prăskùdo.
       - l[n=775]: Àk, kur dìngot jús lëtùwiszkos gădy̆nėlės,
@@ -2301,7 +2301,7 @@
       - l[n=781]: Ógı̆ dăbàr, żėlėk Dëvè, tikt gėdă żiŭrėti,
       - l[n=782]: Kàd Lëtùwninkai kaip Wókëczei sŏpăgůti,
       - l[n=783]: Àr su kùrpėms rùdĕny̆j ànt czesniú păsı̆ródo.
-    - lg:
+    - lg[type=stanza,n=53]:
       - l[n=784]: Klùmpės, kaip mes wókiszkay kalbėdămı̆ sákom,
       - l[n=785]: Róds taipjaù Lëtùwninkams nesziót nĕprı̆tìnka;
       - l[n=786]: Nės ir jàs mŭsŭ tėwu tėwai gìrt nĕnŏrėjo;
@@ -2309,7 +2309,7 @@
       - l[n=788]: Ìr puikióku kùrpiu gėdėjos pămı̆nėti,
       - l[n=789]: Ìk Prancúsai jaù potám pas mùs sŭsı̆bástė,
       - l[n=790]: Ìr prancúsiszkas manëras mùs pămŏkìno.
-    - lg:
+    - lg[type=stanza,n=54]:
       - l[n=791]: Tėwai músŭ sĕnì pirm tó nĕtŭrėdămı̆ sziùiliu,
       - l[n=792]: Róds nei pýbĕliŭ neì katgìsmu dár nĕpăžìno.
       - l[n=793]: Jë tikt ìsz galwós szwentùs mokìnŏsı̆ mókslus,
@@ -2328,7 +2328,7 @@
       - l[n=806]: Neì razbáininkai ant áslos wémdămı̆ tąsos,
       - l[n=807]: Kàd wĕmălaì wisùr per wìsą kàrczĕmą̆ tészka.
       - l[n=808]: Taì biaurýbė, kàd plaukaì păsı̆sziáusziă bĕgìrdint.
-    - lg:
+    - lg[type=stanza,n=55]:
       - l[n=809]: Bèt dar tó nĕ gănà. Taipó girtůdămı̆ tėwai
       - l[n=810]: Ìr waikùs glupùs sŭ săwìm į kàrczĕmą̆ wèlka,
       - l[n=811]: Kàd ir jůs tůjaùs isz máżo sùrbt pămŏkįtu;
@@ -2348,7 +2348,7 @@
       - l[n=825]: Ìr potám su szùlmistrais, bėdnaìs năbăgėleis,
       - l[n=826]: Kàd jë sáwŏ dălýko nór, dar bárăsı̆ smìrdai,
       - l[n=827]: Ìr bĕsı̆bárdămı̆ daùg glupú daiktú sŭmĕlůja.
-    - lg:
+    - lg[type=stanza,n=56]:
       - l[n=828]: Paìkius, glúps żmogùs, wargù Tė̆wĕmúsŭ mŏkėdams,
       - l[n=829]: Ìr jo pùsbrolis, nei tëk skaitýt nĕgălėdams,
       - l[n=830]: Szùlmistrus ir sziùiles dár iszpeìkt păsı̆drąsin.
@@ -2360,7 +2360,7 @@
       - l[n=836]: Ó szisaì, isz wìso jaù Welnióp bĕsı̆sùkdams,
       - l[n=837]: Ìr waikùs glupùs į sziùilę siųst nĕnŏrėdams,
       - l[n=838]: Péklai ant garbės jůs użaugįt păżădėjo.
-    - lg:
+    - lg[type=stanza,n=57]:
       - l[n=839]: Paìkus ànt lytaùs, ant gëdros bárăsı̆ Waùszkus.
       - l[n=840]: Wëns tăriă, perszwësù, kitám nĕ gănà szwësýbės;
       - l[n=841]: Sziùilė sziám nĕ gĕrà, o àns pămŏkìnı̆mą̆ peìkia.
@@ -2378,7 +2378,7 @@
       - l[n=853]: Ìr dar tėwu ýr', kurë, mýlėdămı̆ Dëwą,
       - l[n=854]: Pátys nè tiktaý szwentaý ir màndăgĕy èlgias,
       - l[n=855]: Bèt ir sáwŏ nămús, kaip reìk', prı̆dăbódămı̆ wàldo.
-    - lg:
+    - lg[type=stanza,n=58]:
       - l[n=856]: Taìp ant swëto jaù, kaip mùms szwents prànĕsză rásztas,
       - l[n=857]: Wìs pulkélis mëls wërnúju bùwo mażésnis
       - l[n=858]: Kaìp ans dùrnas pùlks nĕlăbúju ìrgı̆ bĕdëwiu.
@@ -2401,7 +2401,7 @@
       - l[n=875]: Ìr, kas dár daugiaùs yr' prámoniu, prămănýti,
       - l[n=876]: Taì wisà wërà baisìngos músŭ gădýnės.
       - l[n=877]: Àk, katrùl jau czėsas músŭ nĕlábs nŭsı̆bástė!
-    - lg:
+    - lg[type=stanza,n=59]:
       - l[n=878]: Més Lëtùwninkai, pirm tó nĕpăżįdămı̆ swëtą,
       - l[n=879]: Dìngojom wis, kàd tikt Szweìstĕrı̆s ir Prancúsas
       - l[n=880]: Żmónės sù swĕtı̆maìs săwŏ mókslais mókă sŭpáiniot,
@@ -2413,7 +2413,7 @@
       - l[n=886]: Bèn nĕsı̆lýgįkim aklëms szio swëtŏ bĕdëwëms,
       - l[n=887]: Ìr n'atbókim, kàd į mùs żiurėdămı̆ blóznai
       - l[n=888]: Szýpsos ìr glupùs sztukiùs prămănýdămı̆ jůkias.
-    - lg:
+    - lg[type=stanza,n=60]:
       - l[n=889]: Taìgı̆ dăbàr asz jùs, kaip wërnas kláps pămŏkįdams,
       - l[n=890]: Neì prancúsiszkay nei wókiszkay nĕpăgýriau;
       - l[n=891]: Bèt tikt búriszkay, kaip draùgas júsŭ păżįstams,
@@ -2434,14 +2434,14 @@
       - l[n=906]: Ìr këk prësz szwentàs Welýkas lìks, nĕnŭmánom.
       - l[n=907]: Àr nĕ gĕraý, kad jaùwargìngay pérżë̆măwoję,
       - l[n=908]: Gréczną̆ zŏpóstėlį mums dár păsı̆lìkŭsį̆ mátom?
-    - lg:
+    - lg[type=stanza,n=61]:
       - l[n=909]: Nùgı̆ dăbàr, jau skìrkı̆mė̆s ìr wapėtı̆ păliáukim!
       - l[n=910]: Ó Dëwĕ důk mums, kàd, szwentès wisàs nŭly̆dėję
       - l[n=911]: Irgı̆ sŭláukę naùjmĕtį beì szwentaý păsı̆dzaùgę,
       - l[n=912]: Wėl sŭsı̆kwëstumbim, kaimýniszkay păsı̆swéikįt.
   - part[n=4]:
     - head: Żëmós Rúpesczei
-    - lg:
+    - lg[type=stanza,n=1]:
       - l[n=1]: Ànt żëmós narsaì jau wėl rustáudămı̆ grįszta,
       - l[n=2]: Ìr sziaurýs păsı̆sziáuszęs wėl mus àtlĕkiă gàndįt.
       - l[n=3]: Weì, kaip ànt ĕżĕrú wisùr langaì păsı̆dáro,
@@ -2456,7 +2456,7 @@
       - l[n=12]: Neì koks búbnas įtemptas dėl pászălŏ trìnka,
       - l[n=13]: Taìp kad gàrsas jó tolì galwój ătsı̆lëpia.
       - l[n=14]: Taìpgı̆ dăbàr jau wėl swëts swéikįt pràdĕdă żëmą.
-    - lg:
+    - lg[type=stanza,n=2]:
       - l[n=15]: Àk, jau bèn ir reìk'; Kalėdu dìdĕlė̆ szwèntė
       - l[n=16]: Ártı̆năs ir Atpèntai nór porýt păsı̆baìgti.
       - l[n=17]: Rùdĕnı̆s, àns dramblýs, perdaùg nemàndăgĕy drėbdams
@@ -2482,7 +2482,7 @@
       - l[n=37]: Ó paskùy dzaugsmùs sziltùs su wásără baìgėm,
       - l[n=38]: Tén pusnýnai sù baltaìs kalnaìs păsı̆dárė,
       - l[n=39]: Ìr żëmà saw żëmiszkas kwëtkàs nŭsı̆pýnė.
-    - lg:
+    - lg[type=stanza,n=3]:
       - l[n=40]: Tìkt dywaì żiurėt, kaipó barzdótı̆ pŭszýnai
       - l[n=41]: Sù săwŏ kůdais gárbănŏtais wisùr păsı̆ródo,
       - l[n=42]: Ìr nei púdĕrů̆ti ponáczei stów į̆sı̆rėmę.
@@ -2496,7 +2496,7 @@
       - l[n=50]: Wėtroms wėl bĕrŭstáujant ìr sŭmı̆szaý bĕsı̆piáujant,
       - l[n=51]: Czè wëns ùrwoj, sáw sziltaý, kaip gál, į̆sı̆gúsztęs,
       - l[n=52]: Ó kitsaì tenaý ant wìrbo tùpı̆ bĕsnáusdams.
-    - lg:
+    - lg[type=stanza,n=4]:
       - l[n=53]: Taip, pauksztélei mëli, jùms, taip mùms păsı̆dárė,
       - l[n=54]: Ìr taip jùs, kaip mùs baugìn braszkėdămı̆ szàlczei.
       - l[n=55]: Jùs żëmós smarkùms į száltą gìrĕ̜ nŭbaìdė,
@@ -2516,7 +2516,7 @@
       - l[n=69]: Ó kad jaù perdaùg żëmys mus pràdĕdă dówyt,
       - l[n=70]: Sztaì, tůjaùs wilnóną sáw ir káilı̆niŭs ìmam,
       - l[n=71]: Àr, tikraý suszìlt, į szìltą pátălą̆ kópam.
-    - lg:
+    - lg[type=stanza,n=5]:
       - l[n=72]: Taìp bĕdŭmójant mán, wilkaì gaujóms sŭsı̆bėgo
       - l[n=73]: Ìr, kaip prátę ýr', tamsój trălăláudămı̆ staùgė.
       - l[n=74]: Àk jus nèprë̆tĕlĕi, ar jaù mėsós păsı̆gèndat?
@@ -2546,7 +2546,7 @@
       - l[n=98]: Jùk ne daùgio reìk', sztai, jaù galwìjŭ nĕtèksim,
       - l[n=99]: Ó potám dar mùs paczùs su gìmı̆nĕ músu,
       - l[n=100]: Mótĕrĕs ìr waikùs wilkaì mė̆sı̆nėt păsı̆drąsįs.
-    - lg:
+    - lg[type=stanza,n=6]:
       - l[n=101]: Ó jus ëgėrės mikįti, jús lë̆sı̆nìnkai,
       - l[n=102]: Kám neszáudot, ką waldónai pàlë̆pė̆ száudyt?
       - l[n=103]: Argı̆ nĕżìnot, kàd nei wëns mălŏnìngs karálius
@@ -2563,7 +2563,7 @@
       - l[n=114]: Lëpas ùszdraustas, puszìs ir drútmĕdį̆ wágia,
       - l[n=115]: Àr, nŭsı̆szówę sù grëkaìs, saw párwĕżă brëdį,
       - l[n=116]: Ìrgı̆ nămėj slaptà mė̆sı̆nėdămı̆ jůkiăsı̆ szèlmei.
-    - lg:
+    - lg[type=stanza,n=7]:
       - l[n=117]: Róds, tărė̆ Prìczkus, sù tăbăkù burùs păwı̆tódams
       - l[n=118]: Ìr, kaip búdas jó, żnairióms į Kùbą̆ żiŭrėdams,
       - l[n=119]: Róds jŭsŭ mýlýsta jau pátys tëk ı̆ssı̆mánot,
@@ -2581,7 +2581,7 @@
       - l[n=131]: Ìr kăszĕlès kitú draugú kytreý sŭmĕdzójęs,
       - l[n=132]: Kaìp koks szů smarkùs păkăwótus trùpŭczŭs ėda,
       - l[n=133]: Ìr kitëms baudzáuninkams tikt gėdą pădáro.
-    - lg:
+    - lg[type=stanza,n=8]:
       - l[n=134]: Kàd koks lénkiszkas ar żýdiszkas bălămútas
       - l[n=135]: Taìp neswëtiszkay klastůt ir wógt ŭssı̆máno,
       - l[n=136]: Àr, kad Wókëtis koks, wókiszkay pămė̆lůdams,
@@ -2590,7 +2590,7 @@
       - l[n=139]: Àlĕ ką̆ mìslyjat, kad tóks tuls ràndăsı̆ smìrdas,
       - l[n=140]: Kùrs lëtùwiszkay kalbėdams pràdĕdă brányt,
       - l[n=141]: Ìr wisaý n'atbój, kad Krìzas Krìzą̆ prı̆gáuna?
-    - lg:
+    - lg[type=stanza,n=9]:
       - l[n=142]: Àk dywaì, kad jaù dėl mús' wërni lë̆sı̆nìnkai
       - l[n=143]: Sù wërnaìs wartaìs wisùr dusáudămı̆ skùndzas.
       - l[n=144]: Jùk baisù klausýt, kad, ànt czesniú sŭsı̆bėgę
@@ -2602,7 +2602,7 @@
       - l[n=150]: Szìs, akìs ŭssı̆pýlęs ìr dukiù swy̆rı̆nėdams,
       - l[n=151]: Ó ansaì, isz wìso jaù po sůlŭ nŭpůlęs
       - l[n=152]: Ìr kŏnĕ mérdėdams, dar búru gìriă wăgýstę.
-    - lg:
+    - lg[type=stanza,n=10]:
       - l[n=153]: Àk tu szwènts Dëwè, kokiągı̆ gădýnĕ̜ sŭláukėm!
       - l[n=154]: Àk kokiós tamsýbės jaù apjékı̆nŏ swëtą!
       - l[n=155]: Póns ir tàrnas jó peklón tikt bėgă tı̆kt bėga.
@@ -2615,7 +2615,7 @@
       - l[n=162]: Ìr kad búrams jë păskŭtìnį lászı̆nă kraùją;
       - l[n=163]: Ó taczaùs linksmaý nŭsı̆pèszt į kàrczĕmą̆ bėga,
       - l[n=164]: Taìp kad pánĕdė̆lyj dar krápszto krùwı̆ną̆ snùkį.
-    - lg:
+    - lg[type=stanza,n=11]:
       - l[n=165]: Àk, tărė̆ jám Enskýs, pas kúmą Krìzą̆ sė̆dėdams,
       - l[n=166]: Prìczkau, tù perdaùg jau mús' isznëkı̆nı̆ búdą;
       - l[n=167]: Ó dėl kó tu taìp Lëtùwninką năbăgėlį
@@ -2633,7 +2633,7 @@
       - l[n=179]: Ó sztai, mùs năbăgùs glupùs - tikt gėdă săkýti -
       - l[n=180]: Jaù tëksýk ir taip asztreý lë̆sı̆nìnks kŏrăwójo,
       - l[n=181]: Kàd, man dìng, klastůt ir wógt jau reìks păsı̆liáuti.
-    - lg:
+    - lg[type=stanza,n=12]:
       - l[n=182]: Róds, tărė̆ Sèlmas, neì vënám klastůt nĕpăreìtis,
       - l[n=183]: Ó Lëtùwninkams dar jů daugiaùs nĕprı̆tìnka.
       - l[n=184]: Żìnot jùk wisì, kaip kóżnas Lëtŭwą̆ gìria,
@@ -2644,7 +2644,7 @@
       - l[n=189]: Taìp kad ìr lëtùwiszkay kalbėdămı̆ wálgo,
       - l[n=190]: Ìr jau rúbais mús', kaip més, wilkėtı̆ păgáwo;
       - l[n=191]: Tìkt margú margìniu dár nesziótı̆ nĕdrįsta.
-    - lg:
+    - lg[type=stanza,n=13]:
       - l[n=192]: Taìgı̆ pămèskim jaù tokį netìkŭsį̆ búdą,
       - l[n=193]: Ó wërnaý wisùr ir wëżlibay păsı̆èlgkim,
       - l[n=194]: Taìp jau ìr swëtı̆mì mus búrai gìrt nĕsı̆gėdės.
@@ -2661,7 +2661,7 @@
       - l[n=205]: Důną kèpt ar ką dzowįt, į kákălį̆ kìsza!
       - l[n=206]: Àr nebút' ir kéras kóks tam reìkălŭi tìkras,
       - l[n=207]: Àr kulélis ìsz żăgărú sausù pădărýtas?
-    - lg:
+    - lg[type=stanza,n=14]:
       - l[n=208]: Jaùgı̆ gănà, kaimýnai, Prìczkus szaùkti păgáwo,
       - l[n=209]: Kàs kriwúlei reìk', iszmánomay păsı̆sákėm;
       - l[n=210]: Bèt, kas zëmai dár reikės, trumpaý păsăkýkim.
@@ -2674,20 +2674,20 @@
       - l[n=217]: Sùsnigts àrgı̆ sŭlýts pas sziltą kákălį̆ tráukës,
       - l[n=218]: Ìr, mylėdams jį, pămăżì jau pràdĕdı̆ snáusti.
       - l[n=219]: Àr nĕ gĕraý, kad Dëws ugnélę mùms dŏwănójo?
-    - lg:
+    - lg[type=stanza,n=15]:
       - l[n=220]: Bèt ir málkos reìk', kad nóri stùbą̆ păszìldyt,
       - l[n=221]: Àr kad kókį sáw prı̆sı̆kaìtęs szùtı̆nı̆ půdą.
       - l[n=222]: Mìslyk tìkt, kas bút' isz mús', kad wìrt ŭssı̆geìdę,
       - l[n=223]: Kàs mums reìk', nei szió nei tó neràstŭmĕ swëte.
       - l[n=224]: Taì jau kiaùliszkus reikėtu jówălŭs ėsti.
-    - lg:
+    - lg[type=stanza,n=16]:
       - l[n=225]: Ógı̆ ką weìktumbim, kad kůczės, pérszălĕ̜ smàrkey,
       - l[n=226]: Úżkăkălės sziltós neràstumbim păsı̆slėpti,
       - l[n=227]: Bèt nei żwėrys ànt laukú bė̆gı̆nėdămı̆ wàrgtum?
       - l[n=228]: Taìgı̆ nĕwéngk, żmogaù, kassýk, kad wìrălą̆ wérdi,
       - l[n=229]: Àr kad szìldytis kytreý pas kákălį̆ tìmsai,
       - l[n=230]: Tám dė̆kăwót, kurs ùgnį táw ir szìlŭmą̆ dáwė.
-    - lg:
+    - lg[type=stanza,n=17]:
       - l[n=231]: Àlĕ nĕpýkit, kàd asz jùms, kaip půlăsı̆ szùlcui,
       - l[n=232]: Dárgı̆ dăugiaùs, kas reìk', trumpù żodzù păsăkýsiu.
       - l[n=233]: Tàs ugnës skaistùms, kursaì mums żìbı̆nă stùbą,
@@ -2712,7 +2712,7 @@
       - l[n=252]: Ìr nei kóks baisùs razbáininks swëtĕ nĕrìmdams,
       - l[n=253]: Jaù păsı̆slept ir szén ir tén tikt bėgă tı̆kt bėga.
       - l[n=254]: Taìgı̆ dăbàr by̆lı̆nėk su jům, taip ùbăgŭ tápęs.
-    - lg:
+    - lg[type=stanza,n=18]:
       - l[n=255]: Àrgı̆ nĕtýrėte, kaip músu mýlı̆mą̆ Krìzą
       - l[n=256]: Pérnay nèprë̆tĕlius Doczýs suswìlı̆nŏ wìsą?
       - l[n=257]: Tàs szirdìngs żmogùs, kaimýnu músŭ bĕbúdams,
@@ -2728,7 +2728,7 @@
       - l[n=267]: Pýpki sáw ŭssı̆dégęsir kirmýt nŭsı̆bástęs,
       - l[n=268]: Náktyj prësz gaidzùs taipó suplészkı̆nŏ pérnay,
       - l[n=269]: Kàd isz námo jó wos kůlas wëns păsı̆lìko.
-    - lg:
+    - lg[type=stanza,n=19]:
       - l[n=270]: Àk mănŏ kaimynùczei, àk szirdìngı̆ brŏlélei!
       - l[n=271]: Àsz dėl Dëwo jùs meldzù, n'użmìrszkı̆tĕ Krìzo;
       - l[n=272]: Ìr kad jùms jisaì păsı̆klónios, ùbăgăis eìdams,
@@ -2738,7 +2738,7 @@
       - l[n=276]: Taì mums pèr pëtùs kasdën dar gál nŭsı̆důti,
       - l[n=277]: Kàd mes kaìp tuls Wókëtis, prastódămı̆ Dëwą,
       - l[n=278]: Szelmystès pădărýt, klastůt ir wógt nĕsı̆liáusim.
-    - lg:
+    - lg[type=stanza,n=20]:
       - l[n=279]: Taigı̆ mŏkįkis, mëls żmogaù, czėsù păsı̆rúpį̆t,
       - l[n=280]: Kaìp żë̆măwójant táw reikės kasdën păsı̆èlgtis.
       - l[n=281]: Szálant bè sziltós stubós iszbút nĕgălėsi,
@@ -2760,7 +2760,7 @@
       - l[n=297]: Bèt ir taì nĕ gĕraý, kad kàrtais kó păsı̆gédęs
       - l[n=298]: Náktyj į tamsiùs kampùs su żìbŭriŭ kópi,
       - l[n=299]: Àr ant waìkpălăikiu, kaip tėwui reìk', nĕdăbóji.
-    - lg:
+    - lg[type=stanza,n=21]:
       - l[n=300]: Prìczkui taìp szaltýsziszkay burùs bĕmŏkìnant,
       - l[n=301]: Sztaì, ant úlyczos toksaì păsı̆dárė szúwis,
       - l[n=302]: Kàd ir żémė sù wisaìs daiktaìs pădrĕbėjo,
@@ -2779,7 +2779,7 @@
       - l[n=315]: Szówė taìp durnaý, kad száudams ùżdėgė̆ skúnę,
       - l[n=316]: Ìr kaimýnu tů wisàs suplészkı̆nŏ tróbas;
       - l[n=317]: Bèt ir Dùrăką̆ pùloks pérplyszdams păgădìno.
-    - lg:
+    - lg[type=stanza,n=22]:
       - l[n=318]: Tókei négandai, żėlėk Dëwè, nŭsı̆tìkus,
       - l[n=319]: Tů pons àmtsrots sù tarnaìs wisaìs păsı̆ródė
       - l[n=320]: Ìr ty̆rı̆nėdams kláusė, kaìp ugnìs păsı̆kėlus'.
@@ -2790,7 +2790,7 @@
       - l[n=325]: Bèt dar tó nĕ gănà. Raspústą reìk' kŏrăwódįt.
       - l[n=326]: Tódėl sù lenciúgais jį drytaý sŭrăkìno,
       - l[n=327]: Ìr sŭrăkįtą taìp ant rógiu nùwĕżė̆ súdyt.
-    - lg:
+    - lg[type=stanza,n=23]:
       - l[n=328]: Pó penkiú dënú daugùms sŭsı̆rìnko súdzu,
       - l[n=329]: Ìr daugýbę liùdı̆nı̆nku tůjaùs sŭwădìno.
       - l[n=330]: Sztaì, tů Mìlkus ìr Enskýs su Blèbĕriŏ żéntu,
@@ -2805,7 +2805,7 @@
       - l[n=339]: Liùdy̆jŏ taìp wertaý, kad pónai liùdı̆mą̆ gýrė.
       - l[n=340]: Bèt Doczýs, girdėkit tìkt, rankàs į̆sı̆rėmęs,
       - l[n=341]: Prówninkams wisëms nei géro nèdăwė̆ żódzo.
-    - lg:
+    - lg[type=stanza,n=24]:
       - l[n=342]: Kàs jums rúp', tărė̆ jìs, jus prówninkai mălŏnìngi,
       - l[n=343]: Kàd warnënos kàrtais àsz ı̆ssı̆kèpt ŭssı̆geìdęs,
       - l[n=344]: Wárnu bèn porélę sáw pëtùms nŭsı̆száuju?
@@ -2822,7 +2822,7 @@
       - l[n=355]: Wárnu bèn keliàs ı̆ssı̆kèpt kasméts nŭsı̆száudau.
       - l[n=356]: Jùk jus pónai mùs burùs jau taìp nŭstĕkénot,
       - l[n=357]: Kàd paskiáus mums ėst reiks żiùrkes ìrgı̆ pĕlėdas.
-    - lg:
+    - lg[type=stanza,n=25]:
       - l[n=358]: Prìczkus su kitaìs szaltýszeis, Blèbĕriŏ sėbrais,
       - l[n=359]: Dýwyjos dideý, dywùs girdėdămı̆ tókius.
       - l[n=360]: Àk, tărė wëns tarp jú, toktù su músŭ gădýne,
@@ -2835,7 +2835,7 @@
       - l[n=367]: Taìgı̆ dăbàr, żiurėkit tìkt, kas mùms păsı̆dárė!
       - l[n=368]: Àk Doczý, Doczý, tu mús' klausýt nĕnŏrėjei,
       - l[n=369]: Kàd tăwĕ̜ més wisì wërnaý graudéndămı̆ bárėm.
-    - lg:
+    - lg[type=stanza,n=26]:
       - l[n=370]: Róds, żėlėk Dëwè, mus' wëszpatys mălŏnìngi
       - l[n=371]: Búrą, wìs pı̆nį̆gú daugiaùs norėdămı̆, lùpa.
       - l[n=372]: Kàd doczýs porélę wárnu kèpt nŭsı̆száuja,
@@ -2845,7 +2845,7 @@
       - l[n=376]: Dėl bėdós juk kàrtais daùg dywú nŭsı̆důda.
       - l[n=377]: Tìkt permër nĕgĕraý, kad kůczės glúps săwăwálninks
       - l[n=378]: Száudýdams durnaý kitëms suplészkı̆nŏ námą.
-    - lg:
+    - lg[type=stanza,n=27]:
       - l[n=379]: Taìp wisëms bĕsı̆skùndzant wákmistras ătsı̆bástė,
       - l[n=380]: Ìr szaltýsziams į Kărăliáuczų pàlë̆pė̆ réngtis.
       - l[n=381]: Tů pilwóts Kurpiúns, wyriáusias jú păkămórė,
@@ -2858,7 +2858,7 @@
       - l[n=388]: Neì koks skruzdėlýns wisùr kribżdėtı̆ păgáwo.
       - l[n=389]: Róds taip reìkiă pădónams pónams sáwŏ păslúżyt,
       - l[n=390]: Ìr atlìkt wërnaý, kad jůs ju spáudză mălónė.
-    - lg:
+    - lg[type=stanza,n=28]:
       - l[n=391]: Àk, tărė Laùras, wëżlibus żodzùs păsăkýdams,
       - l[n=392]: Àk, katrùl jau czėsas músŭ nĕlábs nŭsı̆bástė!
       - l[n=393]: Kóżnas jùk żioplýs, wargdëniu nùgărą̆ lùpdams,
@@ -2870,7 +2870,7 @@
       - l[n=399]: Rėkaudams wis neì gaidýs săwŏ skiaùtŭrĕ̜ ródo.
       - l[n=400]: Àk, kaip màż tokiú, kurë, waldýdămı̆ swëtą,
       - l[n=401]: Gaìlis sáwŏ żmŏniú, kaip reìk', ir àtmĕnă Dëwo.
-    - lg:
+    - lg[type=stanza,n=29]:
       - l[n=402]: Tù, tărė̆ Prìczkus jám, saugókis Kàspărą̆ kìbįt,
       - l[n=403]: Ìr tylėk, kad dùmczus jó taw mùsză pĕr aùsį.
       - l[n=404]: Dùmplĕs ýr' naudìngas dáikts į kámı̆ną̆ pústi,
@@ -2880,7 +2880,7 @@
       - l[n=408]: Àr blogà warlė prësz liútą dìdĕlį̆ sténgtis?
       - l[n=409]: Taìgı̆ dăbókis sù ponù păsı̆pútŭsiŭ szútyt,
       - l[n=410]: Ìr laikýk săwŏ snùkį, kàd kalbój nĕpărìktu.
-    - lg:
+    - lg[type=stanza,n=30]:
       - l[n=411]: Tůs żodzùs wisëmsgı̆ bëgìrdint ìsztărė̆ Prìczkus,
       - l[n=412]: Ìr, į káilı̆niŭs ìszwerstus tůjaùs į̆sı̆nėręs,
       - l[n=413]: Àmtsroto jăwĕliùs iszkùltus į Kărăliáuczų
@@ -2907,7 +2907,7 @@
       - l[n=434]: Tódėl jìs kasrýts, kad jaù wël użtĕkă sáulė,
       - l[n=435]: Klúpodams, kaip tìkras nárs, pas átdărą̆ skrýnę
       - l[n=436]: Ùż iszlaìkymą skarbú Tĕwĕmús' păsı̆skaìto.
-    - lg:
+    - lg[type=stanza,n=31]:
       - l[n=437]: Tódėl ìrgı̆ dăbàr szaltýsziams į Kărăliáuczų
       - l[n=438]: Dérgiant sù karáliszkais grudais nŭkĕliáwus,
       - l[n=439]: Wèrkė jìs kasdën ir náktyj rìmt nĕgălėjo.
@@ -2939,7 +2939,7 @@
       - l[n=465]: Tëk nŭsı̆pèlnom, kàd wërnaý atlëkămĕ slúżbą!
       - l[n=466]: Jùk jau, kàs tikt nór, tas búriszką nĕbăgėlį
       - l[n=467]: Stùmdo szén ir tén, nei kókį szùnį̆ nĕwèrtą.
-    - lg:
+    - lg[type=stanza,n=32]:
       - l[n=468]: Tìcz, tărė̆ Sélmas, nè perdaùg dėl tó nŭsı̆mįkim!
       - l[n=469]: Jùk be Dëwo swëte nëks negál nŭsı̆důti.
       - l[n=470]: Pónai żémės sziós negál be jó pŏnăwóti,
@@ -2951,7 +2951,7 @@
       - l[n=476]: Gėdėtis wyżéliu búriszku nĕprı̆wálo,
       - l[n=477]: Kàd tikt wëżlibay, kaip reìk', atlëkt săwŏ dárbus,
       - l[n=478]: Ìr labiaùs, kad jìs szirdìngay bìjŏsı̆ Dëwo.
-    - lg:
+    - lg[type=stanza,n=33]:
       - l[n=479]: Tù săwăwálninke didpìlwi, wìs păsı̆sziáuszęs
       - l[n=480]: Ìr nei żaìbas kóks żaibůdams gàndı̆nı̆ búrą,
       - l[n=481]: Àr tu nè taipjaù, kaip bëdzus tóks, prăsı̆dėjei,
@@ -2969,7 +2969,7 @@
       - l[n=493]: Tìcz tikt, ìk sudzà szio swëto táw păsı̆ródys,
       - l[n=494]: Ìr ponùs taip kaìp ir mùs sudóp sŭwëdìnęs
       - l[n=495]: Àlgą këkwënám, kaip pèlnęs ýr', sŭdăwádys.
-    - lg:
+    - lg[type=stanza,n=34]:
       - l[n=496]: Ó jus wargdënėlei, jús wyżótı̆ năbágai,
       - l[n=497]: Jús baudzaúninkai, bernai ir kaìmĕniŭ kèrdzei,
       - l[n=498]: Ìr kas dár daugiaùs yr' sténanczu năbăgėliu,
@@ -2991,7 +2991,7 @@
       - l[n=514]: Ìr Welniú wardùs kasdën rokůdămı̆ kéikia.
       - l[n=515]: Dëws këkwëną kàrtą ràs, kaip ýr' păżădėjęs,
       - l[n=516]: Ìr kożnám atlýgįs, kaìp jis ýr' nŭsı̆pèlnęs.
-    - lg:
+    - lg[type=stanza,n=35]:
       - l[n=517]: Jaùgı̆ gănà sziamsýk waitójus ìrgı̆ dĕjáwus!
       - l[n=518]: Skìrkı̆mės ìrgı̆ nămó tësióg wandrůt n'ŭssı̆mìrszkim.
       - l[n=519]: Tìkt girdėkit, kaìp ant mús' jau bárăsı̆ móters,
@@ -3003,7 +3003,7 @@
       - l[n=525]: Gàusit, kàs jums reìk', ir szèndën dár prı̆sı̆ėsit.
       - l[n=526]: Żìnom jùk, kaip reìk' bandélę mýlı̆mą̆ sótįt,
       - l[n=527]: Ìr këk sýkiu ję per dëną reìkiă păgìrdyt.
-    - lg:
+    - lg[type=stanza,n=36]:
       - l[n=528]: Róds, tărė̆ Laùras, róds taip reìk' gywént găspădórëms,
       - l[n=529]: Kàd jë nór gywént kytreý ir pìlnăwŏt úkius.
       - l[n=530]: Wókëczei Lëtùwninką per drìmĕlį̆ laìko,
@@ -3018,7 +3018,7 @@
       - l[n=539]: Kàs jums lëpė mùs ir żmónes músŭ pănëkįt?
       - l[n=540]: Àr nĕgălėjot tén păsı̆lìkt, kur jùs nŭpĕrėjo
       - l[n=541]: Ìr warlès bei rùpuiżes jus ėst pămŏkìno?
-    - lg:
+    - lg[type=stanza,n=37]:
       - l[n=542]: Aì, tărė Sèlmas, tù perdaùg păsăkaì Prancúzams.
       - l[n=543]: Jùk żinaì, këkwëns żioplýs tur sáwŏ dăwádą.
       - l[n=544]: Més Lëtùwninkai barszczùs ir sziùpı̆nį̆ skánų
@@ -3030,7 +3030,7 @@
       - l[n=550]: Ó Lëtùwninks żìrniu beì lăszı̆niú prı̆sı̆wálgęs,
       - l[n=551]: Kaìp krikszczónims reìk', dosnìngo n'àtmĕnă Dëwo,
       - l[n=552]: Taì taip wëns kaip kits newèrts, kad plùtą̆ nŭkąstu.
-    - lg:
+    - lg[type=stanza,n=38]:
       - l[n=553]: Żális sù dwyliù, su márgiu ìrgı̆ sŭ pàlsziu
       - l[n=554]: Ýna, kàd nor ėst, szaudú pămătýdămı̆ kúlį;
       - l[n=555]: Ó kad ìsz tikrós szirdës jëms prìmĕtı̆ plůstą,
@@ -3057,7 +3057,7 @@
       - l[n=576]: Àlĕ sŭ pìlnoms sáujoms mùs wis szért nĕżădėjo.
       - l[n=577]: Taìgı̆ nĕreìk' tůjaùs nŭsı̆mįt, kad músŭ zŏpóstas
       - l[n=578]: Ànt laukú menks ródos àr păsı̆máżı̆nă greìtay.
-    - lg:
+    - lg[type=stanza,n=39]:
       - l[n=579]: Jùk ne pìrmas méts, kaip més gywéndămı̆ wàrgstam,
       - l[n=580]: Ìrgı̆ nĕ pìrmas sýkis jaù, kaip sziùpı̆nį̆ wérdam.
       - l[n=581]: Daùg iszléidom jaù skupú pawásăriŏ czėsu,
@@ -3069,14 +3069,14 @@
       - l[n=587]: Dár ir jùms ateìs wargìngos júsŭ dë̆nélės,
       - l[n=588]: Kàd pămăżì, lėlès ir żìrgus sáwŏ pămétę,
       - l[n=589]: Ìsz bėdós pelnýtis ką nŭsı̆twérsı̆tĕ dárbus.
-    - lg:
+    - lg[type=stanza,n=40]:
       - l[n=590]: Més surùkę dëdai, mésgı̆ kŭprótı̆ năbágai,
       - l[n=591]: Més taipjaù kaip jús ant úlyczu szŏkı̆nėjom,
       - l[n=592]: Ìr taipjaù kaip jús săwŏ jáuną wásărą̆ szwèntėm.
       - l[n=593]: Àr tikėjomės, suláukę rùdĕnį̆ kùmpą,
       - l[n=594]: Taìp umaý nŭsı̆dówyt ìrgı̆ păblógt taip greìtay?
       - l[n=595]: Àk, kaip wéikey żmógiszkos nudýlă dë̆néles!
-    - lg:
+    - lg[type=stanza,n=41]:
       - l[n=596]: Kóżnas wëns żmogùs, taip póns kaip búrs, prăsı̆dėdams
       - l[n=597]: Ìr wargìngay ùżgimdams tikt pùmpŭrą̆ ródo,
       - l[n=598]: Ìk potám tikraý, kaip dúszei reìk', prı̆sı̆żìndęs
@@ -3096,7 +3096,7 @@
       - l[n=612]: Ką mums náujas méts ir wėl atkópdămă sáulė,
       - l[n=613]: Kàd mus swëte Dëws laikýs, toliaùs sŭdăwádys,
       - l[n=614]: Dár iksziól nĕnŭmánom ìr żinotı̆ nĕgálim.
-    - lg:
+    - lg[type=stanza,n=42]:
       - l[n=615]: Ànt, laukaì szaltì, kuriú mes nùgărą̆ mìnksztą
       - l[n=616]: Wásărą̆ rėżėm ìr grŭdĕliùs bėgı̆nėdămı̆ bàrstėm,
       - l[n=617]: Dár sŭ lĕdaìs ir sù pusnýnais mëgt ŭssı̆klóję,
@@ -3106,7 +3106,7 @@
       - l[n=621]: Wásara ródysis ir més wėl szìlŭmą̆ jaùsim.
       - l[n=622]: Czéso reìk, to czėso tìkt kantreý pălŭkėkim,
       - l[n=623]: Ìr, ik dìrwos wėl ką důs, pălŭkėt nėpăìlskim.
-    - lg:
+    - lg[type=stanza,n=43]:
       - l[n=624]: Ó tu mëls Dëwè, tu dàngiszkas gĕrădėji!
       - l[n=625]: Tù pirm ámżiu, kaip mes dár dumót nĕgălėjom,
       - l[n=626]: Jaù iszmìslyjei, kaip kàrtą més prăsı̆dėsim,
@@ -3118,7 +3118,7 @@
       - l[n=632]: Sztaì, wėl czėsai sénojo păsı̆baigŭsiŏ méto
       - l[n=633]: Ìr wisókios prëspaudos su táwŏ păgálba
       - l[n=634]: Jaù nŭsı̆dówyjo, bëdzùs mus raùdı̆nĕ̜ tánkey.
-    - lg:
+    - lg[type=stanza,n=44]:
       - l[n=635]: Àk nëkìngi jús dzaugsmaì sziltós wăsărėlės!
       - l[n=636]: Jús żolélės blìzganczos su sáwŏ grŏżýbėms!
       - l[n=637]: Ó ir jús pauksztélei sù saldzeìs ălăsėleis!
@@ -3137,7 +3137,7 @@
       - l[n=650]: Ìr daug prákaito per wìsą wásărą̆ mëlą
       - l[n=651]: Dìrbdămı̆ nù karsztú weidéliu músŭ nŭszlůstėm,
       - l[n=652]: Ìk zŏpŏstėliui ką sŭsı̆rìnkom ìr păkăwójom.
-    - lg:
+    - lg[type=stanza,n=45]:
       - l[n=653]: Taìpgı̆ dăbàr jau rúdĕnį̆ sù swodbóms nŭly̆dėję
       - l[n=654]: Ìr kaimýniszkay bei wëżlibay păsı̆dzaùgę,
       - l[n=655]: Rúpį̆kı̆mės zopóstą dár păsı̆lìkŭsį̆ czėdyt,
@@ -3151,7 +3151,7 @@
       - l[n=663]: Ìr jau wėwersei linksmaý lakstýdămı̆ czýpsi.
       - l[n=664]: Weì, wăsărėlė jaù pămăżì prı̆sı̆ártı̆nă mëla,
       - l[n=665]: Ìr, kas músŭ zŏpóstams reìks, wėl żádă părúpįt.
-    - lg:
+    - lg[type=stanza,n=46]:
       - l[n=666]: Bèt bĕ tăwęs, tu dàngiszkasis músŭ tė̆tùti,
       - l[n=667]: Nëks negál mims tèkt, ką mëla wásără żáda.
       - l[n=668]: Ką mums máczys prìprowos, ką músŭ triŭsélei,

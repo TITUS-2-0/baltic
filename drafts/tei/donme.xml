@@ -27,7 +27,7 @@
 		<body>
 			<div n="1" xml:id="part-1" type="part" data-level="1">
 				<head>Pawasario Linksmybės</head>
-				<lg xml:id="part-1-lg-1">
+				<lg type="stanza" n="1" xml:id="part-1-lg-1">
 					<l n="1" xml:id="part-1-lg-1-l-1">Iau Sauléle wėl atkópdămă buddı̆nŏ Swieta</l>
 					<l n="2" xml:id="part-1-lg-1-l-2">Ir Ʒ́iemôs ſʒaltôs Truſùs pargráudămă jůkės.</l>
 					<l n="3" xml:id="part-1-lg-1-l-3">Sʒalcʒû Prámonės ſŭ Lĕdaìs ſugaìſʒtı̆ păgâwo;</l>
@@ -71,7 +71,7 @@
 					<l n="41" xml:id="part-1-lg-1-l-41">O ſʒtai ir taipô parwàrgęs niek's nĕ dĕjáwo;</l>
 					<l n="42" xml:id="part-1-lg-1-l-42">Bèt wissì wissùr sŭmı̆ſʒày ſʒŏkı̆nėdămı̆ dʒ̇augės -</l>
 				</lg>
-				<lg xml:id="part-1-lg-2">
+				<lg type="stanza" n="2" xml:id="part-1-lg-2">
 					<l n="43" xml:id="part-1-lg-2-l-43">Gandras ſù kittais Kaimynais pàrlĕkĕ linksmas,</l>
 					<l n="44" xml:id="part-1-lg-2-l-44">Ir găſpădóriſʒkay ant Kraiko tárſʒkı̆nŏ Snápą,</l>
 					<l n="45" xml:id="part-1-lg-2-l-45">Taip bĕſı̆dʒ̇augiant jâm ſʒtai jau ir jo Găſpădinnė,</l>
@@ -95,7 +95,7 @@
 					<l n="63" xml:id="part-1-lg-2-l-63">Tù Ʒ́mogaù nieking's! mokįkis cʒè păſı̆kákįt,</l>
 					<l n="64" xml:id="part-1-lg-2-l-64">Ir păſı̆ſótindams gardʒ́iaus n'uʒ́mirſʒk ſăwŏ Diewą -</l>
 				</lg>
-				<lg xml:id="part-1-lg-3">
+				<lg type="stanza" n="3" xml:id="part-1-lg-3">
 					<l n="65" xml:id="part-1-lg-3-l-65">Krúmus ir Girriàs wiſſokios óſʒı̆nŏ Dainos;</l>
 					<l n="66" xml:id="part-1-lg-3-l-66">O Laukùs wiſſùr bey Piewas ſkambı̆nŏ Garſai.</l>
 					<l n="67" xml:id="part-1-lg-3-l-67">Gégŭʒ̇ė̆s ir Strazdai ſŭmı̆ſʒay lakſtydămı̆ ʒ̇aidė,</l>
@@ -112,7 +112,7 @@
 					<l n="78" xml:id="part-1-lg-3-l-78">Ʒ́wirblei ſù Waikaìs Ʒ́odʒ́iùs girdėdămı̆ tókius:</l>
 					<l n="79" xml:id="part-1-lg-3-l-79">Rôds tărĕ, můſ Gı̆mı̆nė taipjau wiſſ ſʒlówı̆nă Diewą -</l>
 				</lg>
-				<lg xml:id="part-1-lg-4">
+				<lg type="stanza" n="4" xml:id="part-1-lg-4">
 					<l n="80" xml:id="part-1-lg-4-l-80">Bèt Lakſʒtingălă dâr ikſʒôl' kytrey păſı̆ſėpuſ',</l>
 					<l n="81" xml:id="part-1-lg-4-l-81">Láuke wìſſ ı̆kı̆ kóʒ́nas bùs ſăwŏ Daìnă păbaigęs.</l>
 					<l n="82" xml:id="part-1-lg-4-l-82">Tódėl jì paſkiáus kasmét's wìſſ pràdĕdă ſʒúkaut'</l>
@@ -143,7 +143,7 @@
 					<l n="107" xml:id="part-1-lg-4-l-107">Kàd rykáudămă tù ſăwŏ ſáldû pàkĕlı̆ Balſą,</l>
 					<l n="108" xml:id="part-1-lg-4-l-108">Ir kinkyt', paplàkt'; nŭwăʒ́ůt' iſʒbuddı̆nı̆ Iurgį!</l>
 				</lg>
-				<lg xml:id="part-1-lg-5">
+				<lg type="stanza" n="5" xml:id="part-1-lg-5">
 					<l n="109" xml:id="part-1-lg-5-l-109">Kàd prieſʒ Wákără tù păſı̆ſlėpuſ' pràdĕdı̆ jůktis,</l>
 					<l n="110" xml:id="part-1-lg-5-l-110">O més daug prı̆ſı̆wargę jau į Pátălă wirſtam';</l>
 					<l n="111" xml:id="part-1-lg-5-l-111">Tai tù tarp kittû Paukſʒtéliu, néy Kărăliene,</l>
@@ -156,7 +156,7 @@
 					<l n="118" xml:id="part-1-lg-5-l-118">Ak! Ir taip Ʒ́monû daugſyk taipjaù nŭſı̆důda,</l>
 					<l n="119" xml:id="part-1-lg-5-l-119">Kàd ant Swieto ſʒio Mainû tikray pădăbójam'.</l>
 				</lg>
-				<lg xml:id="part-1-lg-6">
+				<lg type="stanza" n="6" xml:id="part-1-lg-6">
 					<l n="120" xml:id="part-1-lg-6-l-120">Dikſas, ans Ʒ́ôplys, Mieſtè diddey păſı̆pútęs,</l>
 					<l n="121" xml:id="part-1-lg-6-l-121">Ir ſù Rûbais bliʒgancʒeis kasdien ı̆ſſı̆rėdęs,</l>
 					<l n="122" xml:id="part-1-lg-6-l-122">Néy Diewaitis kôks tarp Búrû Skiautŭrĕ̜ ródo;</l>
@@ -169,7 +169,7 @@
 					<l n="129" xml:id="part-1-lg-6-l-129">Po praſtù ſăwŏ Stógu néy Lakſʒtingălă cʒáuſʒka,</l>
 					<l n="130" xml:id="part-1-lg-6-l-130">Kàd ſʒirdingay jis ſăwŏ Diewą pràdĕdă gárbint -</l>
 				</lg>
-				<lg xml:id="part-1-lg-7">
+				<lg type="stanza" n="7" xml:id="part-1-lg-7">
 					<l n="131" xml:id="part-1-lg-7-l-131">Tù, Paukſʒtéli miel's! nè póniſʒkay priſı̆wálgai.</l>
 					<l n="132" xml:id="part-1-lg-7-l-132">Riebûs múſ' Lăſʒı̆nei bey Déſʒros tâw nĕ pătinka,</l>
 					<l n="133" xml:id="part-1-lg-7-l-133">Ir keptû bey wirtû Walgiû múſŭ nĕ nóri.</l>
@@ -185,7 +185,7 @@
 					<l n="143" xml:id="part-1-lg-7-l-143">Kàd dainůdămă dâr ilgiaùs ſăwŏ Wáſără ſʒwéſi,</l>
 					<l n="144" xml:id="part-1-lg-7-l-144">Ir: Iurgùtt', kinkyk, paplàk, nŭwăʒ́ůk păſăkyſi -</l>
 				</lg>
-				<lg xml:id="part-1-lg-8">
+				<lg type="stanza" n="8" xml:id="part-1-lg-8">
 					<l n="145" xml:id="part-1-lg-8-l-145">Tù nieking's Ʒ́mogaù! mokykis cʒè păſı̆kákint',</l>
 					<l n="146" xml:id="part-1-lg-8-l-146">Kàd tâw kartais trópijaſ' ſkupày prı̆ſı̆wálgit'.</l>
 					<l n="147" xml:id="part-1-lg-8-l-147">I Paukſʒcʒùs ʒ́urėk! wien's prâstą Kirmı̆ną kramto,</l>
@@ -197,7 +197,7 @@
 					<l n="153" xml:id="part-1-lg-8-l-153">O tù dâr nurnì, kàd, kartais álkăną Dieną,</l>
 					<l n="154" xml:id="part-1-lg-8-l-154">Ar ſkupùs Cʒeſùs ſuláukęs, Sʒuppı̆nį̆ grámdai? -</l>
 				</lg>
-				<lg xml:id="part-1-lg-9">
+				<lg type="stanza" n="9" xml:id="part-1-lg-9">
 					<l n="155" xml:id="part-1-lg-9-l-155">Taip ſŭmı̆ſʒay bĕſı̆jůkiant, ſʒtai Uʒ́imm's păſı̆kėlė</l>
 					<l n="156" xml:id="part-1-lg-9-l-156">Ir tůjaus Errélis rėkaudams păſı̆ródė.</l>
 					<l n="157" xml:id="part-1-lg-9-l-157">Ticʒ tărĕ jis, Pulkaì ſŭſı̆rìnkę liaukı̆tė̆s óſʒti,</l>
@@ -227,7 +227,7 @@
 					<l n="181" xml:id="part-1-lg-9-l-181">"Ar pàs Ʒ́mones ant Kiemû cʒypſėdămı̆ burzda!</l>
 					<l n="182" xml:id="part-1-lg-9-l-182">"O wey kóʒ́ną Diew's wiſſ ſú Păſı̆mėgı̆mŭ ſótin'.</l>
 				</lg>
-				<lg xml:id="part-1-lg-10">
+				<lg type="stanza" n="10" xml:id="part-1-lg-10">
 					<l n="183" xml:id="part-1-lg-10-l-183">"Kartais trópijaſ' ſuláukt' ir álkăną̆ Dieną,</l>
 					<l n="184" xml:id="part-1-lg-10-l-184">"Kàd wiſſùr perdaug Baiſybės Dárgănŭ téſʒka,</l>
 					<l n="185" xml:id="part-1-lg-10-l-185">"Ar kàd dėl Ʒ́mogaus Griekû Diew's wárgı̆nă Swietą.</l>
@@ -241,7 +241,7 @@
 					<l n="193" xml:id="part-1-lg-10-l-193">"Sù Tinklais glupiems Draugâms Iſʒkádą̆ pădáro;</l>
 					<l n="194" xml:id="part-1-lg-10-l-194">"Àr ſù prówita Pucʒkà tikt mùſʒă tı̆kt mùſʒa -</l>
 				</lg>
-				<lg xml:id="part-1-lg-11">
+				<lg type="stanza" n="11" xml:id="part-1-lg-11">
 					<l n="195" xml:id="part-1-lg-11-l-195">"Ir tarp Paukſʒcʒû rôds tûl's kytras randăſı̆ Sukcʒus</l>
 					<l n="196" xml:id="part-1-lg-11-l-196">"Kùrs gardʒey prı̆ſı̆ėſt', ſlaptôm's ſăwŏ nùmŭſʒă Draugą.</l>
 					<l n="197" xml:id="part-1-lg-11-l-197">"Wánag's, ans Klaſtórius, ir Pelėdă jŏ Dumcʒus,</l>
@@ -250,7 +250,7 @@
 					<l n="200" xml:id="part-1-lg-11-l-200">"Bèt tokſaì Raʒbáinink's dâr tàrp múſ' nĕſı̆rádo,</l>
 					<l n="201" xml:id="part-1-lg-11-l-201">"Kaip Ʒ́mogùs tûl's yr', kàd jìs ſmăgŭráut' ı̆ſʒſı̆ʒója.</l>
 				</lg>
-				<lg xml:id="part-1-lg-12">
+				<lg type="stanza" n="12" xml:id="part-1-lg-12">
 					<l n="202" xml:id="part-1-lg-12-l-202">Taip bĕſı̆páſăkŏjant, Dywû Dywaì păſı̆dárė.</l>
 					<l n="203" xml:id="part-1-lg-12-l-203">Balſas, néy Nůſkęſtancʒo ſuſʒukkŏ nĕſʒwánkey,</l>
 					<l n="204" xml:id="part-1-lg-12-l-204">Ir wiſſ gélbėkit, ak! gélbėkit' pădŭſėjo.</l>
@@ -260,7 +260,7 @@
 					<l n="208" xml:id="part-1-lg-12-l-208">Iſʒ biaurû Păſʒălliû pămăʒ́ì păſı̆dráſı̆nŏ lyſti,</l>
 					<l n="209" xml:id="part-1-lg-12-l-209">Ìr tikraý tı̆rı̆nėt', kôks Strókas tén nŭſı̆tikko.</l>
 				</lg>
-				<lg xml:id="part-1-lg-13">
+				<lg type="stanza" n="13" xml:id="part-1-lg-13">
 					<l n="210" xml:id="part-1-lg-13-l-210">Sʒtai wien's Pón's, puikey redyt's (tikt Gėdă ſăkyti)</l>
 					<l n="211" xml:id="part-1-lg-13-l-211">Miſlik tikt, aukſʒcʒáuſû Pónû wiens prı̆ſı̆ėdęs,</l>
 					<l n="212" xml:id="part-1-lg-13-l-212">Ir wiſſókiû Rincʒwyniû ſwĕtı̆mû prı̆ſı̆kóſʒęs,</l>
@@ -272,7 +272,7 @@
 					<l n="218" xml:id="part-1-lg-13-l-218">Ʒ́innôm' juk wiſſì, kaip Pónai kéikdămı̆ rėkia;</l>
 					<l n="219" xml:id="part-1-lg-13-l-219">Bèt ir Bûrai jau nů jû mokìnnăſı̆ rėkaut'</l>
 				</lg>
-				<lg xml:id="part-1-lg-14">
+				<lg type="stanza" n="14" xml:id="part-1-lg-14">
 					<l n="220" xml:id="part-1-lg-14-l-220">Kàs tâw Biedʒ́au, kenk', Sʒikſʒnóſparnis tı̆rı̆nėdams,</l>
 					<l n="221" xml:id="part-1-lg-14-l-221">Irgı̆ nŭſkúſdams Póną tą păſı̆dráſı̆nŏ kláuſti?</l>
 					<l n="222" xml:id="part-1-lg-14-l-222">Ar Gumbù ſergì perdaugel Kábı̆ăr ėdęs?</l>
@@ -281,7 +281,7 @@
 					<l n="225" xml:id="part-1-lg-14-l-225">Sù ſăwŏ Puſbroleis, kaip tù, pilwůdămı̆ ſirgo,</l>
 					<l n="226" xml:id="part-1-lg-14-l-226">Ik paſkiáus jie pérplyſʒo ir nùmı̆rrĕ baiſey.</l>
 				</lg>
-				<lg xml:id="part-1-lg-15">
+				<lg type="stanza" n="15" xml:id="part-1-lg-15">
 					<l n="227" xml:id="part-1-lg-15-l-227">Sʒtai Didpilwis ſʒittas tą Graudénı̆mą̆ jauſdams,</l>
 					<l n="228" xml:id="part-1-lg-15-l-228">Dâr daugiaùs iſʒputto ir durnůtı̆ prădėjo:</l>
 					<l n="229" xml:id="part-1-lg-15-l-229">Nės jis tů Plaukû nů Kiauſʒės nùpĕſʒĕ Plůſʒtus;</l>
@@ -301,7 +301,7 @@
 					<l n="243" xml:id="part-1-lg-15-l-243">Kàd Oraì pikti, kàsnakt's dâr prànĕſʒă Swietui,</l>
 					<l n="244" xml:id="part-1-lg-15-l-244">Ir dèl to Ʒ́mogaus Tamſôj' duſáudămă werkia -</l>
 				</lg>
-				<lg xml:id="part-1-lg-16">
+				<lg type="stanza" n="16" xml:id="part-1-lg-16">
 					<l n="245" xml:id="part-1-lg-16-l-245">Ak! tărĕ Lauras rymodam's ant ſtrippı̆niŏ ſàwo,</l>
 					<l n="246" xml:id="part-1-lg-16-l-246">Wiſſ Niekaì, kàd tûl's Ʒ́oplys ſù Blebbĕriŭ wápa,</l>
 					<l n="247" xml:id="part-1-lg-16-l-247">Bûk Pillónys wiſſ linkſmày kasdien' prı̆ſı̆wálgą,</l>
@@ -314,7 +314,7 @@
 					<l n="254" xml:id="part-1-lg-16-l-254">Taip glupày nè ʒaunija, kàd Sʒuppı̆nį̆ ſʒuttin';</l>
 					<l n="255" xml:id="part-1-lg-16-l-255">Ar, kàd jie wieſʒėt' naujàs Wyʒ́às prăſı̆máno -</l>
 				</lg>
-				<lg xml:id="part-1-lg-17">
+				<lg type="stanza" n="17" xml:id="part-1-lg-17">
 					<l n="256" xml:id="part-1-lg-17-l-256">Iùk tikt wien's Glupùmm's, kàd Milkus Káſpărŏ Tarnas</l>
 					<l n="257" xml:id="part-1-lg-17-l-257">Póniſʒkay păſı̆ródidam's koʒ́nâm păſı̆turſin',</l>
 					<l n="258" xml:id="part-1-lg-17-l-258">Ir Burùs praſtùs per Kialu Iówălą̆ laiko.</l>
@@ -333,7 +333,7 @@
 					<l n="271" xml:id="part-1-lg-17-l-271">Nè tújaus, kàd tù liepì Keppurrĕ̜ nŭmáuja,</l>
 					<l n="272" xml:id="part-1-lg-17-l-272">Ir, kaip nóri tù, jiſſaì nè nôr păſı̆klónot'.</l>
 				</lg>
-				<lg xml:id="part-1-lg-18">
+				<lg type="stanza" n="18" xml:id="part-1-lg-18">
 					<l n="273" xml:id="part-1-lg-18-l-273">Snargliau! eik pirmà mokinkis Kákălį̆ ſʒildit',</l>
 					<l n="274" xml:id="part-1-lg-18-l-274">Ir ſăwŏ Póno ſùteptus Sŏpăgùs nuſʒlůſtit'.</l>
 					<l n="275" xml:id="part-1-lg-18-l-275">Iùk ʒ́innaì, kaip jis tăwĕ dár per Drimĕlį̆ laiko,</l>
@@ -356,7 +356,7 @@
 					<l n="292" xml:id="part-1-lg-18-l-292">Ticʒ tiktay Ponât! măʒ́ŭ wėl tèks ʒ́ingı̆nĕ ʒ́engti,</l>
 					<l n="293" xml:id="part-1-lg-18-l-293">Ir, kàd Diew's kŏrăwôs, dâr werkdams Ubbăgăis eisi.</l>
 				</lg>
-				<lg xml:id="part-1-lg-19">
+				<lg type="stanza" n="19" xml:id="part-1-lg-19">
 					<l n="294" xml:id="part-1-lg-19-l-294">Rôds, tărĕ Pricʒkus, jáun's, Ʒ́mogùs durnaý dŭkı̆nėdams</l>
 					<l n="295" xml:id="part-1-lg-19-l-295">Néy Sidábras gyw's Stiklè mudrèy ſʒŏkı̆nėja,</l>
 					<l n="296" xml:id="part-1-lg-19-l-296">Ir perdaug durnůdams ſâw Iſʒkádą̆ pădáro.</l>
@@ -389,7 +389,7 @@
 					<l n="323" xml:id="part-1-lg-19-l-323">Waikĕ! tăriau, ką miſliji toktai pămătydams?</l>
 					<l n="324" xml:id="part-1-lg-19-l-324">Ar nè múſû̆ Ʒ́ŏplei taipjau ſʒŏkı̆nėdămı̆ dáro? -</l>
 				</lg>
-				<lg xml:id="part-1-lg-20">
+				<lg type="stanza" n="20" xml:id="part-1-lg-20">
 					<l n="325" xml:id="part-1-lg-20-l-325">Bûrkos ſàwŏ Lĕlès glupàs ſù Skrándgăliŭ rėdo,</l>
 					<l n="326" xml:id="part-1-lg-20-l-326">Ir ſuwýſtitas į tamſû Paſʒălį̆ kiſʒa;</l>
 					<l n="327" xml:id="part-1-lg-20-l-327">Iùk ʒ́innai, kaip Bûrai Weiſlę ſàwŏ kăwója.</l>
@@ -402,7 +402,7 @@
 					<l n="334" xml:id="part-1-lg-20-l-334">Dâr neywien's ikſʒôl' n'uʒ́áugo wiſſ bĕſı̆jůkdams;</l>
 					<l n="335" xml:id="part-1-lg-20-l-335">Ir iſʒ Lópſʒio dâr neywien's n'iſʒkópŏ nĕ werkęs.</l>
 				</lg>
-				<lg xml:id="part-1-lg-21">
+				<lg type="stanza" n="21" xml:id="part-1-lg-21">
 					<l n="336" xml:id="part-1-lg-21-l-336">Wey ʒ́urėkim' tikt! jau wèl ſŭ Pădėjı̆mŭ Diewo,</l>
 					<l n="337" xml:id="part-1-lg-21-l-337">Wáſărą̆ ſú ſʒiltôm's Dienélėm's jaucʒămĕ gryʒtant.</l>
 					<l n="338" xml:id="part-1-lg-21-l-338">Wey! kaip Ʒ́émé jau ſăwŏ nůgą Nuggărą̆ rėdo,</l>
@@ -431,7 +431,7 @@
 					<l n="361" xml:id="part-1-lg-21-l-361">Ir Nenáudėlės dėl Niekû kwárſʒı̆nă Gálwas.</l>
 					<l n="362" xml:id="part-1-lg-21-l-362">Iùk ʒ́innai kaip yr', kàd Pûlk's Lėlu păſı̆dáro -</l>
 				</lg>
-				<lg xml:id="part-1-lg-22">
+				<lg type="stanza" n="22" xml:id="part-1-lg-22">
 					<l n="363" xml:id="part-1-lg-22-l-363">Ak Adom! tù pirm's Ʒ́mogaù iſʒdykŭſŏ Swieto.</l>
 					<l n="364" xml:id="part-1-lg-22-l-364">Tù ſù ſàwŏ Iĕwà Sodè Pawáſărı̆ ſʒwęſdams,</l>
 					<l n="365" xml:id="part-1-lg-22-l-365">Ir Gėrybęs uʒ́drauſtas ſlaptôms părăgàudams,</l>
@@ -445,7 +445,7 @@
 					<l n="373" xml:id="part-1-lg-22-l-373">Ʒ́innôm' jùk ir mès kôktù, kàd kaip nŭſı̆dėję,</l>
 					<l n="374" xml:id="part-1-lg-22-l-374">Slápomės, ar kartais ſʒén ir tén bĕgı̆nėjam' -</l>
 				</lg>
-				<lg xml:id="part-1-lg-23">
+				<lg type="stanza" n="23" xml:id="part-1-lg-23">
 					<l n="375" xml:id="part-1-lg-23-l-375">Tâw Tėtát' garbing's! pirmykſʒcʒos tàwŏ Lĕlátes</l>
 					<l n="376" xml:id="part-1-lg-23-l-376">Daug Dywû, bey daug nĕ rĕgėtû Sʒtukkû̆ pădárė,</l>
 					<l n="377" xml:id="part-1-lg-23-l-377">Ik potâm iſʒ tû Lėlu Pulkaì prăſı̆dėjo,</l>
@@ -470,7 +470,7 @@
 					<l n="396" xml:id="part-1-lg-23-l-396">Iùk nè wiſſ reik' wàrgt', ir tókios randăſı̆ Dienos;</l>
 					<l n="397" xml:id="part-1-lg-23-l-397">Kàd prı̆ſı̆wargę daug, ſʒirdingay wėl păſı̆dʒ́augiam.</l>
 				</lg>
-				<lg xml:id="part-1-lg-24">
+				<lg type="stanza" n="24" xml:id="part-1-lg-24">
 					<l n="398" xml:id="part-1-lg-24-l-398">Ant Ʒ́iemôs Smarkumm's ſû Sʒalcʒeis wėl păſı̆baìdė,</l>
 					<l n="399" xml:id="part-1-lg-24-l-399">Ir ilgû Nakcʒû Tamſybės jau nŭſı̆trumpin',</l>
 					<l n="400" xml:id="part-1-lg-24-l-400">Wey, Saulélė, tikt ʒ́urėk! atkópdămă greitay,</l>
@@ -483,7 +483,7 @@
 					<l n="407" xml:id="part-1-lg-24-l-407">Kas ant Aukſʒto dâr, àr Klėtij' gullı̆ bĕ̀ Diego;</l>
 					<l n="408" xml:id="part-1-lg-24-l-408">Ir kiek dâr pălŭkėt' reikės, ı̆kı̆ Sʒuppı̆nį̆ wirſim' -</l>
 				</lg>
-				<lg xml:id="part-1-lg-25">
+				<lg type="stanza" n="25" xml:id="part-1-lg-25">
 					<l n="409" xml:id="part-1-lg-25-l-409">Nùgı̆ dăbàr, į diewiſʒką ʒ́urėdămı̆ Ranką,</l>
 					<l n="410" xml:id="part-1-lg-25-l-410">Iuddį̆kı̆mės pămăʒ́ì, nůlătay nŭſı̆twért' ſăwŏ Dárbus,</l>
 					<l n="411" xml:id="part-1-lg-25-l-411">Ir nĕ păbŭgkim', kàd iſʒgirſim' Dárgănăs úʒ́iant,</l>
@@ -494,7 +494,7 @@
 					<l n="416" xml:id="part-1-lg-25-l-416">Ʒ́innôm' jùk, ką Iáucʒei mùms rėplódămı̆ riekia,</l>
 					<l n="417" xml:id="part-1-lg-25-l-417">Kuinai tùr, kàd liepjam' jiems, ſkraidydămı̆ truppįt' -</l>
 				</lg>
-				<lg xml:id="part-1-lg-26">
+				<lg type="stanza" n="26" xml:id="part-1-lg-26">
 					<l n="418" xml:id="part-1-lg-26-l-418">Rôds, tărĕ Slunkius, wėl benſyk ſŭ Pădėjimu Diewo</l>
 					<l n="419" xml:id="part-1-lg-26-l-419">Iſʒmiegot' ir Sanărı̆us atgaiwytı̆ gălėjŏm'.</l>
 					<l n="420" xml:id="part-1-lg-26-l-420">Ak! kiekſyk' aſʒ, Rúpeſcʒiû wiſſû nĕ mı̆nėdams,</l>
@@ -522,7 +522,7 @@
 					<l n="442" xml:id="part-1-lg-26-l-442">Kàs iſʒ to, kàd Bûras tûl's perdaug bĕgı̆nėdams,</l>
 					<l n="443" xml:id="part-1-lg-26-l-443">Ir permier' bĕſı̆rúpı̆dams ſăwŏ ſunkı̆nă Sʒirdį!</l>
 				</lg>
-				<lg xml:id="part-1-lg-27">
+				<lg type="stanza" n="27" xml:id="part-1-lg-27">
 					<l n="444" xml:id="part-1-lg-27-l-444">Tėw's mănŏ Kubbas, taip glupay, kól gyw's, nĕ pădárė,</l>
 					<l n="445" xml:id="part-1-lg-27-l-445">O ir jo Tėw's Stépas taip gywént' nĕ mŏkinno.</l>
 					<l n="446" xml:id="part-1-lg-27-l-446">"Waikai! rėkdăwŏ jis ant Demblio girt's ı̆ſſı̆tieſęs,</l>
@@ -535,7 +535,7 @@
 					<l n="453" xml:id="part-1-lg-27-l-453">Tůs Ʒ́ŏdĕliùs ſăwŏ Tėwo aſʒ tikray nŭſı̆twėriau,</l>
 					<l n="454" xml:id="part-1-lg-27-l-454">Ir, kôl gyw's kruttėſu, jû kasdien' pămı̆nėſu -</l>
 				</lg>
-				<lg xml:id="part-1-lg-28">
+				<lg type="stanza" n="28" xml:id="part-1-lg-28">
 					<l n="455" xml:id="part-1-lg-28-l-455">Tas durnàs Kalbàs wiſſì girdėdămı̆ Búrai,</l>
 					<l n="456" xml:id="part-1-lg-28-l-456">Gėdėjos; bèt Pricʒkus jâm draſà păſăkydams:</l>
 					<l n="457" xml:id="part-1-lg-28-l-457">Eik, tărĕ Sʒúdwăbăli! kùr Sʒùdwăbălei păſı̆linkſmin.</l>
@@ -550,7 +550,7 @@
 					<l n="466" xml:id="part-1-lg-28-l-466">Lauką ſù Tworôms ir Námą wiſſă ſuėdei;</l>
 					<l n="467" xml:id="part-1-lg-28-l-467">O dâr ir ſăwŏ Waikeſcʒus păgădit' nĕſı̆gėdi?</l>
 				</lg>
-				<lg xml:id="part-1-lg-29">
+				<lg type="stanza" n="29" xml:id="part-1-lg-29">
 					<l n="468" xml:id="part-1-lg-29-l-468">Bèt jûs wieʒ́libi Kaimynai, jûs Găſpădórei</l>
 					<l n="469" xml:id="part-1-lg-29-l-469">Sù grecʒnôm's Găſpădinnėm's, mùms nè reik' nŭſı̆gėdėt,</l>
 					<l n="470" xml:id="part-1-lg-29-l-470">Kàd més búriſʒkus jaù wėl nŭſı̆twérdămı̆ Dárbus,</l>
@@ -562,7 +562,7 @@
 					<l n="476" xml:id="part-1-lg-29-l-476">Kàd Skilwys iſʒálkęs nôr gardʒ́ey păſı̆linkſmįt';</l>
 					<l n="477" xml:id="part-1-lg-29-l-477">Tai pirmà tùr wiſſas Kûn's wiernay păſı̆purtit'.</l>
 				</lg>
-				<lg xml:id="part-1-lg-30">
+				<lg type="stanza" n="30" xml:id="part-1-lg-30">
 					<l n="478" xml:id="part-1-lg-30-l-478">Taigı̆ nŭtwérkim' jau kiekwien's ſăwŏ Iáutį,</l>
 					<l n="479" xml:id="part-1-lg-30-l-479">Ir iſʒrėdę jį, kaip reik', klauſyt' pămŏkykim':</l>
 					<l n="480" xml:id="part-1-lg-30-l-480">Nės ką Ʒ́iemą jis yra Staldè ſŭdŭmójęs,</l>
@@ -574,7 +574,7 @@
 					<l n="486" xml:id="part-1-lg-30-l-486">Tikt bandyk, koktù, kàd Amtmon's pràdĕdă rėkaut',</l>
 					<l n="487" xml:id="part-1-lg-30-l-487">Ir nèſwietiſʒkay prăſı̆kéikdams Iltı̆nį̆ grieʒ́ia.</l>
 				</lg>
-				<lg xml:id="part-1-lg-31">
+				<lg type="stanza" n="31" xml:id="part-1-lg-31">
 					<l n="488" xml:id="part-1-lg-31-l-488">Tù Nénáudėli Puky, taip jaù ſŭſı̆miſlik,</l>
 					<l n="489" xml:id="part-1-lg-31-l-489">Kàd tăwĕ Lauras ârtı̆ nŭſûs ant Káſpărŏ Récʒiu.</l>
 					<l n="490" xml:id="part-1-lg-31-l-490">Tù kasmét's jùk néy Razbáinink's wárgı̆nı̆ Iáucʒus,</l>
@@ -599,7 +599,7 @@
 					<l n="509" xml:id="part-1-lg-31-l-509">Kàd tăwŏ Laukis ſù Dwiliù tâw pàdĕdă dirbti,</l>
 					<l n="510" xml:id="part-1-lg-31-l-510">Ir kàd Kuinai tâw akkėdami ʒ́engt' nĕſı̆ſténgia.</l>
 				</lg>
-				<lg xml:id="part-1-lg-32">
+				<lg type="stanza" n="32" xml:id="part-1-lg-32">
 					<l n="511" xml:id="part-1-lg-32-l-511">Twérk prı̆ Răgû, kiſʒk į Kulbóką Tingı̆nį̆ Ʒ́álį,</l>
 					<l n="512" xml:id="part-1-lg-32-l-512">Baùſk jį, kàd klauſyt' nĕ nŏrės, ir tâw păſı̆prieſʒys.</l>
 					<l n="513" xml:id="part-1-lg-32-l-513">Tùr klauſyt', jùk tâm jiſſaì tăwŏ Páſʒărą̆ kramtė,</l>
@@ -611,7 +611,7 @@
 					<l n="519" xml:id="part-1-lg-32-l-519">Taip, kàd jâm daugſyk ſeilėdams jo Liĕʒ́ŭwėlis,</l>
 					<l n="520" xml:id="part-1-lg-32-l-520">Iſʒ karſʒtû Naſrû néy Blėkas kábă nů̆ Zubû -</l>
 				</lg>
-				<lg xml:id="part-1-lg-33">
+				<lg type="stanza" n="33" xml:id="part-1-lg-33">
 					<l n="521" xml:id="part-1-lg-33-l-521">Iáutis, kaip girdì, ſâw wargdams Páſʒărą̆ pelno[s?],</l>
 					<l n="522" xml:id="part-1-lg-33-l-522">O ir tą daugſyk, kàd ſkúpas randăſı̆ Cʒėſas,</l>
 					<l n="523" xml:id="part-1-lg-33-l-523">Sù Maldélėms, ir kŏnĕ werkdams, wôs ı̆ſı̆práſʒo.</l>
@@ -626,7 +626,7 @@
 					<l n="532" xml:id="part-1-lg-33-l-532">Taigı̆ nŭrykim' jaù praſtóką ſàwo Kăſnélį,</l>
 					<l n="533" xml:id="part-1-lg-33-l-533">Ik' Ruddů potâm mùms důs riebjaus paſiwálgit.</l>
 				</lg>
-				<lg xml:id="part-1-lg-34">
+				<lg type="stanza" n="34" xml:id="part-1-lg-34">
 					<l n="534" xml:id="part-1-lg-34-l-534">Ant ʒ́urėk tiktay! Werſʒukkai jau ſʒŏkı̆nėja;</l>
 					<l n="535" xml:id="part-1-lg-34-l-535">O Erycʒei ſù Parſʒukkais ʒ́įſdămı̆ ſpárdos.</l>
 					<l n="536" xml:id="part-1-lg-34-l-536">Wiſʒtos ant Laktu jau daug iſʒkárkı̆nŏ Pautû;</l>
@@ -638,7 +638,7 @@
 					<l n="542" xml:id="part-1-lg-34-l-542">Bà! Mėſôs wiſſókiôs ir ſʒulnû Smăgŭrėliû</l>
 					<l n="543" xml:id="part-1-lg-34-l-543">Wirt' ir kèpt' gardʒ́ey jaù daug wiſſùr păſidáro -</l>
 				</lg>
-				<lg xml:id="part-1-lg-35">
+				<lg type="stanza" n="35" xml:id="part-1-lg-35">
 					<l n="544" xml:id="part-1-lg-35-l-544">Nùgı̆ dăbâr Kaimynai, Gentys ir Găſpădórei!</l>
 					<l n="545" xml:id="part-1-lg-35-l-545">Rúpįkı̆tės akkylai, kàd uʒ́árdămı̆ Lauką,</l>
 					<l n="546" xml:id="part-1-lg-35-l-546">Daug wiſſókio ſâw iſʒbertumbit' Wăſărójo.</l>
@@ -649,7 +649,7 @@
 					<l n="551" xml:id="part-1-lg-35-l-551">Kàd koʒ́nà Dienà, nuſikándus' ſàwŏ Dălyką,</l>
 					<l n="552" xml:id="part-1-lg-35-l-552">Dâr ir ſèkancʒei n'uʒ́mirſʒtu Reikălą̆ ſkálſįt'</l>
 				</lg>
-				<lg xml:id="part-1-lg-36">
+				<lg type="stanza" n="36" xml:id="part-1-lg-36">
 					<l n="553" xml:id="part-1-lg-36-l-553">Rôds tărĕ Blėkius, ką més pérnay ſâw nŭſı̆pelnėm',</l>
 					<l n="554" xml:id="part-1-lg-36-l-554">Ir Ʒopóſtui ſàwŏ Nămáms Kampè păkăwójam',</l>
 					<l n="555" xml:id="part-1-lg-36-l-555">Sù Ʒ́iemà jau baigiaſ' ir wiſſùr ı̆ſſı̆tuſʒtin'.</l>
@@ -665,7 +665,7 @@
 					<l n="565" xml:id="part-1-lg-36-l-565">Ak! jûs Kumpjei, jûs Deſʒrélės ſù Lăſʒı̆nėleis,</l>
 					<l n="566" xml:id="part-1-lg-36-l-566">Més kŏnĕ werkiam' jau, kasdien pămı̆nėdămı̆ júſu.</l>
 				</lg>
-				<lg xml:id="part-1-lg-37">
+				<lg type="stanza" n="37" xml:id="part-1-lg-37">
 					<l n="567" xml:id="part-1-lg-37-l-567">Ticʒ! tărĕ Pricʒkus jâm lietùwiſʒkay păſăkydams,</l>
 					<l n="568" xml:id="part-1-lg-37-l-568">Eik Ʒ́oply! tù jùk kasmét's dėl Edĕſiŭ ſkundies,</l>
 					<l n="569" xml:id="part-1-lg-37-l-569">Kàs tâw kàlt's? kâm wiſſ ſuláukęs Ruddĕnį̆ riebų,</l>
@@ -674,7 +674,7 @@
 					<l n="572" xml:id="part-1-lg-37-l-572">Cʒėdyk Népriĕtĕliau, kôl riebų ſʒuttı̆nı̆ Půdą,</l>
 					<l n="573" xml:id="part-1-lg-37-l-573">Tai taw kúdą nĕ̀ reik's prı̆ſı̆kaiſt', kàd Wáſără gryſʒ́ta.</l>
 				</lg>
-				<lg xml:id="part-1-lg-38">
+				<lg type="stanza" n="38" xml:id="part-1-lg-38">
 					<l n="574" xml:id="part-1-lg-38-l-574">Taigı̆ nŭtwérk iſʒ naujo wėl dėl Edĕſiû̆ Dárbus</l>
 					<l n="575" xml:id="part-1-lg-38-l-575">Ir pelnykis ką ſukrèy dėl Ruddĕniŏ ruddo.</l>
 					<l n="576" xml:id="part-1-lg-38-l-576">Dirwai důk, kàs reik', kád jôs Palúkkănŭ nóri;</l>
@@ -701,7 +701,7 @@
 					<l n="597" xml:id="part-1-lg-38-l-597">Iùk ʒ́innaì, kaip wìſſ daugiaùs nôr Mótĕrŭ Búdas,</l>
 					<l n="598" xml:id="part-1-lg-38-l-598">Kàd jôs pràdĕdă werpt', ir jaù prı̆ſı̆werpŭſiŏs áudʒ́ia -</l>
 				</lg>
-				<lg xml:id="part-1-lg-39">
+				<lg type="stanza" n="39" xml:id="part-1-lg-39">
 					<l n="599" xml:id="part-1-lg-39-l-599">Allĕ nĕ peik minnáu! permier tą Motĕrŭ Prówą!</l>
 					<l n="600" xml:id="part-1-lg-39-l-600">Ar nĕ ſmăgù klauſyt', kàd wieʒ́libos Găſpădinnės</l>
 					<l n="601" xml:id="part-1-lg-39-l-601">Ʒ́iemą ſù Mergòms Windùs ſăwŏ ſukdămŏs ûʒ́ia?</l>
@@ -715,7 +715,7 @@
 					<l n="609" xml:id="part-1-lg-39-l-609">Dâr ſù Dumcʒeis vókiſʒkais ſŭſı̆ſėſt' ŭſſı̆geiſtu.</l>
 					<l n="610" xml:id="part-1-lg-39-l-610">Ir Prancúʒai jůs toliaus iſʒpeikt' nĕ gălėtu -</l>
 				</lg>
-				<lg xml:id="part-1-lg-40">
+				<lg type="stanza" n="40" xml:id="part-1-lg-40">
 					<l n="611" xml:id="part-1-lg-40-l-611">Rôds, tărĕ Pricʒkus, wiſſ Tieſà, kàs cʒè păſăkyta.</l>
 					<l n="612" xml:id="part-1-lg-40-l-612">Aſʒ kaip Sʒulcas per Kiemùs ilgay jŏdı̆nėdams,</l>
 					<l n="613" xml:id="part-1-lg-40-l-613">Daug įſı̆tėmijau, kaip dáro múſ' Găſpădinnes,</l>
@@ -734,7 +734,7 @@
 					<l n="626" xml:id="part-1-lg-40-l-626">Kàd ſù Bukſwom's lópitoms Wyr's wôs ŭſſı̆dengia;</l>
 					<l n="627" xml:id="part-1-lg-40-l-627">O Waikai ant Ûlicʒu nůgi bĕgı̆nėja -</l>
 				</lg>
-				<lg xml:id="part-1-lg-41">
+				<lg type="stanza" n="41" xml:id="part-1-lg-41">
 					<l n="628" xml:id="part-1-lg-41-l-628">Móter's jûs Nenáudėles! tai jùms părăſʒyta.</l>
 					<l n="629" xml:id="part-1-lg-41-l-629">Bèt jûs Prietelkos, jûs wieʒ́libos Găſpădinnės!</l>
 					<l n="630" xml:id="part-1-lg-41-l-630">Jûs nĕ prı̆wálot' dėl tokiû Kalbu nŭſı̆gėdėt.</l>
@@ -746,7 +746,7 @@
 					<l n="636" xml:id="part-1-lg-41-l-636">Iùms Garbė, kàd Audeklėlei, júſŭ nŭáuſti</l>
 					<l n="637" xml:id="part-1-lg-41-l-637">Ant margû Lanku, kaip Sniegs Pawáſărı̆o bliʒga.</l>
 				</lg>
-				<lg xml:id="part-1-lg-42">
+				<lg type="stanza" n="42" xml:id="part-1-lg-42">
 					<l n="638" xml:id="part-1-lg-42-l-638">Allĕ nĕ wéngkit dâr daugiàus, kaip reik' păſı̆purtit'.</l>
 					<l n="639" xml:id="part-1-lg-42-l-639">Ant Darʒ́û Păſʒălei Darbéliû lúkŭriă júſu.</l>
 					<l n="640" xml:id="part-1-lg-42-l-640">Taigı̆ pădėkit' jaù Windéliû wiſſă Klăpátą,</l>
@@ -764,7 +764,7 @@
 					<l n="652" xml:id="part-1-lg-42-l-652">Kàd jie ſù naujù Rėdù Cʒeſnij' ſŭſı̆ſėdę,</l>
 					<l n="653" xml:id="part-1-lg-42-l-653">Láſʒı̆nŭs ir Deſʒràs ſà júſu Wirrălŭ wálgys.</l>
 				</lg>
-				<lg xml:id="part-1-lg-43">
+				<lg type="stanza" n="43" xml:id="part-1-lg-43">
 					<l n="654" xml:id="part-1-lg-43-l-654">Nùgi dăbàr, ką tikt įmánot' ſėkı̆tĕ Sėlklas!</l>
 					<l n="655" xml:id="part-1-lg-43-l-655">Sėkı̆tĕ Kopuſtùs, Môrkùs ſù diddĕlĕ Sáuje;</l>
 					<l n="656" xml:id="part-1-lg-43-l-656">Rópju, Paſtarnókû Swiklû beygı̆ Rĕpukkû;</l>
@@ -777,7 +777,7 @@
 			</div>
 			<div n="2" xml:id="part-2" type="part" data-level="1">
 				<head>Wasaròs Darbaì</head>
-				<lg xml:id="part-2-lg-44">
+				<lg type="stanza" n="1" xml:id="part-2-lg-44">
 					<l n="1" xml:id="part-2-lg-44-l-662">Sweik's Swietéli márg's! Sʒwentès Pawáſăriŏ ſʒwentęs;</l>
 					<l n="2" xml:id="part-2-lg-44-l-663">Sweik's ir tù Ʒ́mogaù! ſuláukęs Wáſărą̆ mielă;</l>
 					<l n="3" xml:id="part-2-lg-44-l-664">Sweik's Kwietkélėmis păſı̆dʒ́augęs, ſweik's prı̆ſı̆ůſtęs;</l>
@@ -790,7 +790,7 @@
 					<l n="10" xml:id="part-2-lg-44-l-671">Taip prieſʒ Sekminnęs Burùs ı̆ Baudʒ́iăwą̆ kwieſdams,</l>
 					<l n="11" xml:id="part-2-lg-44-l-672">Ir, kas reik' atlikt', pămŏkįdams ſwéikı̆nŏ Pricʒkus.</l>
 				</lg>
-				<lg xml:id="part-2-lg-45">
+				<lg type="stanza" n="2" xml:id="part-2-lg-45">
 					<l n="12" xml:id="part-2-lg-45-l-673">Rôds ſweik's Kûn's, kurs wiſſ ſʒŏkı̆nėdams nùtwĕriă Dárbus,</l>
 					<l n="13" xml:id="part-2-lg-45-l-674">Yr' diddʒ́áuſi bey brangiáuſi Dówănă Diewo.</l>
 					<l n="14" xml:id="part-2-lg-45-l-675">Tas Ʒ́mogùs, kùrs daug trŭſı̆nėjęs bey prı̆ſı̆wárgęs,</l>
@@ -809,7 +809,7 @@
 					<l n="27" xml:id="part-2-lg-45-l-688">Bet néy Blóʒnas wiſſ nĕdărytą Wirrălą̆ ſrébja,</l>
 					<l n="28" xml:id="part-2-lg-45-l-689">Ir ſkarrôt's bèy pùſnůgis kasdien păſı̆ródo -</l>
 				</lg>
-				<lg xml:id="part-2-lg-46">
+				<lg type="stanza" n="3" xml:id="part-2-lg-46">
 					<l n="29" xml:id="part-2-lg-46-l-690">Més Lietuwninkai wyʒ́óti, més Năbăgėlei</l>
 					<l n="30" xml:id="part-2-lg-46-l-691">Pónams, ir Tarnâms jû, rôds prilygtı̆ nĕgalim';</l>
 					<l n="31" xml:id="part-2-lg-46-l-692">Bèt ir póniſʒkas Liggàs kentėt' nĕprı̆wálôm'.</l>
@@ -828,7 +828,7 @@
 					<l n="44" xml:id="part-2-lg-46-l-705">Ar Deſʒrôs lietùwiſʒkôs bèn kiek părăgáujam';</l>
 					<l n="45" xml:id="part-2-lg-46-l-706">Tai dâr jů dailiaus uʒ́dėt's mums ſékăſı̆ Dárbas -</l>
 				</lg>
-				<lg xml:id="part-2-lg-47">
+				<lg type="stanza" n="4" xml:id="part-2-lg-47">
 					<l n="46" xml:id="part-2-lg-47-l-707">Rôds, tărĕ Lauras, ant kumpôs Laſʒdôs păſı̆rėmęs,</l>
 					<l n="47" xml:id="part-2-lg-47-l-708">Diewui bûk Garbė! ſweikì Pawáſărį̆ baigiam',</l>
 					<l n="48" xml:id="part-2-lg-47-l-709">Ir wiſſì drutì pargryſʒtant Wáſărą̆ mátom'.</l>
@@ -844,7 +844,7 @@
 					<l n="58" xml:id="part-2-lg-47-l-719">Ir Groʒ́ybėm's jû margôm's trumpay păſı̆dʒ́auguſ',</l>
 					<l n="59" xml:id="part-2-lg-47-l-720">Iaugı̆ ſŭwytŭſĕs ir nĕdĕringas iſʒmĕtĕ laukan -</l>
 				</lg>
-				<lg xml:id="part-2-lg-48">
+				<lg type="stanza" n="5" xml:id="part-2-lg-48">
 					<l n="60" xml:id="part-2-lg-48-l-721">Bèt taip ir Paukſʒtéliams mûſ' linksmiems păſı̆dárė,</l>
 					<l n="61" xml:id="part-2-lg-48-l-722">Ką Gĕgŭʒ́ė păkŭkáwo, ką Lakſʒtingălă ſůkė,</l>
 					<l n="62" xml:id="part-2-lg-48-l-723">Ir ką Wiewerſei Porôm's lakſtydămı̆ ʒ́aidė;</l>
@@ -854,7 +854,7 @@
 					<l n="66" xml:id="part-2-lg-48-l-727">Ir Dainàs ſăwŏ Tėwû atkartódămı̆ cʒypſi.</l>
 					<l n="67" xml:id="part-2-lg-48-l-728">Taip trumpàm Cʒ́ėſè néy naujas Swiet's păſı̆dárė -</l>
 				</lg>
-				<lg xml:id="part-2-lg-49">
+				<lg type="stanza" n="6" xml:id="part-2-lg-49">
 					<l n="68" xml:id="part-2-lg-49-l-729">Tókius aſʒ Dywùs kaip ſén's Ʒ́mogùs pămătydams,</l>
 					<l n="69" xml:id="part-2-lg-49-l-730">Irgı̆ dŭſáudams iſʒ Sʒirdies, tů ſʒúktĕriŭ graudʒ́ey:</l>
 					<l n="70" xml:id="part-2-lg-49-l-731">Ak! tărŭ, kaip wiſſay nieking's mŭſŭ Weikălăs Amʒ́io.</l>
@@ -866,7 +866,7 @@
 					<l n="76" xml:id="part-2-lg-49-l-737">Uʒ́auginn' Waiſùs, ir Amʒ́į ſáwŏ păbaigia.</l>
 					<l n="77" xml:id="part-2-lg-49-l-738">Taip, iſʒ wiſſo taip, ir mums biedniems păſı̆dáro. -</l>
 				</lg>
-				<lg xml:id="part-2-lg-50">
+				<lg type="stanza" n="7" xml:id="part-2-lg-50">
 					<l n="78" xml:id="part-2-lg-50-l-739">Més / taip Pôn's kaip Bûr's / Lopſʒij' werkſʒléndămı̆ Biedʒei,</l>
 					<l n="79" xml:id="part-2-lg-50-l-740">Ámʒ́io búſencʒo tikt blógą Pumpŭrą̆ ródôm'.</l>
 					<l n="80" xml:id="part-2-lg-50-l-741">O paskùy, kàd Cʒėſas jaù ʒ́ydėti păreina;</l>
@@ -886,7 +886,7 @@
 					<l n="94" xml:id="part-2-lg-50-l-755">Taı̆gı̆ mătaì, kaip ʒ́mógiſʒkas trumpintĕlı̆s Ámʒ́is</l>
 					<l n="95" xml:id="part-2-lg-50-l-756">Ʒ́ydincʒôms ir krintancʒôms prilygſtă Ʒ́ôlélėms -</l>
 				</lg>
-				<lg xml:id="part-2-lg-51">
+				<lg type="stanza" n="8" xml:id="part-2-lg-51">
 					<l n="96" xml:id="part-2-lg-51-l-757">Taip bĕſı̆páſăkŏjant, ſʒtai Wákmiſtras păſı̆ródė,</l>
 					<l n="97" xml:id="part-2-lg-51-l-758">Ir bĕſı̆ſpárdidam's taip baisey kéiktı̆ păgáwo,</l>
 					<l n="98" xml:id="part-2-lg-51-l-759">Kàd Swiet's wiſſas ſù wiſſaìs Daiktaìs pădrĕbėjo.</l>
@@ -906,7 +906,7 @@
 					<l n="112" xml:id="part-2-lg-51-l-773">O daug Ʒwirbliû pùſgywjû nů Stógŏ nŭpůlė.</l>
 					<l n="113" xml:id="part-2-lg-51-l-774">Taip, ar girdit', taip tàs Népriĕtĕlus prăſı̆kéikė -</l>
 				</lg>
-				<lg xml:id="part-2-lg-52">
+				<lg type="stanza" n="9" xml:id="part-2-lg-52">
 					<l n="114" xml:id="part-2-lg-52-l-775">Ak! tărĕ Selmas, jau perdaug yr' Swietĕ Bĕdiewjû,</l>
 					<l n="115" xml:id="part-2-lg-52-l-776">Ant kurriû Lieʒ́ùwjo wiſſ Welnai ſʒŏkı̆nėja.</l>
 					<l n="116" xml:id="part-2-lg-52-l-777">Tûl's Apjékėlis ſuláukęs Rytmĕtį̆ mielą̆,</l>
@@ -920,7 +920,7 @@
 					<l n="124" xml:id="part-2-lg-52-l-785">Taipjis ſù Welnais iſʒauſʒant ìmmăſı̆ Dárbus;</l>
 					<l n="125" xml:id="part-2-lg-52-l-786">Taip ir témſtant jau kirmyt' į Pátălą̆ ʒ́ergia -</l>
 				</lg>
-				<lg xml:id="part-2-lg-53">
+				<lg type="stanza" n="10" xml:id="part-2-lg-53">
 					<l n="126" xml:id="part-2-lg-53-l-787">Kàd pilwôt's kôks Pónpălăikis taipo prăſı̆kéikia,</l>
 					<l n="127" xml:id="part-2-lg-53-l-788">Tai jau nè Dywai, nès Wélnui jis păſı̆dáwęs,</l>
 					<l n="128" xml:id="part-2-lg-53-l-789">Pótĕrŭ gėdiſ', ir Dangaus pămı̆nėdams jůkiaſ';</l>
@@ -947,7 +947,7 @@
 					<l n="149" xml:id="part-2-lg-53-l-810">Ir ant Kummĕliŏ kétwregio tůjaus ŭſſı̆métęs,</l>
 					<l n="150" xml:id="part-2-lg-53-l-811">Skubbı̆nŏs ir kittiems Kaimynams Urdĕlį̆ ródit'.</l>
 				</lg>
-				<lg xml:id="part-2-lg-54">
+				<lg type="stanza" n="11" xml:id="part-2-lg-54">
 					<l n="151" xml:id="part-2-lg-54-l-812">O kaip jau Dienà păſăkyta bùwŏ prăſʒwittuſ',</l>
 					<l n="152" xml:id="part-2-lg-54-l-813">Sʒtai Baudʒ́áuninkai wiſſì Pulkais ſŭſı̆rìnko.</l>
 					<l n="153" xml:id="part-2-lg-54-l-814">Wien's ſăwŏ Káblį, o kittſai naujintĕlĕ̜ Sʒákę</l>
@@ -963,7 +963,7 @@
 					<l n="163" xml:id="part-2-lg-54-l-824">Ir, kàd kartais ſù Piktù jį reikiă păjuddįt,</l>
 					<l n="164" xml:id="part-2-lg-54-l-825">Kàd, kaip půlaſ' jâm, jis ʒ́engt' ir dirbt' ŭſſı̆geiſtu -</l>
 				</lg>
-				<lg xml:id="part-2-lg-55">
+				<lg type="stanza" n="12" xml:id="part-2-lg-55">
 					<l n="165" xml:id="part-2-lg-55-l-826">Allĕ ką̆ mácʒija? cʒè mums nè reik' nŭſı̆dywyt'.</l>
 					<l n="166" xml:id="part-2-lg-55-l-827">Amtsrôt's Walcʒaus to, kurſai tą Baudʒăwą̆ waldė,</l>
 					<l n="167" xml:id="part-2-lg-55-l-828">Tôks ſʒirding's bŭwŏ Pôn's, kad kóʒ́nas jo pămı̆nėdams,</l>
@@ -987,7 +987,7 @@
 					<l n="185" xml:id="part-2-lg-55-l-846">O kàd kartais ſʒį ar tą reikėdăwŏ garbįt'.</l>
 					<l n="186" xml:id="part-2-lg-55-l-847">Taì jìs tâm lietùwiſʒay pădărydăwŏ Garbę.</l>
 				</lg>
-				<lg xml:id="part-2-lg-56">
+				<lg type="stanza" n="13" xml:id="part-2-lg-56">
 					<l n="187" xml:id="part-2-lg-56-l-848">Allĕ dăbôk Brolau! aſż tâw daugiaus păſăkyſu.</l>
 					<l n="188" xml:id="part-2-lg-56-l-849">Tù ſŭ mănim' ʒ́innaì, kaip Bùrą Baudʒ́ăwă baudʒ́ia;</l>
 					<l n="189" xml:id="part-2-lg-56-l-850">Ir, kaip Biedʒ́us tôks kasdien kantrey păſı̆lenkęs,</l>
@@ -1019,7 +1019,7 @@
 					<l n="215" xml:id="part-2-lg-56-l-876">Kùr Wăbălaì wiſſóki ſù Warlėm's ſʒŏkı̆nėja;</l>
 					<l n="216" xml:id="part-2-lg-56-l-877">O ſʒtai Dìkſas ſù Laʒdà dâr mùſʒă Năbágą - Brûkliu</l>
 				</lg>
-				<lg xml:id="part-2-lg-57">
+				<lg type="stanza" n="14" xml:id="part-2-lg-57">
 					<l n="217" xml:id="part-2-lg-57-l-878">Ak, Pôn's Amtsrôt's ak! dėl kô mùms numı̆rĕi pérnay?</l>
 					<l n="218" xml:id="part-2-lg-57-l-879">Ak, ſŭ tăwim' jau ir Linsmybės múſŭ prăpůlė!</l>
 					<l n="219" xml:id="part-2-lg-57-l-880">Ak Tėtuttı̆! tăwęs kasdien kiekwiens pămı̆nėdams,</l>
@@ -1063,7 +1063,7 @@
 					<l n="257" xml:id="part-2-lg-57-l-918">Sʒtai! potâm mănĕ jau daugiaus nè gandı̆nŏ Deiwės,</l>
 					<l n="258" xml:id="part-2-lg-57-l-919">Ir aſʒ Náktij' rėkaut ir durnůt păſı̆lówjau.</l>
 				</lg>
-				<lg xml:id="part-2-lg-58">
+				<lg type="stanza" n="15" xml:id="part-2-lg-58">
 					<l n="259" xml:id="part-2-lg-58-l-920">Iau Dywùs Warlu, bèy Péliu, irgı̆ Pĕlėdu</l>
 					<l n="260" xml:id="part-2-lg-58-l-921">Sù Naujienôm's Ʒ́urkiu, bey nuplìkkŭſŭ̂ Ʒ́wirbliû,</l>
 					<l n="261" xml:id="part-2-lg-58-l-922">Ir kàs dâr daugiaus tokiû Dywû păſı̆dárė;</l>
@@ -1084,7 +1084,7 @@
 					<l n="276" xml:id="part-2-lg-58-l-937">"Iſʒ menkû Daiktû daugſyk' Dywaì păſı̆dáro;</l>
 					<l n="277" xml:id="part-2-lg-58-l-938">"O iſʒ Mėſʒlo ſmirdincʒo Ʒ́egnónĕ păreina -</l>
 				</lg>
-				<lg xml:id="part-2-lg-59">
+				<lg type="stanza" n="16" xml:id="part-2-lg-59">
 					<l n="278" xml:id="part-2-lg-59-l-939">Tûl's nuſwillęs Pónpălăikis rôds jůkiăſı̆ Bûrams,</l>
 					<l n="279" xml:id="part-2-lg-59-l-940">Ir bĕſı̆ſʒypſodams jû Dárbųs niekı̆nă Blóʒnas;</l>
 					<l n="280" xml:id="part-2-lg-59-l-941">Lygei kàd tokſaì bè Búrû gâl įſiremti;</l>
@@ -1113,7 +1113,7 @@
 					<l n="303" xml:id="part-2-lg-59-l-964">Zaunijant girdì. Iìs taip glupay nĕdărytu,</l>
 					<l n="304" xml:id="part-2-lg-59-l-965">Kàd jo Tėw's jį bût' mŭſŭ Dárbus dirbt' pămŏkinęs</l>
 				</lg>
-				<lg xml:id="part-2-lg-60">
+				<lg type="stanza" n="17" xml:id="part-2-lg-60">
 					<l n="305" xml:id="part-2-lg-60-l-966">Iaugı̆ gănà ſʒiámſyk Staldè pàs Meʒ́ı̆nį̆ ſʒûtit';</l>
 					<l n="306" xml:id="part-2-lg-60-l-967">Dâr ir Piewôms reik's, ir Dirwôms ką păſăkyti.</l>
 					<l n="307" xml:id="part-2-lg-60-l-968">Waikai ſkubbį̆kı̆tės, ant Wákar's jau prı̆ſı̆artin';</l>
@@ -1124,7 +1124,7 @@
 					<l n="312" xml:id="part-2-lg-60-l-973">Kaìp kiekwien's ʒ́innaì, poryt wieſʒėdămı̆ ſʒwéſim';</l>
 					<l n="313" xml:id="part-2-lg-60-l-974">O n'ilgay po to Laukû Truſùs nuſitwérſim' -</l>
 				</lg>
-				<lg xml:id="part-2-lg-61">
+				<lg type="stanza" n="18" xml:id="part-2-lg-61">
 					<l n="314" xml:id="part-2-lg-61-l-975">Ak! tărė̆ Kriʒʒas, rôds dâr daug mùms reik's păſı̆purtit',</l>
 					<l n="315" xml:id="part-2-lg-61-l-976">Ik' wiſſùr ſăwŏ búriſʒkųs atlikſı̆mĕ Dárbųs.</l>
 					<l n="316" xml:id="part-2-lg-61-l-977">Allĕ ʒ́ė̆lĕk Diewè, kaip gâl warging's Găſpădórus</l>
@@ -1146,7 +1146,7 @@
 					<l n="332" xml:id="part-2-lg-61-l-993">Kàd tûl's Bérnas ſén's dėlto diddey nŭſı̆gando,</l>
 					<l n="333" xml:id="part-2-lg-61-l-994">Ir bĕſı̆gėdėdams ſaugójos mân păſı̆ródit -</l>
 				</lg>
-				<lg xml:id="part-2-lg-62">
+				<lg type="stanza" n="19" xml:id="part-2-lg-62">
 					<l n="334" xml:id="part-2-lg-62-l-995">Rôds nĕgrăʒ́ù ʒ́illiems Bernâms, ir dìddĕlė̆ Gėda,</l>
 					<l n="335" xml:id="part-2-lg-62-l-996">Kàd jůs kôks Bernukk's glupôks apgėdı̆nă dirbdams;</l>
 					<l n="336" xml:id="part-2-lg-62-l-997">O ſʒtai dâr Algôs tokie daug Dólĕrı̆u tyko,</l>
@@ -1154,7 +1154,7 @@
 					<l n="338" xml:id="part-2-lg-62-l-999">Ak! kùr dingo Prúſůſe barʒdótă Gădynė,</l>
 					<l n="339" xml:id="part-2-lg-62-l-1000">Kaip Sluʒ́áunink's dăr uʒ́ menką Pinnį̆gą̆ klauſė.</l>
 				</lg>
-				<lg xml:id="part-2-lg-63">
+				<lg type="stanza" n="20" xml:id="part-2-lg-63">
 					<l n="340" xml:id="part-2-lg-63-l-1001">Aſʒ, dâr Waikpălăikiu glupù pàs Blebbĕrį̆ búdams,</l>
 					<l n="341" xml:id="part-2-lg-63-l-1002">Daugſyk dywijaus, kàd kôks turting's Găſpădórus,</l>
 					<l n="342" xml:id="part-2-lg-63-l-1003">Sù Bernais kasméts ſŭdĕrėdams, Dólĕrį̆ ſúlė;</l>
@@ -1172,7 +1172,7 @@
 					<l n="354" xml:id="part-2-lg-63-l-1015">Lyg kaip Iumprowos păſı̆ródit' jaù nĕſı̆gėdi.</l>
 					<l n="355" xml:id="part-2-lg-63-l-1016">Taip Lietùwninkai ſăwŏ Wieʒ́libummą̆ prăʒ́áidė.</l>
 				</lg>
-				<lg xml:id="part-2-lg-64">
+				<lg type="stanza" n="21" xml:id="part-2-lg-64">
 					<l n="356" xml:id="part-2-lg-64-l-1017">Bèt ir mûſ' Walgių̆s lietùwiſʒkay pădărytųs</l>
 					<l n="357" xml:id="part-2-lg-64-l-1018">Tûl's Iſʒdykėlis nenáud's iſʒpeikt' nĕſı̆bijo.</l>
 					<l n="358" xml:id="part-2-lg-64-l-1019">Tėwai mûſ' kytrì Kiſſielų wirdămı̆ ſkánų,</l>
@@ -1184,7 +1184,7 @@
 					<l n="364" xml:id="part-2-lg-64-l-1025">Ogı̆ dăbàr kasdien kiekwiens Mėſôs ı̆ſſı̆ʒ́ódams,</l>
 					<l n="365" xml:id="part-2-lg-64-l-1026">Ir daugſyk kaip Sʒů iſʒplėſʒdams, wargı̆nă Búrą.</l>
 				</lg>
-				<lg xml:id="part-2-lg-65">
+				<lg type="stanza" n="22" xml:id="part-2-lg-65">
 					<l n="366" xml:id="part-2-lg-65-l-1027">Tikt gìrdėk Brolaù! kaip mân Biednâm păſı̆dárė.</l>
 					<l n="367" xml:id="part-2-lg-65-l-1028">Aſʒ kŏnĕ penkiasdéſʒimt's Métû ſį̀ ſăwŏ Námą</l>
 					<l n="368" xml:id="part-2-lg-65-l-1029">Wieʒ́libay waldydams, ir niĕkădôs nĕpăteikdams,</l>
@@ -1197,7 +1197,7 @@
 					<l n="375" xml:id="part-2-lg-65-l-1036">Ar neſwietiſʒkay ſupykęs mùſʒă per Auſį;</l>
 					<l n="376" xml:id="part-2-lg-65-l-1037">O ſʒtai mân daugſyk dėl Cʒyʒ́ės taip păſı̆dárė -</l>
 				</lg>
-				<lg xml:id="part-2-lg-66">
+				<lg type="stanza" n="23" xml:id="part-2-lg-66">
 					<l n="377" xml:id="part-2-lg-66-l-1038">Bèt àk! kaipgı̆ găliù mokėt', kàs reik', ſăwŏ Pónams?</l>
 					<l n="378" xml:id="part-2-lg-66-l-1039">Kàd nĕlăbà Sʒeimyna jaù mănĕ wiſſą̆ ſŭėdė -</l>
 					<l n="379" xml:id="part-2-lg-66-l-1040">Ak! mân Biedʒ́ui jaù bewéik reik's Ubbăgăis eiti -</l>
@@ -1211,7 +1211,7 @@
 					<l n="387" xml:id="part-2-lg-66-l-1048">Ir diddey mănĕ gwóltija, kàd aſʒ păſkŭtinnį,</l>
 					<l n="388" xml:id="part-2-lg-66-l-1049">Ir wienturtį Werſʒį jiems mĕſı̆nėt' păʒ́ădėcʒau -</l>
 				</lg>
-				<lg xml:id="part-2-lg-67">
+				<lg type="stanza" n="24" xml:id="part-2-lg-67">
 					<l n="389" xml:id="part-2-lg-67-l-1050">Bèt ir dėl Algôs taipjaù kasmét's păſı̆dáro.</l>
 					<l n="390" xml:id="part-2-lg-67-l-1051">Kartais Waikpălăikis Bukſwàs wôs mokă nĕſʒóti,</l>
 					<l n="391" xml:id="part-2-lg-67-l-1052">Ir daugſyk nĕſı̆gėdėdams / meldʒiu nĕpădywyk /</l>
@@ -1232,7 +1232,7 @@
 					<l n="406" xml:id="part-2-lg-67-l-1067">O paſkuy girdėk, kaip Blóʒnas tôks į̆ſı̆rėmęs,</l>
 					<l n="407" xml:id="part-2-lg-67-l-1068">Dâr ir Páſėlio brangaùs iſʒwerʒ́t' nĕſı̆gėdės -</l>
 				</lg>
-				<lg xml:id="part-2-lg-68">
+				<lg type="stanza" n="25" xml:id="part-2-lg-68">
 					<l n="408" xml:id="part-2-lg-68-l-1069">Bèt kàd dirbt' ką reik', wiſſùr Dywaì păſı̆dáro.</l>
 					<l n="409" xml:id="part-2-lg-68-l-1070">Wágys wôs Mėſôs grecʒnôs gardʒ́ey prı̆ſı̆ėdė,</l>
 					<l n="410" xml:id="part-2-lg-68-l-1071">Ir ſaldʒ́iu Koſʒtùwju wŏs doſnay prı̆ſı̆gėrė;</l>
@@ -1260,7 +1260,7 @@
 					<l n="432" xml:id="part-2-lg-68-l-1093">Taip, kàd mân kelliàs Nedėles ſirgtı̆ rĕikėjo.</l>
 					<l n="433" xml:id="part-2-lg-68-l-1094">Taì margì Daiktaì! kàd jaù Plaukaì păſı̆ſʒáuſʒia -</l>
 				</lg>
-				<lg xml:id="part-2-lg-69">
+				<lg type="stanza" n="26" xml:id="part-2-lg-69">
 					<l n="434" xml:id="part-2-lg-69-l-1095">Kriʒʒui taip bĕſı̆ſkundʒ́ant, ſʒtai Pulkai ſŭſı̆bėgo,</l>
 					<l n="435" xml:id="part-2-lg-69-l-1096">Ir wiſſùr Rėksmaì: ſʒôk, kirſk, grėbk, kráuk păſı̆dárė.</l>
 					<l n="436" xml:id="part-2-lg-69-l-1097">Tů Laukai, kaip ſkruſdėlyn's kribʒ́dėtı̆ păgáwo,</l>
@@ -1277,7 +1277,7 @@
 					<l n="447" xml:id="part-2-lg-69-l-1108">Bûrams tů wiſſiems wiſſùr iſʒtuſʒtı̆nŏ Piewąs;</l>
 					<l n="448" xml:id="part-2-lg-69-l-1109">Tikt Plaucʒúno wieno dâr nè kruttı̆nŏ Sklypą.</l>
 				</lg>
-				<lg xml:id="part-2-lg-70">
+				<lg type="stanza" n="27" xml:id="part-2-lg-70">
 					<l n="449" xml:id="part-2-lg-70-l-1110">Tàs Nenáudėlis Plaucʒûn's pàs Káſpărą̆ pérnay</l>
 					<l n="450" xml:id="part-2-lg-70-l-1111">Talkojè păwı̆tôt's, taip baiſey búwŏ prı̆rìjęs,</l>
 					<l n="451" xml:id="part-2-lg-70-l-1112">Kàd jįs Náktij' ant tamſû Laukû klı̆dı̆nėdams</l>
@@ -1291,7 +1291,7 @@
 					<l n="459" xml:id="part-2-lg-70-l-1120">Ik' paſkiáus iſʒ Pápykio Berʒ́innį păgáwęs,</l>
 					<l n="460" xml:id="part-2-lg-70-l-1121">Pácʒę ſù glupaìs Waikaìs kŏnĕ nùmŭſʒĕ Smirdas</l>
 				</lg>
-				<lg xml:id="part-2-lg-71">
+				<lg type="stanza" n="28" xml:id="part-2-lg-71">
 					<l n="461" xml:id="part-2-lg-71-l-1122">Taip potâm jiſſaì neſwietiſʒkay prı̆ſı̆dúkęs,</l>
 					<l n="462" xml:id="part-2-lg-71-l-1123">Ir wienauſį Kuinpălăikį praſtay păʒ́ĕbójęs,</l>
 					<l n="463" xml:id="part-2-lg-71-l-1124">I Kărăláucʒų Dalgį pirkt' tieſôg nŭkĕláwo.</l>
@@ -1305,7 +1305,7 @@
 					<l n="471" xml:id="part-2-lg-71-l-1132">Bèt Kaimynai jo, Ruggiùs jaù búwŏ ſŭwálę,</l>
 					<l n="472" xml:id="part-2-lg-71-l-1133">Ir kellì Kwiecʒû Plyckùs păſı̆képę wálgė.</l>
 				</lg>
-				<lg xml:id="part-2-lg-72">
+				<lg type="stanza" n="29" xml:id="part-2-lg-72">
 					<l n="473" xml:id="part-2-lg-72-l-1134">Mân dėlto bĕſı̆dywijant, ſʒtai Káſpărŏ Tarnas</l>
 					<l n="474" xml:id="part-2-lg-72-l-1135">Iſʒ Ruggiû Kiaulès guinódams, mân păſı̆rodė.</l>
 					<l n="475" xml:id="part-2-lg-72-l-1136">Kàs tai, kláuſiau jį, kienó tà dwylı̆kă Parſʒu?</l>
@@ -1317,7 +1317,7 @@
 					<l n="481" xml:id="part-2-lg-72-l-1142">Ir néy Uttėlė, kraujû prı̆ſı̆ſurbŭſı̆ ſlenka;</l>
 					<l n="482" xml:id="part-2-lg-72-l-1143">Ką jaù Bernas weiks, kàd jâm jìs lieps păſı̆purtit'</l>
 				</lg>
-				<lg xml:id="part-2-lg-73">
+				<lg type="stanza" n="30" xml:id="part-2-lg-73">
 					<l n="483" xml:id="part-2-lg-73-l-1144">Ak tărĕ Paikʒ́entis mokyto Blebbĕriŏ Bérnas:</l>
 					<l n="484" xml:id="part-2-lg-73-l-1145">Mâns Gaidaù! nè miſlik, kàd tikt múſŭ Pŏnácʒei</l>
 					<l n="485" xml:id="part-2-lg-73-l-1146">Ant Cʒeſniu ſù Iumprowôm's durnay ſʒŏkı̆nėja,</l>
@@ -1332,7 +1332,7 @@
 					<l n="494" xml:id="part-2-lg-73-l-1155">Bèt ir Burai jaù nů ju mokinnăſı̆ bránit',</l>
 					<l n="495" xml:id="part-2-lg-73-l-1156">Ir bĕſı̆ſʒypſojas, kàd Kriʒʒas Kriʒʒă prı̆gáuna.</l>
 				</lg>
-				<lg xml:id="part-2-lg-74">
+				<lg type="stanza" n="31" xml:id="part-2-lg-74">
 					<l n="496" xml:id="part-2-lg-74-l-1157">Eik nè ʒaunik taip, aſʒ jam draſà păſăkydams,</l>
 					<l n="497" xml:id="part-2-lg-74-l-1158">Dywijaus jo Kalbai, tů nù jo nŭſı̆gréʒ́ęs.</l>
 					<l n="498" xml:id="part-2-lg-74-l-1159">Sáko rôds Mieſtè, kàd Búrai menk ı̆ſſı̆máno,</l>
@@ -1343,7 +1343,7 @@
 					<l n="503" xml:id="part-2-lg-74-l-1164">Sù Protù daugſyk apgáuna diddĕlį̆ Póną;</l>
 					<l n="504" xml:id="part-2-lg-74-l-1165">Tikt nĕdryſta Biedʒus wiſſ, kaip reik', păſăkyti</l>
 				</lg>
-				<lg xml:id="part-2-lg-75">
+				<lg type="stanza" n="32" xml:id="part-2-lg-75">
 					<l n="505" xml:id="part-2-lg-75-l-1166">Taip bĕdŭmójant mân, ſʒtai wėl Nukimm's păſı̆dárė.</l>
 					<l n="506" xml:id="part-2-lg-75-l-1167">Ródėſ' mân iſʒtieſ', kàd Iáucʒû Kaimĕnĕ blówė</l>
 					<l n="507" xml:id="part-2-lg-75-l-1168">O ſʒtai Waikpălăikei Plaucʒúno pàrnĕſʒĕ Plónį.</l>
@@ -1370,7 +1370,7 @@
 					<l n="528" xml:id="part-2-lg-75-l-1189">Taip neſwétiſʒkay ir kiauliſʒkay prı̆ſı̆rìjo,</l>
 					<l n="529" xml:id="part-2-lg-75-l-1190">Kàd jaù ſù wiſſaìs Swecʒeìs po Sůlŭ nŭpůlė -</l>
 				</lg>
-				<lg xml:id="part-2-lg-76">
+				<lg type="stanza" n="33" xml:id="part-2-lg-76">
 					<l n="530" xml:id="part-2-lg-76-l-1191">Ak! tărĕ Selmas, jaù toktù ſù múſŭ Gădyne,</l>
 					<l n="531" xml:id="part-2-lg-76-l-1192">Kaip jaù Sʒweiſtĕrı̆s ir Prancúʒas Lietŭwą gáwo.</l>
 					<l n="532" xml:id="part-2-lg-76-l-1193">Rôds ir tarp Lietùw'ninkû tûl's randăſı̆ Kiaulė,</l>
@@ -1385,7 +1385,7 @@
 					<l n="541" xml:id="part-2-lg-76-l-1202">Més Lietùw'ninkai taip baiſey ryt' nĕſı̆gėdim',</l>
 					<l n="542" xml:id="part-2-lg-76-l-1203">Kàd ir Wókiecʒei glupóki tùr nŭſı̆dywit' -</l>
 				</lg>
-				<lg xml:id="part-2-lg-77">
+				<lg type="stanza" n="34" xml:id="part-2-lg-77">
 					<l n="543" xml:id="part-2-lg-77-l-1204">Selmui taip bĕſı̆raukant, ſʒtaì Păkămórė̆ ſŭrikko:</l>
 					<l n="544" xml:id="part-2-lg-77-l-1205">"Waikai! kâm wiſſ wėpſôt' taip? ant Dargănă ródoſ',</l>
 					<l n="545" xml:id="part-2-lg-77-l-1206">"Ir Stulpaì Saulélės ant Dĕbĕſiû prăſı̆plátin'.</l>
@@ -1413,7 +1413,7 @@
 					<l n="567" xml:id="part-2-lg-77-l-1228">"O Galwíams warkſtantiems, nĕtŭrrėdami Prádû,</l>
 					<l n="568" xml:id="part-2-lg-77-l-1229">"Iſʒ Bėdôs Pietùms nĕdăryta Páſʒărą̆ důſim' -</l>
 				</lg>
-				<lg xml:id="part-2-lg-78">
+				<lg type="stanza" n="35" xml:id="part-2-lg-78">
 					<l n="569" xml:id="part-2-lg-78-l-1230">"O jûs Móters, ar ir jûs taipjau păſı̆leidot'?</l>
 					<l n="570" xml:id="part-2-lg-78-l-1231">"Kâm Linnû ráut', ir kaip reik', iſʒkarſʒt' nĕſſı̆rengiat?</l>
 					<l n="571" xml:id="part-2-lg-78-l-1232">"Ar nè Gėda jùms, kàd Wokiecʒû Găſpădinnės</l>
@@ -1431,7 +1431,7 @@
 					<l n="583" xml:id="part-2-lg-78-l-1244">"Bèt jaù ir prancúʒiſʒkay kalbėt' prăſı̆mánė.</l>
 					<l n="584" xml:id="part-2-lg-78-l-1245">"Taipgı̆ bĕʒaunı̆dămôs ir Darbo ſàwŏ pămirſʒta -</l>
 				</lg>
-				<lg xml:id="part-2-lg-79">
+				<lg type="stanza" n="36" xml:id="part-2-lg-79">
 					<l n="585" xml:id="part-2-lg-79-l-1246">O jûs Wyrai! kâmgı̆ Nĕnáudėlû Mŏtĕriſʒkiu,</l>
 					<l n="586" xml:id="part-2-lg-79-l-1247">"Ir Iſʒdykeliû Mergu Raſpuſtą nĕ draudʒiat?</l>
 					<l n="587" xml:id="part-2-lg-79-l-1248">"Ar jaù nórit' Wókiecʒiams nůgì păſı̆ródit',</l>
@@ -1460,7 +1460,7 @@
 					<l n="610" xml:id="part-2-lg-79-l-1271">Ʒ́innôt' jùk, kaip Grybas, kàd jį mókı̆ păprówit',</l>
 					<l n="611" xml:id="part-2-lg-79-l-1272">Wirrălŭs ir Ăwı̆ʒ́u Krůpàs uʒ́gardı̆nă ſʒauney -</l>
 				</lg>
-				<lg xml:id="part-2-lg-80">
+				<lg type="stanza" n="37" xml:id="part-2-lg-80">
 					<l n="612" xml:id="part-2-lg-80-l-1273">Bet ir ſù Riĕſʒŭtais ſaldʒ́eis taipjaù păſı̆dáre.</l>
 					<l n="613" xml:id="part-2-lg-80-l-1274">Wókietės tokiû Daiktû Bacʒkàs prı̆ſı̆rinko,</l>
 					<l n="614" xml:id="part-2-lg-80-l-1275">Ir jaù kélios jû pardůt' Ʒ́akkùs prı̆ſı̆pylė.</l>
@@ -1475,7 +1475,7 @@
 					<l n="623" xml:id="part-2-lg-80-l-1284">Dantys jùk, annôt annô, ſukróſʒŭſŭ Métû,</l>
 					<l n="624" xml:id="part-2-lg-80-l-1285">Rieſʒŭtı̆ pérką̂ſt' ir kramtyt', jaù nèdĕră Bóbôms -</l>
 				</lg>
-				<lg xml:id="part-2-lg-81">
+				<lg type="stanza" n="38" xml:id="part-2-lg-81">
 					<l n="625" xml:id="part-2-lg-81-l-1286">Allĕ nĕ reik' dėl to dâr tą Niekuttı̆ păniekit'</l>
 					<l n="626" xml:id="part-2-lg-81-l-1287">Mergos wiſſos, ir wiſſì jaunintĕlı̆ Klápai</l>
 					<l n="627" xml:id="part-2-lg-81-l-1288">Tàs Gėrybęs jùk kramtydămı̆ gárbı̆nă ſkaudʒ́ey.</l>
@@ -1491,7 +1491,7 @@
 					<l n="637" xml:id="part-2-lg-81-l-1298">Pákŭlŭ bey Linnu Gryſʒtès pĕſʒı̆nėdămı̆ ſtapters.</l>
 					<l n="638" xml:id="part-2-lg-81-l-1299">Taip Ʒ́iemà păſı̆baigs, o més nůgì păſı̆likſim'.</l>
 				</lg>
-				<lg xml:id="part-2-lg-82">
+				<lg type="stanza" n="39" xml:id="part-2-lg-82">
 					<l n="639" xml:id="part-2-lg-82-l-1300">Stuy tărĕ, Kaiminkàs wiernay uʒſtódămă Iékė:</l>
 					<l n="640" xml:id="part-2-lg-82-l-1301">Móters! ar jaù més wiſſáy păſı̆důſı̆mĕ Gėdai?</l>
 					<l n="641" xml:id="part-2-lg-82-l-1302">Kàs tai pèr Nukimm's? dėl kô taip rekiătĕ Wyrai?</l>
@@ -1503,7 +1503,7 @@
 					<l n="647" xml:id="part-2-lg-82-l-1308">O wey dâr nĕwălyt's ant Lauko ſtôw Wăſărójas,</l>
 					<l n="648" xml:id="part-2-lg-82-l-1309">Irgı̆ Kănápės Wėjû parblôkſʒtos ſwı̆rı̆nėja.</l>
 				</lg>
-				<lg xml:id="part-2-lg-83">
+				<lg type="stanza" n="40" xml:id="part-2-lg-83">
 					<l n="649" xml:id="part-2-lg-83-l-1310">Taip bĕſı̆prieſʒijant, ſʒtai! Wákmiſtras păſı̆róde,</l>
 					<l n="650" xml:id="part-2-lg-83-l-1311">Ir ſù jům' Sʒlapjurgis, bey Păkŭlûns Păkămóre.</l>
 					<l n="651" xml:id="part-2-lg-83-l-1312">Tůs baiſingus tris Swecʒùs pămătydămı̆ Búrai,</l>
@@ -1539,7 +1539,7 @@
 					<l n="681" xml:id="part-2-lg-83-l-1342">"Kàd po tiek Wargû bèn kartą wėl păſı̆dʒ́augtu,</l>
 					<l n="682" xml:id="part-2-lg-83-l-1343">"Ir taip daug pardówitas Dŭſʒĕlès gaiwįtu...</l>
 				</lg>
-				<lg xml:id="part-2-lg-84">
+				<lg type="stanza" n="41" xml:id="part-2-lg-84">
 					<l n="683" xml:id="part-2-lg-84-l-1344">"Allĕ Ʒ́mŏgaù, Ʒ́mogaù! ſaugókiſ' to nĕ mı̆nė́ti,</l>
 					<l n="684" xml:id="part-2-lg-84-l-1345">"Kùrs tâw ant Laukû bĕgı̆nėjant ir trŭſı̆nėjant,</l>
 					<l n="685" xml:id="part-2-lg-84-l-1346">"Sù ſăwŏ dangiſʒkais Sargaìs kribʒdėtı̆ pădėjo.</l>
@@ -1561,7 +1561,7 @@
 					<l n="701" xml:id="part-2-lg-84-l-1362">"Kàd koʒ́nâm, kàs reik's, į Cʒėſo Reikălą̆ tikrą</l>
 					<l n="702" xml:id="part-2-lg-84-l-1363">"Cʒupert irgı̆ nŭtwért' tůjaùs ſù Sáujĕ gălėſit' -</l>
 				</lg>
-				<lg xml:id="part-2-lg-85">
+				<lg type="stanza" n="42" xml:id="part-2-lg-85">
 					<l n="703" xml:id="part-2-lg-85-l-1364">Taip mùs atſuſdams Pôns Amtsrôt's múſ' mălŏningas</l>
 					<l n="704" xml:id="part-2-lg-85-l-1365">Mùms jŭſŭ Myliſtą ſʒį karta pàliĕpĕ ſweikįt,</l>
 					<l n="705" xml:id="part-2-lg-85-l-1366">Melſdams nůſʒirdʒey wiſſùs, cʒeſù păſı̆rupįt',</l>
@@ -1579,7 +1579,7 @@
 			</div>
 			<div n="3" xml:id="part-3" type="part" data-level="1">
 				<head>Rùdenio Gerýbės</head>
-				<lg xml:id="part-3-lg-86">
+				<lg type="stanza" n="1" xml:id="part-3-lg-86">
 					<l n="1" xml:id="part-3-lg-86-l-1377">Ànt, saulélė wėl nu mús' atstódămă ritas,</l>
 					<l n="2" xml:id="part-3-lg-86-l-1378">Ìrgı̆ pălìkŭsı̆ mùs greità wăkăróp nŭsı̆léidza.</l>
 					<l n="3" xml:id="part-3-lg-86-l-1379">Weì, kasdën daugiaùs ji mùms săwŏ spìndŭlį slépia;</l>
@@ -1592,7 +1592,7 @@
 					<l n="10" xml:id="part-3-lg-86-l-1386">Ó kitùs atszìlt į stùbą rágı̆nă lįsti,</l>
 					<l n="11" xml:id="part-3-lg-86-l-1387">Ìr walgiùs drungnùs bei szìltą wìrălą̆ wálgyt.</l>
 				</lg>
-				<lg xml:id="part-3-lg-87">
+				<lg type="stanza" n="2" xml:id="part-3-lg-87">
 					<l n="12" xml:id="part-3-lg-87-l-1388">Żémė sù wisaìs păszăleìs įmùrŭsı̆ wèrkia,</l>
 					<l n="13" xml:id="part-3-lg-87-l-1389">Kàd mŭsŭ rátai jós iszpláutą nùgărą̆ drásko.</l>
 					<l n="14" xml:id="part-3-lg-87-l-1390">Kùr pirm dù kuinù lengwaý mums pàwĕżė̆ násztą,</l>
@@ -1604,7 +1604,7 @@
 					<l n="20" xml:id="part-3-lg-87-l-1396">Wýżos sù blogaìs sopágais wándĕnį̆ sùrbia,</l>
 					<l n="21" xml:id="part-3-lg-87-l-1397">Ìr biauriùs purwùs kaip tászlą mįdămı̆ mìnko.</l>
 				</lg>
-				<lg xml:id="part-3-lg-88">
+				<lg type="stanza" n="3" xml:id="part-3-lg-88">
 					<l n="22" xml:id="part-3-lg-88-l-1398">Àk, kur dìngot gëdros júsgı̆ păwásăriŏ dënos,</l>
 					<l n="23" xml:id="part-3-lg-88-l-1399">Kaìp mes, pirmąsýk stubós atwérdămı̆ lángus,</l>
 					<l n="24" xml:id="part-3-lg-88-l-1400">Szìldantį sziltós saulélės spìndŭlį̆ jaùtėm?</l>
@@ -1621,7 +1621,7 @@
 					<l n="35" xml:id="part-3-lg-88-l-1411">Taìp laukaì păsı̆lìko mùms wisùr gė̆dŭlìngi,</l>
 					<l n="36" xml:id="part-3-lg-88-l-1412">Ìrgı̆ grŏżýbės jú nei kápas séns păsı̆ródo.</l>
 				</lg>
-				<lg xml:id="part-3-lg-89">
+				<lg type="stanza" n="4" xml:id="part-3-lg-89">
 					<l n="37" xml:id="part-3-lg-89-l-1413">Krúmus ir girès linksmàs jau Gìltı̆nė̆ sùka,</l>
 					<l n="38" xml:id="part-3-lg-89-l-1414">Ìr grożýbes jú gaiszìn draskýdămă wėtra.</l>
 					<l n="39" xml:id="part-3-lg-89-l-1415">Szákos, ant kuriú po lápais ùżgı̆mė̆ weìslė,</l>
@@ -1641,7 +1641,7 @@
 					<l n="53" xml:id="part-3-lg-89-l-1429">Ó pauksztélei sù dainóms anksztaý păsı̆slėpė,</l>
 					<l n="54" xml:id="part-3-lg-89-l-1430">Ìrgı̆ bĕ rúpeszu szaltaý sapnůdămı̆ mëgti.</l>
 				</lg>
-				<lg xml:id="part-3-lg-90">
+				<lg type="stanza" n="5" xml:id="part-3-lg-90">
 					<l n="55" xml:id="part-3-lg-90-l-1431">Àk, darżú grożýbės jús su sáwŏ żŏlélėms,</l>
 					<l n="56" xml:id="part-3-lg-90-l-1432">Jús kwëtkélės jáunos, júsgı̆ păwásăriŏ szlówė,</l>
 					<l n="57" xml:id="part-3-lg-90-l-1433">Àk, kur dìngo jús' puikùms su sáwŏ kwăpéleis!</l>
@@ -1657,7 +1657,7 @@
 					<l n="67" xml:id="part-3-lg-90-l-1443">Ar dėl jús' dainú szwentú jus szériămĕ twártůs;</l>
 					<l n="68" xml:id="part-3-lg-90-l-1444">Né, mes dėl mėsós tiktaý jŭsŭ gìriămĕ bàlsą.</l>
 				</lg>
-				<lg xml:id="part-3-lg-91">
+				<lg type="stanza" n="6" xml:id="part-3-lg-91">
 					<l n="69" xml:id="part-3-lg-91-l-1445">Tìkt dywaì żiurėt, kaip móters dìlı̆nă stùngius,</l>
 					<l n="70" xml:id="part-3-lg-91-l-1446">Ìr baisù klausýt, kad bóbos társzkı̆nă půdus.</l>
 					<l n="71" xml:id="part-3-lg-91-l-1447">Grýta sù Pimè kampůto titnăgŏ jëszko,</l>
@@ -1672,7 +1672,7 @@
 					<l n="80" xml:id="part-3-lg-91-l-1456">Nės Astė pëtùms nŭpĕnėtą szùtı̆nă gaìdį,</l>
 					<l n="81" xml:id="part-3-lg-91-l-1457">Ìr kelìs kwëczú plyckùs į kákălį̆ száuja.</l>
 				</lg>
-				<lg xml:id="part-3-lg-92">
+				<lg type="stanza" n="7" xml:id="part-3-lg-92">
 					<l n="82" xml:id="part-3-lg-92-l-1458">Dócziu taìp bĕsı̆laìżant ìr dideý bĕsı̆dzaùgiant,</l>
 					<l n="83" xml:id="part-3-lg-92-l-1459">Sztaì, kwëslýs puikeý rėdýts ir raìts păsı̆ródė,</l>
 					<l n="84" xml:id="part-3-lg-92-l-1460">Ìr wisùs swodbón ateìt pas Krìzą̆ păprászė.</l>
@@ -1701,7 +1701,7 @@
 					<l n="107" xml:id="part-3-lg-92-l-1483">Bóbos, szùksztu jùms, margú wainìkŭ nŏrėti,</l>
 					<l n="108" xml:id="part-3-lg-92-l-1484">Ó jus mérgos wėl, mináu, n'ŭssı̆geiskı̆tĕ kýku.</l>
 				</lg>
-				<lg xml:id="part-3-lg-93">
+				<lg type="stanza" n="8" xml:id="part-3-lg-93">
 					<l n="109" xml:id="part-3-lg-93-l-1485">Taìp kaip gìrdit, dìdis pùlks wisaìp ı̆ssı̆rėdęs,</l>
 					<l n="110" xml:id="part-3-lg-93-l-1486">Irgı̆ nĕszwánkey klýkaudams pas Krìzą̆ nŭkáko.</l>
 					<l n="111" xml:id="part-3-lg-93-l-1487">Krìzas tů păsı̆klóniodams pasweíkı̆nŏ kóżną,</l>
@@ -1713,7 +1713,7 @@
 					<l n="117" xml:id="part-3-lg-93-l-1493">Kàd kelì jau búriszkas szutkàs prăsı̆mánė,</l>
 					<l n="118" xml:id="part-3-lg-93-l-1494">Ìr wëns wálgydams pas stálą szúdą̆ păsákė.</l>
 				</lg>
-				<lg xml:id="part-3-lg-94">
+				<lg type="stanza" n="9" xml:id="part-3-lg-94">
 					<l n="119" xml:id="part-3-lg-94-l-1495">Taìp pirmónes swódbiszkas linksmaý bĕrăgáujant,</l>
 					<l n="120" xml:id="part-3-lg-94-l-1496">Sztaì, tů swódbiszkas bliowìms wisùr păsı̆kėlė,</l>
 					<l n="121" xml:id="part-3-lg-94-l-1497">Taìp, kad ìr arkleì blogì szŏkı̆nėdămı̆ żwéngė.</l>
@@ -1730,7 +1730,7 @@
 					<l n="132" xml:id="part-3-lg-94-l-1508">Ànt kuriós szwents wýskupas pas dëwstălį̆ szwèntą</l>
 					<l n="133" xml:id="part-3-lg-94-l-1509">Winczăwŏdams, kaip reìk', żegnónę bùwŏ pădėjęs.</l>
 				</lg>
-				<lg xml:id="part-3-lg-95">
+				<lg type="stanza" n="10" xml:id="part-3-lg-95">
 					<l n="134" xml:id="part-3-lg-95-l-1510">Gèntys ir kaimýnai, jaù wisì sŭsı̆bėgę,</l>
 					<l n="135" xml:id="part-3-lg-95-l-1511">Ìr jaunìkį sù marczè paswéikı̆nĕ̜ daìley,</l>
 					<l n="136" xml:id="part-3-lg-95-l-1512">Tů gardzeý păwı̆tót į Krìzo sùwĕdė̆ námą.</l>
@@ -1744,7 +1744,7 @@
 					<l n="144" xml:id="part-3-lg-95-l-1520">Bèt këk kiaùliu beì awiú, mė̆sı̆nìnks nĕrŏkáwo;</l>
 					<l n="145" xml:id="part-3-lg-95-l-1521">Àlĕ żą̆sú bei wìsztu wós wënà păsı̆lìko.</l>
 				</lg>
-				<lg xml:id="part-3-lg-96">
+				<lg type="stanza" n="11" xml:id="part-3-lg-96">
 					<l n="146" xml:id="part-3-lg-96-l-1522">Tàs mėsàs wisókias szeìp ir taìp sŭkăpótas,</l>
 					<l n="147" xml:id="part-3-lg-96-l-1523">Krìzo kùkorius taip smàrkey plészkı̆nŏ swódbai,</l>
 					<l n="148" xml:id="part-3-lg-96-l-1524">Kàd ant úlyczu wisùr użìms păsı̆kėlė,</l>
@@ -1759,7 +1759,7 @@
 					<l n="157" xml:id="part-3-lg-96-l-1533">Jáutënos rëbiós, kiaulënos ìrgı̆ żąsënos,</l>
 					<l n="158" xml:id="part-3-lg-96-l-1534">Plaùczu beì kĕpĕnú bei daùgel szùtį̆tŭ blėku.</l>
 				</lg>
-				<lg xml:id="part-3-lg-97">
+				<lg type="stanza" n="12" xml:id="part-3-lg-97">
 					<l n="159" xml:id="part-3-lg-97-l-1535">Swótams taìp potám Tė̆wėmús', szwentaý păsı̆kaìczus,</l>
 					<l n="160" xml:id="part-3-lg-97-l-1536">Ir krikszczóniszkay pas stálą jaù sŭsı̆sėdus,</l>
 					<l n="161" xml:id="part-3-lg-97-l-1537">Krìzas sáwŏ swĕczùs meilìngay rágı̆nŏ wálgyt,</l>
@@ -1778,7 +1778,7 @@
 					<l n="174" xml:id="part-3-lg-97-l-1550">Nės jë mìslyjo, kad búrs, pas Krìzą̆ sė̆dėdams,</l>
 					<l n="175" xml:id="part-3-lg-97-l-1551">Klóniotis ir póniszkay păsı̆èlgt nĕprı̆wálo.</l>
 				</lg>
-				<lg xml:id="part-3-lg-98">
+				<lg type="stanza" n="13" xml:id="part-3-lg-98">
 					<l n="176" xml:id="part-3-lg-98-l-1552">Taìpgı̆ bĕwálgant jaù ir búriszkay bĕsı̆dzaùgiant,</l>
 					<l n="177" xml:id="part-3-lg-98-l-1553">Krìzas szúktĕrė̆jo; sztai, tů tarnaì păsı̆ródė,</l>
 					<l n="178" xml:id="part-3-lg-98-l-1554">Ìr alaùs macnaùs su drógais àtnĕszė̆ báczką;</l>
@@ -1787,7 +1787,7 @@
 					<l n="181" xml:id="part-3-lg-98-l-1557">Nės tirsztóks alùs perdėm per gómŭrį̆ plaùkdams</l>
 					<l n="182" xml:id="part-3-lg-98-l-1558">Ìr tirsztì malkaì weikiaùs prisótı̆nă skìlwį.</l>
 				</lg>
-				<lg xml:id="part-3-lg-99">
+				<lg type="stanza" n="14" xml:id="part-3-lg-99">
 					<l n="183" xml:id="part-3-lg-99-l-1559">Sztaì, wisì swotélei sù păsı̆mėgı̆mŭ wálgę</l>
 					<l n="184" xml:id="part-3-lg-99-l-1560">Ìr tirsztú malkéliu jaù dosnaý prı̆sı̆sùrbę,</l>
 					<l n="185" xml:id="part-3-lg-99-l-1561">Pótĕriŭ, kaìp krikszczonims reìk', skaitýt ŭssı̆mirszo,</l>
@@ -1803,7 +1803,7 @@
 					<l n="195" xml:id="part-3-lg-99-l-1571">Taìp kad kóżnas wëns dėl tó dideý nŭsı̆gàndo,</l>
 					<l n="196" xml:id="part-3-lg-99-l-1572">Ìr wos pùsgywį su drógais ìsznĕszė̆ laùkan.</l>
 				</lg>
-				<lg xml:id="part-3-lg-100">
+				<lg type="stanza" n="15" xml:id="part-3-lg-100">
 					<l n="197" xml:id="part-3-lg-100-l-1573">Bèt ir móters swódbiszkay păsı̆dzaùgt n'ŭssı̆mìrszo,</l>
 					<l n="198" xml:id="part-3-lg-100-l-1574">Àlĕ lăbaý kytreý; nės greìtos mótĕrŭ klástos</l>
 					<l n="199" xml:id="part-3-lg-100-l-1575">Kàrtais ìr kytriáusį klápą mókă prı̆gáuti.</l>
@@ -1839,7 +1839,7 @@
 					<l n="229" xml:id="part-3-lg-100-l-1605">Jùk żinaì, kaip lìnksmas búrs perdaùg prı̆sı̆sùrbęs</l>
 					<l n="230" xml:id="part-3-lg-100-l-1606">Kàrtais ànt czesniú durnàs szutkàs prăsı̆máno.</l>
 				</lg>
-				<lg xml:id="part-3-lg-101">
+				<lg type="stanza" n="16" xml:id="part-3-lg-101">
 					<l n="231" xml:id="part-3-lg-101-l-1607">Bèt girdėkit dár toliaùs, kas czè păsı̆dárė.</l>
 					<l n="232" xml:id="part-3-lg-101-l-1608">Dù kaimýnu nèkwëstu swodbón ătsı̆bástė,</l>
 					<l n="233" xml:id="part-3-lg-101-l-1609">Wëns ju Slùnkium o kitsaì Pelėdă wădìnams.</l>
@@ -1867,7 +1867,7 @@
 					<l n="255" xml:id="part-3-lg-101-l-1631">Slùnkiaus ìrgı̆ Pĕlėdos szónus skàlbtı̆ prădėjo,</l>
 					<l n="256" xml:id="part-3-lg-101-l-1632">Ìr potám, plaukú nŭsı̆twėręs, ìszmĕtė̆ laùkan.</l>
 				</lg>
-				<lg xml:id="part-3-lg-102">
+				<lg type="stanza" n="17" xml:id="part-3-lg-102">
 					<l n="257" xml:id="part-3-lg-102-l-1633">Àlĕ nĕdýwy̆kı̆tės, kalbàs girdėdămı̆ tókias.</l>
 					<l n="258" xml:id="part-3-lg-102-l-1634">Jùk ir pónai, póniszkay daugsýk prı̆sı̆rìję,</l>
 					<l n="259" xml:id="part-3-lg-102-l-1635">Búriszkus sztukiùs kaip més prămănýdămı̆ jůkias.</l>
@@ -1879,7 +1879,7 @@
 					<l n="265" xml:id="part-3-lg-102-l-1641">Àk, szlapjùrgis ir tarp jú, perdaùg prı̆sı̆kószęs,</l>
 					<l n="266" xml:id="part-3-lg-102-l-1642">Búriszkas szutkàs iszplópt taipjaù nĕsı̆gėdi.</l>
 				</lg>
-				<lg xml:id="part-3-lg-103">
+				<lg type="stanza" n="18" xml:id="part-3-lg-103">
 					<l n="267" xml:id="part-3-lg-103-l-1643">Àk, tărė̆ Priczkus, àsz tëk métu szùlcŭ bĕbúdams,</l>
 					<l n="268" xml:id="part-3-lg-103-l-1644">Dwáriszkus budùs ir pónu wìsą̆ răbátą</l>
 					<l n="269" xml:id="part-3-lg-103-l-1645">Plùk į̆sı̆tėmyjau, girdėdams ìrgı̆ žiŭrėdams</l>
@@ -1900,7 +1900,7 @@
 					<l n="284" xml:id="part-3-lg-103-l-1660">Rùpuiżes baisiàs į bliúdą társzkı̆nŏ plátų;</l>
 					<l n="285" xml:id="part-3-lg-103-l-1661">Nės tas rùpuiżes mŭsŭ pónai gárbı̆nŏ skaùdzey.</l>
 				</lg>
-				<lg xml:id="part-3-lg-104">
+				<lg type="stanza" n="19" xml:id="part-3-lg-104">
 					<l n="286" xml:id="part-3-lg-104-l-1662">Taìpgı̆ bĕżiúrint mán jau dúszei pìktă păstójo,</l>
 					<l n="287" xml:id="part-3-lg-104-l-1663">Ìr asz, pró durìs iszszókęs, wémtı̆ prădėjau.</l>
 					<l n="288" xml:id="part-3-lg-104-l-1664">Taìp neswëtiszkay nŭsı̆wėmęs wėl păsı̆ródzau,</l>
@@ -1920,7 +1920,7 @@
 					<l n="302" xml:id="part-3-lg-104-l-1678">Ìr, wisaý dangaùs użmìrszęs, ìmăsı̆ száuksztą,</l>
 					<l n="303" xml:id="part-3-lg-104-l-1679">Ìrgı̆ bĕżaùnydams walgiùs į gómŭrį̆ kìsza.</l>
 				</lg>
-				<lg xml:id="part-3-lg-105">
+				<lg type="stanza" n="20" xml:id="part-3-lg-105">
 					<l n="304" xml:id="part-3-lg-105-l-1680">Àsz dar tókias biaurybès kol gýws nĕrĕgėjęs,</l>
 					<l n="305" xml:id="part-3-lg-105-l-1681">Taìp nŭsı̆dýwyjau, kad jaù kŏnĕ rėktı̆ prădėjau.</l>
 					<l n="306" xml:id="part-3-lg-105-l-1682">Tìkt sŭsı̆mìslyjęs, kad mán cze nèdĕră rėkaut,</l>
@@ -1943,7 +1943,7 @@
 					<l n="323" xml:id="part-3-lg-105-l-1699">Tů kŏnĕ dwìlinks ìr neswëtiszkay nŭsı̆gàndęs,</l>
 					<l n="324" xml:id="part-3-lg-105-l-1700">Pró durìs iszszókau ìrgı̆ nămó parjójau.</l>
 				</lg>
-				<lg xml:id="part-3-lg-106">
+				<lg type="stanza" n="21" xml:id="part-3-lg-106">
 					<l n="325" xml:id="part-3-lg-106-l-1701">Àk, tărĕ Sèlmas, róds neszwánkios músŭ gădýnės</l>
 					<l n="326" xml:id="part-3-lg-106-l-1702">Ànt wisú szelmýstu jaù wisaý păsı̆léido.</l>
 					<l n="327" xml:id="part-3-lg-106-l-1703">Póns ir tàrnas jó peklón tikt bėgă tı̆kt bėgă,</l>
@@ -1959,7 +1959,7 @@
 					<l n="337" xml:id="part-3-lg-106-l-1713">Ó tarnaì jo bè drausmės kekszáudămı̆ jůkias.</l>
 					<l n="338" xml:id="part-3-lg-106-l-1714">Àk kur dìngo wëżlibùms jau músŭ gădýniu!</l>
 				</lg>
-				<lg xml:id="part-3-lg-107">
+				<lg type="stanza" n="22" xml:id="part-3-lg-107">
 					<l n="339" xml:id="part-3-lg-107-l-1715">Taìp bĕsı̆pásăkŏjant ir swódbą wìsą bĕbaìgiant,</l>
 					<l n="340" xml:id="part-3-lg-107-l-1716">Sztaì, tůjaùs wyżóts atbėgęs Blèbĕriŏ tàrnas:</l>
 					<l n="341" xml:id="part-3-lg-107-l-1717">Àk, tărĕ, lìnksmı̆nkı̆tės, jau wėl czesnìs păsı̆dáro.</l>
@@ -1976,7 +1976,7 @@
 					<l n="352" xml:id="part-3-lg-107-l-1728">Taìgı̆ dăbàr czesnìs lëtùwiszkay păsı̆dárė,</l>
 					<l n="353" xml:id="part-3-lg-107-l-1729">Ìr wargùs wisùs użmìrszę wėl ătsı̆gáusim.</l>
 				</lg>
-				<lg xml:id="part-3-lg-108">
+				<lg type="stanza" n="23" xml:id="part-3-lg-108">
 					<l n="354" xml:id="part-3-lg-108-l-1730">Àle nĕmìslykit, tokią girdėdămı̆ kàlbą,</l>
 					<l n="355" xml:id="part-3-lg-108-l-1731">Kàd ant ápjůko ji mùms yrà prămănýta;</l>
 					<l n="356" xml:id="part-3-lg-108-l-1732">Jùk permër mes bëdzei ánt laukú prı̆sı̆wàrgom,</l>
@@ -1995,7 +1995,7 @@
 					<l n="369" xml:id="part-3-lg-108-l-1745">Kád per nósį tészkanczos wis rìtŏsı̆ srówės.</l>
 					<l n="370" xml:id="part-3-lg-108-l-1746">Àk, mes bëdzei, àk wisùr dideý prı̆sı̆wàrgom!</l>
 				</lg>
-				<lg xml:id="part-3-lg-109">
+				<lg type="stanza" n="24" xml:id="part-3-lg-109">
 					<l n="371" xml:id="part-3-lg-109-l-1747">Nùgı̆ dăbàr, nasztàs wargú wisàs nŭsı̆krátę,</l>
 					<l n="372" xml:id="part-3-lg-109-l-1748">Jaù păsı̆lìnksmįkim bensýk czesnýj sŭsı̆kwëtę.</l>
 					<l n="373" xml:id="part-3-lg-109-l-1749">Tám juk Dëws dosnùs gerýbes mùms dŏwănója,</l>
@@ -2019,7 +2019,7 @@
 					<l n="391" xml:id="part-3-lg-109-l-1767">Ìr kad pèr rugiùs į mëlą baùdzăwą̆ bėgdams</l>
 					<l n="392" xml:id="part-3-lg-109-l-1768">Àrgı̆ nămėj ką weìkdams sáw ı̆ssı̆szùtı̆nı̆ kùmpį?</l>
 				</lg>
-				<lg xml:id="part-3-lg-110">
+				<lg type="stanza" n="25" xml:id="part-3-lg-110">
 					<l n="393" xml:id="part-3-lg-110-l-1769">Róds, tărė Laùras, sù mërà wis reìk' păsı̆pùrtįt.</l>
 					<l n="394" xml:id="part-3-lg-110-l-1770">Próto reìk', kad ką rudèns czėsè mė̆sı̆nėji,</l>
 					<l n="395" xml:id="part-3-lg-110-l-1771">Ó kad czėrauji, wėl reìk' su rámzŭmŭ czėraut.</l>
@@ -2037,7 +2037,7 @@
 					<l n="407" xml:id="part-3-lg-110-l-1783">Ó dar ìrgı̆ pălùdënai daugsýk ı̆ssı̆szëpę,</l>
 					<l n="408" xml:id="part-3-lg-110-l-1784">Kàd darbaì laukù prăsı̆plátı̆nă, lŭkŭriă szmótu.</l>
 				</lg>
-				<lg xml:id="part-3-lg-111">
+				<lg type="stanza" n="26" xml:id="part-3-lg-111">
 					<l n="409" xml:id="part-3-lg-111-l-1785">Taìgı̆ nĕ wìs kasdën, nei swódbą dìdĕlĕ̜ kéldams</l>
 					<l n="410" xml:id="part-3-lg-111-l-1786">Ìr nei kókias kriksztynàs pădărýdămăs czėrauk!</l>
 					<l n="411" xml:id="part-3-lg-111-l-1787">Nè kasdën wis sù smalstùmais wėdărą̆ lìnksmįk</l>
@@ -2054,7 +2054,7 @@
 					<l n="422" xml:id="part-3-lg-111-l-1798">Kàd kasdën, kaip reìk', bandýsi màndăgĕy czėraut,</l>
 					<l n="423" xml:id="part-3-lg-111-l-1799">Ìrgı̆ bĕczėraudams kitú dënú pămı̆nėsi.</l>
 				</lg>
-				<lg xml:id="part-3-lg-112">
+				<lg type="stanza" n="27" xml:id="part-3-lg-112">
 					<l n="424" xml:id="part-3-lg-112-l-1800">Àlĕ nĕpýk, gaidaù, kad żódį dár păsăkýsiu.</l>
 					<l n="425" xml:id="part-3-lg-112-l-1801">Tàrp Lëtùwninku daugsýk tuls ràndăsı̆ smìrdas,</l>
 					<l n="426" xml:id="part-3-lg-112-l-1802">Kùrs, lëtùwiszkay kalbėdams ìr szŏkı̆nėdams,</l>
@@ -2070,7 +2070,7 @@
 					<l n="436" xml:id="part-3-lg-112-l-1812">Pìlwą róds kasdën protìngay reìkiă pălìnksmįt,</l>
 					<l n="437" xml:id="part-3-lg-112-l-1813">Bèt ir, kàs ant pìlwo reìk', wis tùrı̆mĕ rúpįt.</l>
 				</lg>
-				<lg xml:id="part-3-lg-113">
+				<lg type="stanza" n="28" xml:id="part-3-lg-113">
 					<l n="438" xml:id="part-3-lg-113-l-1814">Taì jau wìs tësà, szweplódams ìsztărė̆ Bùżas;</l>
 					<l n="439" xml:id="part-3-lg-113-l-1815">Żìnom jùk wisì, kaip més nůgìntĕlı̆ gémam,</l>
 					<l n="440" xml:id="part-3-lg-113-l-1816">Taìp didzáusias póns, kaip més wyżótı̆ năbágai,</l>
@@ -2085,7 +2085,7 @@
 					<l n="449" xml:id="part-3-lg-113-l-1825">Àk, nĕpădýwyk mán dėl tókio dýwı̆nŏ żódzo;</l>
 					<l n="450" xml:id="part-3-lg-113-l-1826">Jùk żinaì, kad wìs tësà, ką czè sŭwăpėjom.</l>
 				</lg>
-				<lg xml:id="part-3-lg-114">
+				<lg type="stanza" n="29" xml:id="part-3-lg-114">
 					<l n="451" xml:id="part-3-lg-114-l-1827">Taìp këkwëns żmogùs wargìngay pràdĕdă żióptert,</l>
 					<l n="452" xml:id="part-3-lg-114-l-1828">Kàd jis ìsz tamsós į swëto rìtăsı̆ szësą,</l>
 					<l n="453" xml:id="part-3-lg-114-l-1829">Ìr potám lopszýj sapnůdams szaúkiă păgálbos;</l>
@@ -2106,7 +2106,7 @@
 					<l n="468" xml:id="part-3-lg-114-l-1844">Kàd wëns kaìp baisùs kŭnį̆gáiksztis skiaùtŭrĕ̜ ródo,</l>
 					<l n="469" xml:id="part-3-lg-114-l-1845">Ó kits pèr purwùs klampódams mėżı̆nį̆ raùso.</l>
 				</lg>
-				<lg xml:id="part-3-lg-115">
+				<lg type="stanza" n="30" xml:id="part-3-lg-115">
 					<l n="470" xml:id="part-3-lg-115-l-1846">Róds yr' daùg żiopliú, kurë năbăgėlį̆ búrą</l>
 					<l n="471" xml:id="part-3-lg-115-l-1847">Ìsz nĕlăbós szirdës per paìką drìmĕlį̆ laìko,</l>
 					<l n="472" xml:id="part-3-lg-115-l-1848">O sztai, pátys jùk daugsýk kaip drìmĕlĕi èlgias.</l>
@@ -2123,7 +2123,7 @@
 					<l n="483" xml:id="part-3-lg-115-l-1859">Ìrgı̆ nĕswëtiszkay darkýdams, wárgı̆nă bëdzų,</l>
 					<l n="484" xml:id="part-3-lg-115-l-1860">Àr bĕsı̆szýpsodams jo prástą nëkı̆nă námą.</l>
 				</lg>
-				<lg xml:id="part-3-lg-116">
+				<lg type="stanza" n="31" xml:id="part-3-lg-116">
 					<l n="485" xml:id="part-3-lg-116-l-1861">Róds, tărė̆ Prìczkus, taìp ir mán daugsýk păsı̆dárė,</l>
 					<l n="486" xml:id="part-3-lg-116-l-1862">Kàd asz szaltyszáudams szén ir tén jŏdı̆nėjau.</l>
 					<l n="487" xml:id="part-3-lg-116-l-1863">Àmtmons kéikė taìp, kad mán plaukaì păsı̆sziáuszė,</l>
@@ -2141,7 +2141,7 @@
 					<l n="499" xml:id="part-3-lg-116-l-1875">Ógı̆ dăbàr taip gėdiszkay wisùr păsı̆ródau,</l>
 					<l n="500" xml:id="part-3-lg-116-l-1876">Kàd ir waìkpălăikei jau mán ı̆ssı̆szëpt păsı̆drąsin.</l>
 				</lg>
-				<lg xml:id="part-3-lg-117">
+				<lg type="stanza" n="32" xml:id="part-3-lg-117">
 					<l n="501" xml:id="part-3-lg-117-l-1877">Ànday trópyjos, kad àsz, į baùdzăwą̆ jódams,</l>
 					<l n="502" xml:id="part-3-lg-117-l-1878">Kaìp szaltýsziui reìk', įdróżiau tìngı̆nį̆ Slùnkių.</l>
 					<l n="503" xml:id="part-3-lg-117-l-1879">Bèt jisaì tůjaùs mănĕ̜ pèszt ir mùszt păsı̆kėsęs,</l>
@@ -2155,7 +2155,7 @@
 					<l n="511" xml:id="part-3-lg-117-l-1887">Kàd jis pràdĕdă tìrpt, żëmós jau nèdĕră kéliui,</l>
 					<l n="512" xml:id="part-3-lg-117-l-1888">Lýg taip sù garbėms wisóms ir mán păsı̆dárė.</l>
 				</lg>
-				<lg xml:id="part-3-lg-118">
+				<lg type="stanza" n="33" xml:id="part-3-lg-118">
 					<l n="513" xml:id="part-3-lg-118-l-1889">Bà, kaip jáuns buwaù, - kur dìngot, mánŏ dë̆nélės! -</l>
 					<l n="514" xml:id="part-3-lg-118-l-1890">Aì, kaip jáuns buwaù, wisì mănĕ̜ gìrdăwŏ klápai.</l>
 					<l n="515" xml:id="part-3-lg-118-l-1891">Àr but' póns ar búrs, ar bérns ar slúgı̆nė̆ kèrdzaus,</l>
@@ -2176,7 +2176,7 @@
 					<l n="530" xml:id="part-3-lg-118-l-1906">Ógı̆ mănęs, żėlėk Dëwè, nuplìkŭsiŏ tàrno</l>
 					<l n="531" xml:id="part-3-lg-118-l-1907">Jaù wisaý nei szìs nei tàs sŭsı̆mìlt nĕsŭprànta.</l>
 				</lg>
-				<lg xml:id="part-3-lg-119">
+				<lg type="stanza" n="34" xml:id="part-3-lg-119">
 					<l n="532" xml:id="part-3-lg-119-l-1908">Àk, tărĕ jám Enskýs, isztráukęs dìdĕlį̆ peilį,</l>
 					<l n="533" xml:id="part-3-lg-119-l-1909">Màns broliaù szirdìngs, kam spárdais taìp sŭsı̆raùkęs?</l>
 					<l n="534" xml:id="part-3-lg-119-l-1910">Jùk ir mán taipjaù kaip táw wisaý păsı̆dárė.</l>
@@ -2194,7 +2194,7 @@
 					<l n="546" xml:id="part-3-lg-119-l-1922">Ìr kaip kóks smarkùs bindókas skéldăwŏ káulus,</l>
 					<l n="547" xml:id="part-3-lg-119-l-1923">Kaìp man Jóns, Mikóls ir Laùras liùdı̆mą̆ důda.</l>
 				</lg>
-				<lg xml:id="part-3-lg-120">
+				<lg type="stanza" n="35" xml:id="part-3-lg-120">
 					<l n="548" xml:id="part-3-lg-120-l-1924">Bèt nĕ gănà dar bùs; asz táw daugiaùs păsăkysiu.</l>
 					<l n="549" xml:id="part-3-lg-120-l-1925">Kàd asz - tìkt girdėk, broliaù, kaip mán păsı̆dárė,</l>
 					<l n="550" xml:id="part-3-lg-120-l-1926">Ìr kaip búrams dár kasméts daugsýk păsı̆dáro,</l>
@@ -2218,7 +2218,7 @@
 					<l n="568" xml:id="part-3-lg-120-l-1944">Àmtmonams mokėt, kad jë jau ùrdĕlį̆ siùncza</l>
 					<l n="569" xml:id="part-3-lg-120-l-1945">Àr per wákmistrus skwërtůt ir mùszt nĕsı̆liáuja.</l>
 				</lg>
-				<lg xml:id="part-3-lg-121">
+				<lg type="stanza" n="36" xml:id="part-3-lg-121">
 					<l n="570" xml:id="part-3-lg-121-l-1946">Àk szirdìngs broliaù, dideý meldzù, nĕpădýwyk,</l>
 					<l n="571" xml:id="part-3-lg-121-l-1947">Ìr nĕsăkýk lë̆sı̆nìnkui, kàd Obrýs mănŏ bérnas</l>
 					<l n="572" xml:id="part-3-lg-121-l-1948">Médzu wógt ar ką păsı̆kìrst kas rùdĕnį̆ rèngias.</l>
@@ -2241,7 +2241,7 @@
 					<l n="589" xml:id="part-3-lg-121-l-1965">Ìr uż pýwą skìnkį wós ar wándĕnį̆ szliùrpdams,</l>
 					<l n="590" xml:id="part-3-lg-121-l-1966">Ìsz bėdós nei Żýdas jaù prı̆wı̆liót păsı̆prátin.</l>
 				</lg>
-				<lg xml:id="part-3-lg-122">
+				<lg type="stanza" n="37" xml:id="part-3-lg-122">
 					<l n="591" xml:id="part-3-lg-122-l-1967">Tàm këmè, broliaù, kur àsz săwŏ szùtı̆nŭ půdą,</l>
 					<l n="592" xml:id="part-3-lg-122-l-1968">Dù tikrù szelmiù păgrătà sŭ mănìm gywéna.</l>
 					<l n="593" xml:id="part-3-lg-122-l-1969">Wëną jú baudzáuninkai Pelėdă wădìna,</l>
@@ -2257,7 +2257,7 @@
 					<l n="603" xml:id="part-3-lg-122-l-1979">Tìkt girdėk, asz tókius táw dywùs păsăkýsiu,</l>
 					<l n="604" xml:id="part-3-lg-122-l-1980">Kàd plaukaì taw ànt żilós galwós păsı̆sziáuszis.</l>
 				</lg>
-				<lg xml:id="part-3-lg-123">
+				<lg type="stanza" n="38" xml:id="part-3-lg-123">
 					<l n="605" xml:id="part-3-lg-123-l-1981">Tróbos smìrdu tú, kad jàs kas nór' į̆sı̆tėmyt,</l>
 					<l n="606" xml:id="part-3-lg-123-l-1982">Neì pustýnės isz wisú păszăliú păsı̆ródo.</l>
 					<l n="607" xml:id="part-3-lg-123-l-1983">Kàd auksztýn żiurì, pămătaì sudrìskŭsį̆ kraìką,</l>
@@ -2272,7 +2272,7 @@
 					<l n="616" xml:id="part-3-lg-123-l-1992">Jùk jë ìr kiaulès stubój taikýt nĕsı̆gėdi,</l>
 					<l n="617" xml:id="part-3-lg-123-l-1993">Ìr, kad jëms padýwyji, dar bárăsı̆ smàrkey.</l>
 				</lg>
-				<lg xml:id="part-3-lg-124">
+				<lg type="stanza" n="39" xml:id="part-3-lg-124">
 					<l n="618" xml:id="part-3-lg-124-l-1994">Ànday trópyjos, kad àsz, Pelėdą̆ sŭtìkęs,</l>
 					<l n="619" xml:id="part-3-lg-124-l-1995">Jám dėl kiaùliszkos biaurýbės ką păsăkýti</l>
 					<l n="620" xml:id="part-3-lg-124-l-1996">Ir jį kaìp kaimýns wërnaý bandzaù pămŏkįti.</l>
@@ -2289,7 +2289,7 @@
 					<l n="631" xml:id="part-3-lg-124-l-2007">Lýg kad skèrdė kàs, stubój sużwìgŏ nĕszwánkey,</l>
 					<l n="632" xml:id="part-3-lg-124-l-2008">Ìr pro lángus ìr plysziùs kuleìs ı̆ssı̆rìto.</l>
 				</lg>
-				<lg xml:id="part-3-lg-125">
+				<lg type="stanza" n="40" xml:id="part-3-lg-125">
 					<l n="633" xml:id="part-3-lg-125-l-2009">Tókius àsz dywùs kol gýws në̆kădós nĕsŭláukęs,</l>
 					<l n="634" xml:id="part-3-lg-125-l-2010">Taìp nŭsı̆dýwyjau, kad mán plaukaì păsı̆sziáuszė.</l>
 					<l n="635" xml:id="part-3-lg-125-l-2011">Ó tù nèprë̆tĕliau skaróts su wàlkătă Slùnkium</l>
@@ -2309,7 +2309,7 @@
 					<l n="649" xml:id="part-3-lg-125-l-2025">Kàd nenáudėlį kokį bandaì pămŏkįti</l>
 					<l n="650" xml:id="part-3-lg-125-l-2026">Ìr pămŏkįdams jį, kaip reìk', păsı̆drąsı̆nı̆ kóliot.</l>
 				</lg>
-				<lg xml:id="part-3-lg-126">
+				<lg type="stanza" n="41" xml:id="part-3-lg-126">
 					<l n="651" xml:id="part-3-lg-126-l-2027">Taìp bĕsı̆pásăkŏjant ir swódbą wìsą bĕbaìgiant,</l>
 					<l n="652" xml:id="part-3-lg-126-l-2028">Źémė sù wisaìs daiktaìs wirpėtı̆ păgáwo.</l>
 					<l n="653" xml:id="part-3-lg-126-l-2029">Tů sweczeì wisì, dėl tó dideý nŭsı̆gàndę,</l>
@@ -2322,7 +2322,7 @@
 					<l n="660" xml:id="part-3-lg-126-l-2036">Kàd ir pélės po szaudaìs kribżdėtı̆ nĕdrįso,</l>
 					<l n="661" xml:id="part-3-lg-126-l-2037">Ó sweczú daugùms saw négandas păsı̆dárė.</l>
 				</lg>
-				<lg xml:id="part-3-lg-127">
+				<lg type="stanza" n="42" xml:id="part-3-lg-127">
 					<l n="662" xml:id="part-3-lg-127-l-2038">Àlĕ nĕdýwy̆kı̆tės kalbàs girdėdămı̆ tókias;</l>
 					<l n="663" xml:id="part-3-lg-127-l-2039">Jùk Doczýs kasméts, suláukęs rùdĕnį̆ rëbų,</l>
 					<l n="664" xml:id="part-3-lg-127-l-2040">Ìr iszkùldams sáwŏ jăwùs, iszgàndı̆nă swëtą.</l>
@@ -2333,7 +2333,7 @@
 					<l n="669" xml:id="part-3-lg-127-l-2045">Jùk wos kiaùlstaldis, wos klėtis jám păsı̆lìko,</l>
 					<l n="670" xml:id="part-3-lg-127-l-2046">Ìrgı̆ nămaì jo neì pustýnė jaù păsı̆ródo.</l>
 				</lg>
-				<lg xml:id="part-3-lg-128">
+				<lg type="stanza" n="43" xml:id="part-3-lg-128">
 					<l n="671" xml:id="part-3-lg-128-l-2047">Tàs neszwánkus dárbs, kurį Doczýs prăsı̆mánė,</l>
 					<l n="672" xml:id="part-3-lg-128-l-2048">Daùg nesándoru bei waìdu swëtĕ pădárė.</l>
 					<l n="673" xml:id="part-3-lg-128-l-2049">Àk këk wëżlibu kaimýnu, bùtą̆ pălìkę,</l>
@@ -2345,7 +2345,7 @@
 					<l n="679" xml:id="part-3-lg-128-l-2055">Żìnom jùk, żĕlĕk Dëwè, kaip músŭ gădýnė,</l>
 					<l n="680" xml:id="part-3-lg-128-l-2056">Àszărăs ìszwerktas po kóju mįdămă, szýpsos.</l>
 				</lg>
-				<lg xml:id="part-3-lg-129">
+				<lg type="stanza" n="44" xml:id="part-3-lg-129">
 					<l n="681" xml:id="part-3-lg-129-l-2057">Àlĕ nĕżinot dár, dėl kó Doczýs nĕpăteìkia,</l>
 					<l n="682" xml:id="part-3-lg-129-l-2058">Ìr dėl kó jis taìp kasméts su sprágı̆lŭ daùżia.</l>
 					<l n="683" xml:id="part-3-lg-129-l-2059">Sáko daùg żmoniú, kurë jo sziùpı̆nį̆ wálgė,</l>
@@ -2361,7 +2361,7 @@
 					<l n="693" xml:id="part-3-lg-129-l-2069">Ó dar tó nĕ gănà, bet ìr waikùs nŭsı̆wédus'</l>
 					<l n="694" xml:id="part-3-lg-129-l-2070">Ìr į tėwo prëglobstį păsŏdìnŭsı̆ maùkia.</l>
 				</lg>
-				<lg xml:id="part-3-lg-130">
+				<lg type="stanza" n="45" xml:id="part-3-lg-130">
 					<l n="695" xml:id="part-3-lg-130-l-2071">Pérnay trópyjos, kad Kàspars, Blèbĕriŏ tàrnas,</l>
 					<l n="696" xml:id="part-3-lg-130-l-2072">Atlankýt Plauczúną, sù Doczù nŭkĕliáwo;</l>
 					<l n="697" xml:id="part-3-lg-130-l-2073">Bèt ir Krìzas sù Laurù tenjaù nŭwăżiáwo.</l>
@@ -2379,7 +2379,7 @@
 					<l n="709" xml:id="part-3-lg-130-l-2085">Ó sweczeì wisì, margóms eilėms sŭsı̆sėdę,</l>
 					<l n="710" xml:id="part-3-lg-130-l-2086">Lászı̆niŭs ir jukàs Plauczúno girdămı̆ wálgė.</l>
 				</lg>
-				<lg xml:id="part-3-lg-131">
+				<lg type="stanza" n="46" xml:id="part-3-lg-131">
 					<l n="711" xml:id="part-3-lg-131-l-2087">Taìpgı̆ bĕwálgant ìr kaimýniszkay bĕsı̆dzaùgiant,</l>
 					<l n="712" xml:id="part-3-lg-131-l-2088">Laùras sù Doczù pămăżì nurnėtı̆ păgáwo,</l>
 					<l n="713" xml:id="part-3-lg-131-l-2089">Ìr dėl kiaùlstaldzu pargráutu ìr păgădįtu</l>
@@ -2389,7 +2389,7 @@
 					<l n="717" xml:id="part-3-lg-131-l-2093">Àlĕ dăbókit dár toliaùs, kas czè păsı̆dárė,</l>
 					<l n="718" xml:id="part-3-lg-131-l-2094">Ìr ką Krìzas, séns żmogùs, mums prànĕszė̆ pérnay.</l>
 				</lg>
-				<lg xml:id="part-3-lg-132">
+				<lg type="stanza" n="47" xml:id="part-3-lg-132">
 					<l n="719" xml:id="part-3-lg-132-l-2095">Pýwo trìs baczkàs Plauczúns, brangeý nŭsı̆pìrkęs,</l>
 					<l n="720" xml:id="part-3-lg-132-l-2096">Į swetlýczą pèr tarnùs įnèszdı̆nŏ greìtay.</l>
 					<l n="721" xml:id="part-3-lg-132-l-2097">Bèt Enskýs, jo klápczus, daùg pălăwótu krágu</l>
@@ -2403,7 +2403,7 @@
 					<l n="729" xml:id="part-3-lg-132-l-2105">Sztaì, tůjaùs isz żódzu kiaùliszkay păsăkýtu</l>
 					<l n="730" xml:id="part-3-lg-132-l-2106">Pékliszkas razbájus ir niukìms păsı̆kėlė.</l>
 				</lg>
-				<lg xml:id="part-3-lg-133">
+				<lg type="stanza" n="48" xml:id="part-3-lg-133">
 					<l n="731" xml:id="part-3-lg-133-l-2107">Róds, kad búrs czĕstăwóts jau próto wìsŏ nĕtènka,</l>
 					<l n="732" xml:id="part-3-lg-133-l-2108">Sztaì, tůjaùs jau ìr pădŏrùmo wìsŏ nĕtènka.</l>
 					<l n="733" xml:id="part-3-lg-133-l-2109">Jùk ir páts Plauczúns, kurs czésnį bùwŏ păkėlęs,</l>
@@ -2413,7 +2413,7 @@
 					<l n="737" xml:id="part-3-lg-133-l-2113">Kúmu wëzlibu kalbàs kalbėt nĕnŭmánė?</l>
 					<l n="738" xml:id="part-3-lg-133-l-2114">Ó dar tó nĕ gănà; klausykit, kàs păsı̆dárė.</l>
 				</lg>
-				<lg xml:id="part-3-lg-134">
+				<lg type="stanza" n="49" xml:id="part-3-lg-134">
 					<l n="739" xml:id="part-3-lg-134-l-2115">Kùbas sù Laurù, garbìngo Kàspărŏ żéntu,</l>
 					<l n="740" xml:id="part-3-lg-134-l-2116">Ìr Mikólas, ànt këmú statýts păkămórė,</l>
 					<l n="741" xml:id="part-3-lg-134-l-2117">Sù kitaìs draugaìs ant Dóczo ùmărŭ szóko.</l>
@@ -2423,7 +2423,7 @@
 					<l n="745" xml:id="part-3-lg-134-l-2121">Ypăczĕy Dóczį taìp neswëtiszkay păgădìno,</l>
 					<l n="746" xml:id="part-3-lg-134-l-2122">Kàd jį jó waikaì lowýj wos pàrnĕszĕ gýwą.</l>
 				</lg>
-				<lg xml:id="part-3-lg-135">
+				<lg type="stanza" n="50" xml:id="part-3-lg-135">
 					<l n="747" xml:id="part-3-lg-135-l-2123">Pìmė, jó patì, dėl tó dideý nŭsı̆gàndus',</l>
 					<l n="748" xml:id="part-3-lg-135-l-2124">Pùsgywį wyrùtį wìs globódămă wèrkė,</l>
 					<l n="749" xml:id="part-3-lg-135-l-2125">Ìr jo kiaùszę pérmusztą mazgódămă szlůstė.</l>
@@ -2437,7 +2437,7 @@
 					<l n="757" xml:id="part-3-lg-135-l-2133">Tů stubà dėl tó wisà smirdėtı̆ păgáwo,</l>
 					<l n="758" xml:id="part-3-lg-135-l-2134">Ó Doczýs jau wėl pămăżì kribżdėtı̆ prădėjo.</l>
 				</lg>
-				<lg xml:id="part-3-lg-136">
+				<lg type="stanza" n="51" xml:id="part-3-lg-136">
 					<l n="759" xml:id="part-3-lg-136-l-2135">Pìmė, jó mŏtĕrìszkė, sù kitóms mŏtĕriszkėms</l>
 					<l n="760" xml:id="part-3-lg-136-l-2136">Dzaùgės ìr Doczùką sù gătăwaìs tĕpălėleis</l>
 					<l n="761" xml:id="part-3-lg-136-l-2137">Móstyt tů ir jó żaizdàs aptwért sŭsı̆rìnko;</l>
@@ -2453,7 +2453,7 @@
 					<l n="771" xml:id="part-3-lg-136-l-2147">Tů waikùs, kurë jo stérwą bùwŏ sŭwálę,</l>
 					<l n="772" xml:id="part-3-lg-136-l-2148">Dúkdams wìs ir rėkaudams, kŏnĕ nùmŭszė̆ smìrdas.</l>
 				</lg>
-				<lg xml:id="part-3-lg-137">
+				<lg type="stanza" n="52" xml:id="part-3-lg-137">
 					<l n="773" xml:id="part-3-lg-137-l-2149">Àk, tărė̆ Sèlmas, bèngı̆ păliáuk su pásăkă sáwo!</l>
 					<l n="774" xml:id="part-3-lg-137-l-2150">Jaù perdaùg dywú! jau aùsys músŭ prăskùdo.</l>
 					<l n="775" xml:id="part-3-lg-137-l-2151">Àk, kur dìngot jús lëtùwiszkos gădy̆nėlės,</l>
@@ -2466,7 +2466,7 @@
 					<l n="782" xml:id="part-3-lg-137-l-2158">Kàd Lëtùwninkai kaip Wókëczei sŏpăgůti,</l>
 					<l n="783" xml:id="part-3-lg-137-l-2159">Àr su kùrpėms rùdĕny̆j ànt czesniú păsı̆ródo.</l>
 				</lg>
-				<lg xml:id="part-3-lg-138">
+				<lg type="stanza" n="53" xml:id="part-3-lg-138">
 					<l n="784" xml:id="part-3-lg-138-l-2160">Klùmpės, kaip mes wókiszkay kalbėdămı̆ sákom,</l>
 					<l n="785" xml:id="part-3-lg-138-l-2161">Róds taipjaù Lëtùwninkams nesziót nĕprı̆tìnka;</l>
 					<l n="786" xml:id="part-3-lg-138-l-2162">Nės ir jàs mŭsŭ tėwu tėwai gìrt nĕnŏrėjo;</l>
@@ -2475,7 +2475,7 @@
 					<l n="789" xml:id="part-3-lg-138-l-2165">Ìk Prancúsai jaù potám pas mùs sŭsı̆bástė,</l>
 					<l n="790" xml:id="part-3-lg-138-l-2166">Ìr prancúsiszkas manëras mùs pămŏkìno.</l>
 				</lg>
-				<lg xml:id="part-3-lg-139">
+				<lg type="stanza" n="54" xml:id="part-3-lg-139">
 					<l n="791" xml:id="part-3-lg-139-l-2167">Tėwai músŭ sĕnì pirm tó nĕtŭrėdămı̆ sziùiliu,</l>
 					<l n="792" xml:id="part-3-lg-139-l-2168">Róds nei pýbĕliŭ neì katgìsmu dár nĕpăžìno.</l>
 					<l n="793" xml:id="part-3-lg-139-l-2169">Jë tikt ìsz galwós szwentùs mokìnŏsı̆ mókslus,</l>
@@ -2495,7 +2495,7 @@
 					<l n="807" xml:id="part-3-lg-139-l-2183">Kàd wĕmălaì wisùr per wìsą kàrczĕmą̆ tészka.</l>
 					<l n="808" xml:id="part-3-lg-139-l-2184">Taì biaurýbė, kàd plaukaì păsı̆sziáusziă bĕgìrdint.</l>
 				</lg>
-				<lg xml:id="part-3-lg-140">
+				<lg type="stanza" n="55" xml:id="part-3-lg-140">
 					<l n="809" xml:id="part-3-lg-140-l-2185">Bèt dar tó nĕ gănà. Taipó girtůdămı̆ tėwai</l>
 					<l n="810" xml:id="part-3-lg-140-l-2186">Ìr waikùs glupùs sŭ săwìm į kàrczĕmą̆ wèlka,</l>
 					<l n="811" xml:id="part-3-lg-140-l-2187">Kàd ir jůs tůjaùs isz máżo sùrbt pămŏkįtu;</l>
@@ -2516,7 +2516,7 @@
 					<l n="826" xml:id="part-3-lg-140-l-2202">Kàd jë sáwŏ dălýko nór, dar bárăsı̆ smìrdai,</l>
 					<l n="827" xml:id="part-3-lg-140-l-2203">Ìr bĕsı̆bárdămı̆ daùg glupú daiktú sŭmĕlůja.</l>
 				</lg>
-				<lg xml:id="part-3-lg-141">
+				<lg type="stanza" n="56" xml:id="part-3-lg-141">
 					<l n="828" xml:id="part-3-lg-141-l-2204">Paìkius, glúps żmogùs, wargù Tė̆wĕmúsŭ mŏkėdams,</l>
 					<l n="829" xml:id="part-3-lg-141-l-2205">Ìr jo pùsbrolis, nei tëk skaitýt nĕgălėdams,</l>
 					<l n="830" xml:id="part-3-lg-141-l-2206">Szùlmistrus ir sziùiles dár iszpeìkt păsı̆drąsin.</l>
@@ -2529,7 +2529,7 @@
 					<l n="837" xml:id="part-3-lg-141-l-2213">Ìr waikùs glupùs į sziùilę siųst nĕnŏrėdams,</l>
 					<l n="838" xml:id="part-3-lg-141-l-2214">Péklai ant garbės jůs użaugįt păżădėjo.</l>
 				</lg>
-				<lg xml:id="part-3-lg-142">
+				<lg type="stanza" n="57" xml:id="part-3-lg-142">
 					<l n="839" xml:id="part-3-lg-142-l-2215">Paìkus ànt lytaùs, ant gëdros bárăsı̆ Waùszkus.</l>
 					<l n="840" xml:id="part-3-lg-142-l-2216">Wëns tăriă, perszwësù, kitám nĕ gănà szwësýbės;</l>
 					<l n="841" xml:id="part-3-lg-142-l-2217">Sziùilė sziám nĕ gĕrà, o àns pămŏkìnı̆mą̆ peìkia.</l>
@@ -2548,7 +2548,7 @@
 					<l n="854" xml:id="part-3-lg-142-l-2230">Pátys nè tiktaý szwentaý ir màndăgĕy èlgias,</l>
 					<l n="855" xml:id="part-3-lg-142-l-2231">Bèt ir sáwŏ nămús, kaip reìk', prı̆dăbódămı̆ wàldo.</l>
 				</lg>
-				<lg xml:id="part-3-lg-143">
+				<lg type="stanza" n="58" xml:id="part-3-lg-143">
 					<l n="856" xml:id="part-3-lg-143-l-2232">Taìp ant swëto jaù, kaip mùms szwents prànĕsză rásztas,</l>
 					<l n="857" xml:id="part-3-lg-143-l-2233">Wìs pulkélis mëls wërnúju bùwo mażésnis</l>
 					<l n="858" xml:id="part-3-lg-143-l-2234">Kaìp ans dùrnas pùlks nĕlăbúju ìrgı̆ bĕdëwiu.</l>
@@ -2572,7 +2572,7 @@
 					<l n="876" xml:id="part-3-lg-143-l-2252">Taì wisà wërà baisìngos músŭ gădýnės.</l>
 					<l n="877" xml:id="part-3-lg-143-l-2253">Àk, katrùl jau czėsas músŭ nĕlábs nŭsı̆bástė!</l>
 				</lg>
-				<lg xml:id="part-3-lg-144">
+				<lg type="stanza" n="59" xml:id="part-3-lg-144">
 					<l n="878" xml:id="part-3-lg-144-l-2254">Més Lëtùwninkai, pirm tó nĕpăżįdămı̆ swëtą,</l>
 					<l n="879" xml:id="part-3-lg-144-l-2255">Dìngojom wis, kàd tikt Szweìstĕrı̆s ir Prancúsas</l>
 					<l n="880" xml:id="part-3-lg-144-l-2256">Żmónės sù swĕtı̆maìs săwŏ mókslais mókă sŭpáiniot,</l>
@@ -2585,7 +2585,7 @@
 					<l n="887" xml:id="part-3-lg-144-l-2263">Ìr n'atbókim, kàd į mùs żiurėdămı̆ blóznai</l>
 					<l n="888" xml:id="part-3-lg-144-l-2264">Szýpsos ìr glupùs sztukiùs prămănýdămı̆ jůkias.</l>
 				</lg>
-				<lg xml:id="part-3-lg-145">
+				<lg type="stanza" n="60" xml:id="part-3-lg-145">
 					<l n="889" xml:id="part-3-lg-145-l-2265">Taìgı̆ dăbàr asz jùs, kaip wërnas kláps pămŏkįdams,</l>
 					<l n="890" xml:id="part-3-lg-145-l-2266">Neì prancúsiszkay nei wókiszkay nĕpăgýriau;</l>
 					<l n="891" xml:id="part-3-lg-145-l-2267">Bèt tikt búriszkay, kaip draùgas júsŭ păżįstams,</l>
@@ -2607,7 +2607,7 @@
 					<l n="907" xml:id="part-3-lg-145-l-2283">Àr nĕ gĕraý, kad jaùwargìngay pérżë̆măwoję,</l>
 					<l n="908" xml:id="part-3-lg-145-l-2284">Gréczną̆ zŏpóstėlį mums dár păsı̆lìkŭsį̆ mátom?</l>
 				</lg>
-				<lg xml:id="part-3-lg-146">
+				<lg type="stanza" n="61" xml:id="part-3-lg-146">
 					<l n="909" xml:id="part-3-lg-146-l-2285">Nùgı̆ dăbàr, jau skìrkı̆mė̆s ìr wapėtı̆ păliáukim!</l>
 					<l n="910" xml:id="part-3-lg-146-l-2286">Ó Dëwĕ důk mums, kàd, szwentès wisàs nŭly̆dėję</l>
 					<l n="911" xml:id="part-3-lg-146-l-2287">Irgı̆ sŭláukę naùjmĕtį beì szwentaý păsı̆dzaùgę,</l>
@@ -2616,7 +2616,7 @@
 			</div>
 			<div n="4" xml:id="part-4" type="part" data-level="1">
 				<head>Żëmós Rúpesczei</head>
-				<lg xml:id="part-4-lg-147">
+				<lg type="stanza" n="1" xml:id="part-4-lg-147">
 					<l n="1" xml:id="part-4-lg-147-l-2289">Ànt żëmós narsaì jau wėl rustáudămı̆ grįszta,</l>
 					<l n="2" xml:id="part-4-lg-147-l-2290">Ìr sziaurýs păsı̆sziáuszęs wėl mus àtlĕkiă gàndįt.</l>
 					<l n="3" xml:id="part-4-lg-147-l-2291">Weì, kaip ànt ĕżĕrú wisùr langaì păsı̆dáro,</l>
@@ -2632,7 +2632,7 @@
 					<l n="13" xml:id="part-4-lg-147-l-2301">Taìp kad gàrsas jó tolì galwój ătsı̆lëpia.</l>
 					<l n="14" xml:id="part-4-lg-147-l-2302">Taìpgı̆ dăbàr jau wėl swëts swéikįt pràdĕdă żëmą.</l>
 				</lg>
-				<lg xml:id="part-4-lg-148">
+				<lg type="stanza" n="2" xml:id="part-4-lg-148">
 					<l n="15" xml:id="part-4-lg-148-l-2303">Àk, jau bèn ir reìk'; Kalėdu dìdĕlė̆ szwèntė</l>
 					<l n="16" xml:id="part-4-lg-148-l-2304">Ártı̆năs ir Atpèntai nór porýt păsı̆baìgti.</l>
 					<l n="17" xml:id="part-4-lg-148-l-2305">Rùdĕnı̆s, àns dramblýs, perdaùg nemàndăgĕy drėbdams</l>
@@ -2659,7 +2659,7 @@
 					<l n="38" xml:id="part-4-lg-148-l-2326">Tén pusnýnai sù baltaìs kalnaìs păsı̆dárė,</l>
 					<l n="39" xml:id="part-4-lg-148-l-2327">Ìr żëmà saw żëmiszkas kwëtkàs nŭsı̆pýnė.</l>
 				</lg>
-				<lg xml:id="part-4-lg-149">
+				<lg type="stanza" n="3" xml:id="part-4-lg-149">
 					<l n="40" xml:id="part-4-lg-149-l-2328">Tìkt dywaì żiurėt, kaipó barzdótı̆ pŭszýnai</l>
 					<l n="41" xml:id="part-4-lg-149-l-2329">Sù săwŏ kůdais gárbănŏtais wisùr păsı̆ródo,</l>
 					<l n="42" xml:id="part-4-lg-149-l-2330">Ìr nei púdĕrů̆ti ponáczei stów į̆sı̆rėmę.</l>
@@ -2674,7 +2674,7 @@
 					<l n="51" xml:id="part-4-lg-149-l-2339">Czè wëns ùrwoj, sáw sziltaý, kaip gál, į̆sı̆gúsztęs,</l>
 					<l n="52" xml:id="part-4-lg-149-l-2340">Ó kitsaì tenaý ant wìrbo tùpı̆ bĕsnáusdams.</l>
 				</lg>
-				<lg xml:id="part-4-lg-150">
+				<lg type="stanza" n="4" xml:id="part-4-lg-150">
 					<l n="53" xml:id="part-4-lg-150-l-2341">Taip, pauksztélei mëli, jùms, taip mùms păsı̆dárė,</l>
 					<l n="54" xml:id="part-4-lg-150-l-2342">Ìr taip jùs, kaip mùs baugìn braszkėdămı̆ szàlczei.</l>
 					<l n="55" xml:id="part-4-lg-150-l-2343">Jùs żëmós smarkùms į száltą gìrĕ̜ nŭbaìdė,</l>
@@ -2695,7 +2695,7 @@
 					<l n="70" xml:id="part-4-lg-150-l-2358">Sztaì, tůjaùs wilnóną sáw ir káilı̆niŭs ìmam,</l>
 					<l n="71" xml:id="part-4-lg-150-l-2359">Àr, tikraý suszìlt, į szìltą pátălą̆ kópam.</l>
 				</lg>
-				<lg xml:id="part-4-lg-151">
+				<lg type="stanza" n="5" xml:id="part-4-lg-151">
 					<l n="72" xml:id="part-4-lg-151-l-2360">Taìp bĕdŭmójant mán, wilkaì gaujóms sŭsı̆bėgo</l>
 					<l n="73" xml:id="part-4-lg-151-l-2361">Ìr, kaip prátę ýr', tamsój trălăláudămı̆ staùgė.</l>
 					<l n="74" xml:id="part-4-lg-151-l-2362">Àk jus nèprë̆tĕlĕi, ar jaù mėsós păsı̆gèndat?</l>
@@ -2726,7 +2726,7 @@
 					<l n="99" xml:id="part-4-lg-151-l-2387">Ó potám dar mùs paczùs su gìmı̆nĕ músu,</l>
 					<l n="100" xml:id="part-4-lg-151-l-2388">Mótĕrĕs ìr waikùs wilkaì mė̆sı̆nėt păsı̆drąsįs.</l>
 				</lg>
-				<lg xml:id="part-4-lg-152">
+				<lg type="stanza" n="6" xml:id="part-4-lg-152">
 					<l n="101" xml:id="part-4-lg-152-l-2389">Ó jus ëgėrės mikįti, jús lë̆sı̆nìnkai,</l>
 					<l n="102" xml:id="part-4-lg-152-l-2390">Kám neszáudot, ką waldónai pàlë̆pė̆ száudyt?</l>
 					<l n="103" xml:id="part-4-lg-152-l-2391">Argı̆ nĕżìnot, kàd nei wëns mălŏnìngs karálius</l>
@@ -2744,7 +2744,7 @@
 					<l n="115" xml:id="part-4-lg-152-l-2403">Àr, nŭsı̆szówę sù grëkaìs, saw párwĕżă brëdį,</l>
 					<l n="116" xml:id="part-4-lg-152-l-2404">Ìrgı̆ nămėj slaptà mė̆sı̆nėdămı̆ jůkiăsı̆ szèlmei.</l>
 				</lg>
-				<lg xml:id="part-4-lg-153">
+				<lg type="stanza" n="7" xml:id="part-4-lg-153">
 					<l n="117" xml:id="part-4-lg-153-l-2405">Róds, tărė̆ Prìczkus, sù tăbăkù burùs păwı̆tódams</l>
 					<l n="118" xml:id="part-4-lg-153-l-2406">Ìr, kaip búdas jó, żnairióms į Kùbą̆ żiŭrėdams,</l>
 					<l n="119" xml:id="part-4-lg-153-l-2407">Róds jŭsŭ mýlýsta jau pátys tëk ı̆ssı̆mánot,</l>
@@ -2763,7 +2763,7 @@
 					<l n="132" xml:id="part-4-lg-153-l-2420">Kaìp koks szů smarkùs păkăwótus trùpŭczŭs ėda,</l>
 					<l n="133" xml:id="part-4-lg-153-l-2421">Ìr kitëms baudzáuninkams tikt gėdą pădáro.</l>
 				</lg>
-				<lg xml:id="part-4-lg-154">
+				<lg type="stanza" n="8" xml:id="part-4-lg-154">
 					<l n="134" xml:id="part-4-lg-154-l-2422">Kàd koks lénkiszkas ar żýdiszkas bălămútas</l>
 					<l n="135" xml:id="part-4-lg-154-l-2423">Taìp neswëtiszkay klastůt ir wógt ŭssı̆máno,</l>
 					<l n="136" xml:id="part-4-lg-154-l-2424">Àr, kad Wókëtis koks, wókiszkay pămė̆lůdams,</l>
@@ -2773,7 +2773,7 @@
 					<l n="140" xml:id="part-4-lg-154-l-2428">Kùrs lëtùwiszkay kalbėdams pràdĕdă brányt,</l>
 					<l n="141" xml:id="part-4-lg-154-l-2429">Ìr wisaý n'atbój, kad Krìzas Krìzą̆ prı̆gáuna?</l>
 				</lg>
-				<lg xml:id="part-4-lg-155">
+				<lg type="stanza" n="9" xml:id="part-4-lg-155">
 					<l n="142" xml:id="part-4-lg-155-l-2430">Àk dywaì, kad jaù dėl mús' wërni lë̆sı̆nìnkai</l>
 					<l n="143" xml:id="part-4-lg-155-l-2431">Sù wërnaìs wartaìs wisùr dusáudămı̆ skùndzas.</l>
 					<l n="144" xml:id="part-4-lg-155-l-2432">Jùk baisù klausýt, kad, ànt czesniú sŭsı̆bėgę</l>
@@ -2786,7 +2786,7 @@
 					<l n="151" xml:id="part-4-lg-155-l-2439">Ó ansaì, isz wìso jaù po sůlŭ nŭpůlęs</l>
 					<l n="152" xml:id="part-4-lg-155-l-2440">Ìr kŏnĕ mérdėdams, dar búru gìriă wăgýstę.</l>
 				</lg>
-				<lg xml:id="part-4-lg-156">
+				<lg type="stanza" n="10" xml:id="part-4-lg-156">
 					<l n="153" xml:id="part-4-lg-156-l-2441">Àk tu szwènts Dëwè, kokiągı̆ gădýnĕ̜ sŭláukėm!</l>
 					<l n="154" xml:id="part-4-lg-156-l-2442">Àk kokiós tamsýbės jaù apjékı̆nŏ swëtą!</l>
 					<l n="155" xml:id="part-4-lg-156-l-2443">Póns ir tàrnas jó peklón tikt bėgă tı̆kt bėga.</l>
@@ -2800,7 +2800,7 @@
 					<l n="163" xml:id="part-4-lg-156-l-2451">Ó taczaùs linksmaý nŭsı̆pèszt į kàrczĕmą̆ bėga,</l>
 					<l n="164" xml:id="part-4-lg-156-l-2452">Taìp kad pánĕdė̆lyj dar krápszto krùwı̆ną̆ snùkį.</l>
 				</lg>
-				<lg xml:id="part-4-lg-157">
+				<lg type="stanza" n="11" xml:id="part-4-lg-157">
 					<l n="165" xml:id="part-4-lg-157-l-2453">Àk, tărė̆ jám Enskýs, pas kúmą Krìzą̆ sė̆dėdams,</l>
 					<l n="166" xml:id="part-4-lg-157-l-2454">Prìczkau, tù perdaùg jau mús' isznëkı̆nı̆ búdą;</l>
 					<l n="167" xml:id="part-4-lg-157-l-2455">Ó dėl kó tu taìp Lëtùwninką năbăgėlį</l>
@@ -2819,7 +2819,7 @@
 					<l n="180" xml:id="part-4-lg-157-l-2468">Jaù tëksýk ir taip asztreý lë̆sı̆nìnks kŏrăwójo,</l>
 					<l n="181" xml:id="part-4-lg-157-l-2469">Kàd, man dìng, klastůt ir wógt jau reìks păsı̆liáuti.</l>
 				</lg>
-				<lg xml:id="part-4-lg-158">
+				<lg type="stanza" n="12" xml:id="part-4-lg-158">
 					<l n="182" xml:id="part-4-lg-158-l-2470">Róds, tărė̆ Sèlmas, neì vënám klastůt nĕpăreìtis,</l>
 					<l n="183" xml:id="part-4-lg-158-l-2471">Ó Lëtùwninkams dar jů daugiaùs nĕprı̆tìnka.</l>
 					<l n="184" xml:id="part-4-lg-158-l-2472">Żìnot jùk wisì, kaip kóżnas Lëtŭwą̆ gìria,</l>
@@ -2831,7 +2831,7 @@
 					<l n="190" xml:id="part-4-lg-158-l-2478">Ìr jau rúbais mús', kaip més, wilkėtı̆ păgáwo;</l>
 					<l n="191" xml:id="part-4-lg-158-l-2479">Tìkt margú margìniu dár nesziótı̆ nĕdrįsta.</l>
 				</lg>
-				<lg xml:id="part-4-lg-159">
+				<lg type="stanza" n="13" xml:id="part-4-lg-159">
 					<l n="192" xml:id="part-4-lg-159-l-2480">Taìgı̆ pămèskim jaù tokį netìkŭsį̆ búdą,</l>
 					<l n="193" xml:id="part-4-lg-159-l-2481">Ó wërnaý wisùr ir wëżlibay păsı̆èlgkim,</l>
 					<l n="194" xml:id="part-4-lg-159-l-2482">Taìp jau ìr swëtı̆mì mus búrai gìrt nĕsı̆gėdės.</l>
@@ -2849,7 +2849,7 @@
 					<l n="206" xml:id="part-4-lg-159-l-2494">Àr nebút' ir kéras kóks tam reìkălŭi tìkras,</l>
 					<l n="207" xml:id="part-4-lg-159-l-2495">Àr kulélis ìsz żăgărú sausù pădărýtas?</l>
 				</lg>
-				<lg xml:id="part-4-lg-160">
+				<lg type="stanza" n="14" xml:id="part-4-lg-160">
 					<l n="208" xml:id="part-4-lg-160-l-2496">Jaùgı̆ gănà, kaimýnai, Prìczkus szaùkti păgáwo,</l>
 					<l n="209" xml:id="part-4-lg-160-l-2497">Kàs kriwúlei reìk', iszmánomay păsı̆sákėm;</l>
 					<l n="210" xml:id="part-4-lg-160-l-2498">Bèt, kas zëmai dár reikės, trumpaý păsăkýkim.</l>
@@ -2863,14 +2863,14 @@
 					<l n="218" xml:id="part-4-lg-160-l-2506">Ìr, mylėdams jį, pămăżì jau pràdĕdı̆ snáusti.</l>
 					<l n="219" xml:id="part-4-lg-160-l-2507">Àr nĕ gĕraý, kad Dëws ugnélę mùms dŏwănójo?</l>
 				</lg>
-				<lg xml:id="part-4-lg-161">
+				<lg type="stanza" n="15" xml:id="part-4-lg-161">
 					<l n="220" xml:id="part-4-lg-161-l-2508">Bèt ir málkos reìk', kad nóri stùbą̆ păszìldyt,</l>
 					<l n="221" xml:id="part-4-lg-161-l-2509">Àr kad kókį sáw prı̆sı̆kaìtęs szùtı̆nı̆ půdą.</l>
 					<l n="222" xml:id="part-4-lg-161-l-2510">Mìslyk tìkt, kas bút' isz mús', kad wìrt ŭssı̆geìdę,</l>
 					<l n="223" xml:id="part-4-lg-161-l-2511">Kàs mums reìk', nei szió nei tó neràstŭmĕ swëte.</l>
 					<l n="224" xml:id="part-4-lg-161-l-2512">Taì jau kiaùliszkus reikėtu jówălŭs ėsti.</l>
 				</lg>
-				<lg xml:id="part-4-lg-162">
+				<lg type="stanza" n="16" xml:id="part-4-lg-162">
 					<l n="225" xml:id="part-4-lg-162-l-2513">Ógı̆ ką weìktumbim, kad kůczės, pérszălĕ̜ smàrkey,</l>
 					<l n="226" xml:id="part-4-lg-162-l-2514">Úżkăkălės sziltós neràstumbim păsı̆slėpti,</l>
 					<l n="227" xml:id="part-4-lg-162-l-2515">Bèt nei żwėrys ànt laukú bė̆gı̆nėdămı̆ wàrgtum?</l>
@@ -2878,7 +2878,7 @@
 					<l n="229" xml:id="part-4-lg-162-l-2517">Àr kad szìldytis kytreý pas kákălį̆ tìmsai,</l>
 					<l n="230" xml:id="part-4-lg-162-l-2518">Tám dė̆kăwót, kurs ùgnį táw ir szìlŭmą̆ dáwė.</l>
 				</lg>
-				<lg xml:id="part-4-lg-163">
+				<lg type="stanza" n="17" xml:id="part-4-lg-163">
 					<l n="231" xml:id="part-4-lg-163-l-2519">Àlĕ nĕpýkit, kàd asz jùms, kaip půlăsı̆ szùlcui,</l>
 					<l n="232" xml:id="part-4-lg-163-l-2520">Dárgı̆ dăugiaùs, kas reìk', trumpù żodzù păsăkýsiu.</l>
 					<l n="233" xml:id="part-4-lg-163-l-2521">Tàs ugnës skaistùms, kursaì mums żìbı̆nă stùbą,</l>
@@ -2904,7 +2904,7 @@
 					<l n="253" xml:id="part-4-lg-163-l-2541">Jaù păsı̆slept ir szén ir tén tikt bėgă tı̆kt bėga.</l>
 					<l n="254" xml:id="part-4-lg-163-l-2542">Taìgı̆ dăbàr by̆lı̆nėk su jům, taip ùbăgŭ tápęs.</l>
 				</lg>
-				<lg xml:id="part-4-lg-164">
+				<lg type="stanza" n="18" xml:id="part-4-lg-164">
 					<l n="255" xml:id="part-4-lg-164-l-2543">Àrgı̆ nĕtýrėte, kaip músu mýlı̆mą̆ Krìzą</l>
 					<l n="256" xml:id="part-4-lg-164-l-2544">Pérnay nèprë̆tĕlius Doczýs suswìlı̆nŏ wìsą?</l>
 					<l n="257" xml:id="part-4-lg-164-l-2545">Tàs szirdìngs żmogùs, kaimýnu músŭ bĕbúdams,</l>
@@ -2921,7 +2921,7 @@
 					<l n="268" xml:id="part-4-lg-164-l-2556">Náktyj prësz gaidzùs taipó suplészkı̆nŏ pérnay,</l>
 					<l n="269" xml:id="part-4-lg-164-l-2557">Kàd isz námo jó wos kůlas wëns păsı̆lìko.</l>
 				</lg>
-				<lg xml:id="part-4-lg-165">
+				<lg type="stanza" n="19" xml:id="part-4-lg-165">
 					<l n="270" xml:id="part-4-lg-165-l-2558">Àk mănŏ kaimynùczei, àk szirdìngı̆ brŏlélei!</l>
 					<l n="271" xml:id="part-4-lg-165-l-2559">Àsz dėl Dëwo jùs meldzù, n'użmìrszkı̆tĕ Krìzo;</l>
 					<l n="272" xml:id="part-4-lg-165-l-2560">Ìr kad jùms jisaì păsı̆klónios, ùbăgăis eìdams,</l>
@@ -2932,7 +2932,7 @@
 					<l n="277" xml:id="part-4-lg-165-l-2565">Kàd mes kaìp tuls Wókëtis, prastódămı̆ Dëwą,</l>
 					<l n="278" xml:id="part-4-lg-165-l-2566">Szelmystès pădărýt, klastůt ir wógt nĕsı̆liáusim.</l>
 				</lg>
-				<lg xml:id="part-4-lg-166">
+				<lg type="stanza" n="20" xml:id="part-4-lg-166">
 					<l n="279" xml:id="part-4-lg-166-l-2567">Taigı̆ mŏkįkis, mëls żmogaù, czėsù păsı̆rúpį̆t,</l>
 					<l n="280" xml:id="part-4-lg-166-l-2568">Kaìp żë̆măwójant táw reikės kasdën păsı̆èlgtis.</l>
 					<l n="281" xml:id="part-4-lg-166-l-2569">Szálant bè sziltós stubós iszbút nĕgălėsi,</l>
@@ -2955,7 +2955,7 @@
 					<l n="298" xml:id="part-4-lg-166-l-2586">Náktyj į tamsiùs kampùs su żìbŭriŭ kópi,</l>
 					<l n="299" xml:id="part-4-lg-166-l-2587">Àr ant waìkpălăikiu, kaip tėwui reìk', nĕdăbóji.</l>
 				</lg>
-				<lg xml:id="part-4-lg-167">
+				<lg type="stanza" n="21" xml:id="part-4-lg-167">
 					<l n="300" xml:id="part-4-lg-167-l-2588">Prìczkui taìp szaltýsziszkay burùs bĕmŏkìnant,</l>
 					<l n="301" xml:id="part-4-lg-167-l-2589">Sztaì, ant úlyczos toksaì păsı̆dárė szúwis,</l>
 					<l n="302" xml:id="part-4-lg-167-l-2590">Kàd ir żémė sù wisaìs daiktaìs pădrĕbėjo,</l>
@@ -2975,7 +2975,7 @@
 					<l n="316" xml:id="part-4-lg-167-l-2604">Ìr kaimýnu tů wisàs suplészkı̆nŏ tróbas;</l>
 					<l n="317" xml:id="part-4-lg-167-l-2605">Bèt ir Dùrăką̆ pùloks pérplyszdams păgădìno.</l>
 				</lg>
-				<lg xml:id="part-4-lg-168">
+				<lg type="stanza" n="22" xml:id="part-4-lg-168">
 					<l n="318" xml:id="part-4-lg-168-l-2606">Tókei négandai, żėlėk Dëwè, nŭsı̆tìkus,</l>
 					<l n="319" xml:id="part-4-lg-168-l-2607">Tů pons àmtsrots sù tarnaìs wisaìs păsı̆ródė</l>
 					<l n="320" xml:id="part-4-lg-168-l-2608">Ìr ty̆rı̆nėdams kláusė, kaìp ugnìs păsı̆kėlus'.</l>
@@ -2987,7 +2987,7 @@
 					<l n="326" xml:id="part-4-lg-168-l-2614">Tódėl sù lenciúgais jį drytaý sŭrăkìno,</l>
 					<l n="327" xml:id="part-4-lg-168-l-2615">Ìr sŭrăkįtą taìp ant rógiu nùwĕżė̆ súdyt.</l>
 				</lg>
-				<lg xml:id="part-4-lg-169">
+				<lg type="stanza" n="23" xml:id="part-4-lg-169">
 					<l n="328" xml:id="part-4-lg-169-l-2616">Pó penkiú dënú daugùms sŭsı̆rìnko súdzu,</l>
 					<l n="329" xml:id="part-4-lg-169-l-2617">Ìr daugýbę liùdı̆nı̆nku tůjaùs sŭwădìno.</l>
 					<l n="330" xml:id="part-4-lg-169-l-2618">Sztaì, tů Mìlkus ìr Enskýs su Blèbĕriŏ żéntu,</l>
@@ -3003,7 +3003,7 @@
 					<l n="340" xml:id="part-4-lg-169-l-2628">Bèt Doczýs, girdėkit tìkt, rankàs į̆sı̆rėmęs,</l>
 					<l n="341" xml:id="part-4-lg-169-l-2629">Prówninkams wisëms nei géro nèdăwė̆ żódzo.</l>
 				</lg>
-				<lg xml:id="part-4-lg-170">
+				<lg type="stanza" n="24" xml:id="part-4-lg-170">
 					<l n="342" xml:id="part-4-lg-170-l-2630">Kàs jums rúp', tărė̆ jìs, jus prówninkai mălŏnìngi,</l>
 					<l n="343" xml:id="part-4-lg-170-l-2631">Kàd warnënos kàrtais àsz ı̆ssı̆kèpt ŭssı̆geìdęs,</l>
 					<l n="344" xml:id="part-4-lg-170-l-2632">Wárnu bèn porélę sáw pëtùms nŭsı̆száuju?</l>
@@ -3021,7 +3021,7 @@
 					<l n="356" xml:id="part-4-lg-170-l-2644">Jùk jus pónai mùs burùs jau taìp nŭstĕkénot,</l>
 					<l n="357" xml:id="part-4-lg-170-l-2645">Kàd paskiáus mums ėst reiks żiùrkes ìrgı̆ pĕlėdas.</l>
 				</lg>
-				<lg xml:id="part-4-lg-171">
+				<lg type="stanza" n="25" xml:id="part-4-lg-171">
 					<l n="358" xml:id="part-4-lg-171-l-2646">Prìczkus su kitaìs szaltýszeis, Blèbĕriŏ sėbrais,</l>
 					<l n="359" xml:id="part-4-lg-171-l-2647">Dýwyjos dideý, dywùs girdėdămı̆ tókius.</l>
 					<l n="360" xml:id="part-4-lg-171-l-2648">Àk, tărė wëns tarp jú, toktù su músŭ gădýne,</l>
@@ -3035,7 +3035,7 @@
 					<l n="368" xml:id="part-4-lg-171-l-2656">Àk Doczý, Doczý, tu mús' klausýt nĕnŏrėjei,</l>
 					<l n="369" xml:id="part-4-lg-171-l-2657">Kàd tăwĕ̜ més wisì wërnaý graudéndămı̆ bárėm.</l>
 				</lg>
-				<lg xml:id="part-4-lg-172">
+				<lg type="stanza" n="26" xml:id="part-4-lg-172">
 					<l n="370" xml:id="part-4-lg-172-l-2658">Róds, żėlėk Dëwè, mus' wëszpatys mălŏnìngi</l>
 					<l n="371" xml:id="part-4-lg-172-l-2659">Búrą, wìs pı̆nį̆gú daugiaùs norėdămı̆, lùpa.</l>
 					<l n="372" xml:id="part-4-lg-172-l-2660">Kàd doczýs porélę wárnu kèpt nŭsı̆száuja,</l>
@@ -3046,7 +3046,7 @@
 					<l n="377" xml:id="part-4-lg-172-l-2665">Tìkt permër nĕgĕraý, kad kůczės glúps săwăwálninks</l>
 					<l n="378" xml:id="part-4-lg-172-l-2666">Száudýdams durnaý kitëms suplészkı̆nŏ námą.</l>
 				</lg>
-				<lg xml:id="part-4-lg-173">
+				<lg type="stanza" n="27" xml:id="part-4-lg-173">
 					<l n="379" xml:id="part-4-lg-173-l-2667">Taìp wisëms bĕsı̆skùndzant wákmistras ătsı̆bástė,</l>
 					<l n="380" xml:id="part-4-lg-173-l-2668">Ìr szaltýsziams į Kărăliáuczų pàlë̆pė̆ réngtis.</l>
 					<l n="381" xml:id="part-4-lg-173-l-2669">Tů pilwóts Kurpiúns, wyriáusias jú păkămórė,</l>
@@ -3060,7 +3060,7 @@
 					<l n="389" xml:id="part-4-lg-173-l-2677">Róds taip reìkiă pădónams pónams sáwŏ păslúżyt,</l>
 					<l n="390" xml:id="part-4-lg-173-l-2678">Ìr atlìkt wërnaý, kad jůs ju spáudză mălónė.</l>
 				</lg>
-				<lg xml:id="part-4-lg-174">
+				<lg type="stanza" n="28" xml:id="part-4-lg-174">
 					<l n="391" xml:id="part-4-lg-174-l-2679">Àk, tărė Laùras, wëżlibus żodzùs păsăkýdams,</l>
 					<l n="392" xml:id="part-4-lg-174-l-2680">Àk, katrùl jau czėsas músŭ nĕlábs nŭsı̆bástė!</l>
 					<l n="393" xml:id="part-4-lg-174-l-2681">Kóżnas jùk żioplýs, wargdëniu nùgărą̆ lùpdams,</l>
@@ -3073,7 +3073,7 @@
 					<l n="400" xml:id="part-4-lg-174-l-2688">Àk, kaip màż tokiú, kurë, waldýdămı̆ swëtą,</l>
 					<l n="401" xml:id="part-4-lg-174-l-2689">Gaìlis sáwŏ żmŏniú, kaip reìk', ir àtmĕnă Dëwo.</l>
 				</lg>
-				<lg xml:id="part-4-lg-175">
+				<lg type="stanza" n="29" xml:id="part-4-lg-175">
 					<l n="402" xml:id="part-4-lg-175-l-2690">Tù, tărė̆ Prìczkus jám, saugókis Kàspărą̆ kìbįt,</l>
 					<l n="403" xml:id="part-4-lg-175-l-2691">Ìr tylėk, kad dùmczus jó taw mùsză pĕr aùsį.</l>
 					<l n="404" xml:id="part-4-lg-175-l-2692">Dùmplĕs ýr' naudìngas dáikts į kámı̆ną̆ pústi,</l>
@@ -3084,7 +3084,7 @@
 					<l n="409" xml:id="part-4-lg-175-l-2697">Taìgı̆ dăbókis sù ponù păsı̆pútŭsiŭ szútyt,</l>
 					<l n="410" xml:id="part-4-lg-175-l-2698">Ìr laikýk săwŏ snùkį, kàd kalbój nĕpărìktu.</l>
 				</lg>
-				<lg xml:id="part-4-lg-176">
+				<lg type="stanza" n="30" xml:id="part-4-lg-176">
 					<l n="411" xml:id="part-4-lg-176-l-2699">Tůs żodzùs wisëmsgı̆ bëgìrdint ìsztărė̆ Prìczkus,</l>
 					<l n="412" xml:id="part-4-lg-176-l-2700">Ìr, į káilı̆niŭs ìszwerstus tůjaùs į̆sı̆nėręs,</l>
 					<l n="413" xml:id="part-4-lg-176-l-2701">Àmtsroto jăwĕliùs iszkùltus į Kărăliáuczų</l>
@@ -3112,7 +3112,7 @@
 					<l n="435" xml:id="part-4-lg-176-l-2723">Klúpodams, kaip tìkras nárs, pas átdărą̆ skrýnę</l>
 					<l n="436" xml:id="part-4-lg-176-l-2724">Ùż iszlaìkymą skarbú Tĕwĕmús' păsı̆skaìto.</l>
 				</lg>
-				<lg xml:id="part-4-lg-177">
+				<lg type="stanza" n="31" xml:id="part-4-lg-177">
 					<l n="437" xml:id="part-4-lg-177-l-2725">Tódėl ìrgı̆ dăbàr szaltýsziams į Kărăliáuczų</l>
 					<l n="438" xml:id="part-4-lg-177-l-2726">Dérgiant sù karáliszkais grudais nŭkĕliáwus,</l>
 					<l n="439" xml:id="part-4-lg-177-l-2727">Wèrkė jìs kasdën ir náktyj rìmt nĕgălėjo.</l>
@@ -3145,7 +3145,7 @@
 					<l n="466" xml:id="part-4-lg-177-l-2754">Jùk jau, kàs tikt nór, tas búriszką nĕbăgėlį</l>
 					<l n="467" xml:id="part-4-lg-177-l-2755">Stùmdo szén ir tén, nei kókį szùnį̆ nĕwèrtą.</l>
 				</lg>
-				<lg xml:id="part-4-lg-178">
+				<lg type="stanza" n="32" xml:id="part-4-lg-178">
 					<l n="468" xml:id="part-4-lg-178-l-2756">Tìcz, tărė̆ Sélmas, nè perdaùg dėl tó nŭsı̆mįkim!</l>
 					<l n="469" xml:id="part-4-lg-178-l-2757">Jùk be Dëwo swëte nëks negál nŭsı̆důti.</l>
 					<l n="470" xml:id="part-4-lg-178-l-2758">Pónai żémės sziós negál be jó pŏnăwóti,</l>
@@ -3158,7 +3158,7 @@
 					<l n="477" xml:id="part-4-lg-178-l-2765">Kàd tikt wëżlibay, kaip reìk', atlëkt săwŏ dárbus,</l>
 					<l n="478" xml:id="part-4-lg-178-l-2766">Ìr labiaùs, kad jìs szirdìngay bìjŏsı̆ Dëwo.</l>
 				</lg>
-				<lg xml:id="part-4-lg-179">
+				<lg type="stanza" n="33" xml:id="part-4-lg-179">
 					<l n="479" xml:id="part-4-lg-179-l-2767">Tù săwăwálninke didpìlwi, wìs păsı̆sziáuszęs</l>
 					<l n="480" xml:id="part-4-lg-179-l-2768">Ìr nei żaìbas kóks żaibůdams gàndı̆nı̆ búrą,</l>
 					<l n="481" xml:id="part-4-lg-179-l-2769">Àr tu nè taipjaù, kaip bëdzus tóks, prăsı̆dėjei,</l>
@@ -3177,7 +3177,7 @@
 					<l n="494" xml:id="part-4-lg-179-l-2782">Ìr ponùs taip kaìp ir mùs sudóp sŭwëdìnęs</l>
 					<l n="495" xml:id="part-4-lg-179-l-2783">Àlgą këkwënám, kaip pèlnęs ýr', sŭdăwádys.</l>
 				</lg>
-				<lg xml:id="part-4-lg-180">
+				<lg type="stanza" n="34" xml:id="part-4-lg-180">
 					<l n="496" xml:id="part-4-lg-180-l-2784">Ó jus wargdënėlei, jús wyżótı̆ năbágai,</l>
 					<l n="497" xml:id="part-4-lg-180-l-2785">Jús baudzaúninkai, bernai ir kaìmĕniŭ kèrdzei,</l>
 					<l n="498" xml:id="part-4-lg-180-l-2786">Ìr kas dár daugiaùs yr' sténanczu năbăgėliu,</l>
@@ -3200,7 +3200,7 @@
 					<l n="515" xml:id="part-4-lg-180-l-2803">Dëws këkwëną kàrtą ràs, kaip ýr' păżădėjęs,</l>
 					<l n="516" xml:id="part-4-lg-180-l-2804">Ìr kożnám atlýgįs, kaìp jis ýr' nŭsı̆pèlnęs.</l>
 				</lg>
-				<lg xml:id="part-4-lg-181">
+				<lg type="stanza" n="35" xml:id="part-4-lg-181">
 					<l n="517" xml:id="part-4-lg-181-l-2805">Jaùgı̆ gănà sziamsýk waitójus ìrgı̆ dĕjáwus!</l>
 					<l n="518" xml:id="part-4-lg-181-l-2806">Skìrkı̆mės ìrgı̆ nămó tësióg wandrůt n'ŭssı̆mìrszkim.</l>
 					<l n="519" xml:id="part-4-lg-181-l-2807">Tìkt girdėkit, kaìp ant mús' jau bárăsı̆ móters,</l>
@@ -3213,7 +3213,7 @@
 					<l n="526" xml:id="part-4-lg-181-l-2814">Żìnom jùk, kaip reìk' bandélę mýlı̆mą̆ sótįt,</l>
 					<l n="527" xml:id="part-4-lg-181-l-2815">Ìr këk sýkiu ję per dëną reìkiă păgìrdyt.</l>
 				</lg>
-				<lg xml:id="part-4-lg-182">
+				<lg type="stanza" n="36" xml:id="part-4-lg-182">
 					<l n="528" xml:id="part-4-lg-182-l-2816">Róds, tărė̆ Laùras, róds taip reìk' gywént găspădórëms,</l>
 					<l n="529" xml:id="part-4-lg-182-l-2817">Kàd jë nór gywént kytreý ir pìlnăwŏt úkius.</l>
 					<l n="530" xml:id="part-4-lg-182-l-2818">Wókëczei Lëtùwninką per drìmĕlį̆ laìko,</l>
@@ -3229,7 +3229,7 @@
 					<l n="540" xml:id="part-4-lg-182-l-2828">Àr nĕgălėjot tén păsı̆lìkt, kur jùs nŭpĕrėjo</l>
 					<l n="541" xml:id="part-4-lg-182-l-2829">Ìr warlès bei rùpuiżes jus ėst pămŏkìno?</l>
 				</lg>
-				<lg xml:id="part-4-lg-183">
+				<lg type="stanza" n="37" xml:id="part-4-lg-183">
 					<l n="542" xml:id="part-4-lg-183-l-2830">Aì, tărė Sèlmas, tù perdaùg păsăkaì Prancúzams.</l>
 					<l n="543" xml:id="part-4-lg-183-l-2831">Jùk żinaì, këkwëns żioplýs tur sáwŏ dăwádą.</l>
 					<l n="544" xml:id="part-4-lg-183-l-2832">Més Lëtùwninkai barszczùs ir sziùpı̆nį̆ skánų</l>
@@ -3242,7 +3242,7 @@
 					<l n="551" xml:id="part-4-lg-183-l-2839">Kaìp krikszczónims reìk', dosnìngo n'àtmĕnă Dëwo,</l>
 					<l n="552" xml:id="part-4-lg-183-l-2840">Taì taip wëns kaip kits newèrts, kad plùtą̆ nŭkąstu.</l>
 				</lg>
-				<lg xml:id="part-4-lg-184">
+				<lg type="stanza" n="38" xml:id="part-4-lg-184">
 					<l n="553" xml:id="part-4-lg-184-l-2841">Żális sù dwyliù, su márgiu ìrgı̆ sŭ pàlsziu</l>
 					<l n="554" xml:id="part-4-lg-184-l-2842">Ýna, kàd nor ėst, szaudú pămătýdămı̆ kúlį;</l>
 					<l n="555" xml:id="part-4-lg-184-l-2843">Ó kad ìsz tikrós szirdës jëms prìmĕtı̆ plůstą,</l>
@@ -3270,7 +3270,7 @@
 					<l n="577" xml:id="part-4-lg-184-l-2865">Taìgı̆ nĕreìk' tůjaùs nŭsı̆mįt, kad músŭ zŏpóstas</l>
 					<l n="578" xml:id="part-4-lg-184-l-2866">Ànt laukú menks ródos àr păsı̆máżı̆nă greìtay.</l>
 				</lg>
-				<lg xml:id="part-4-lg-185">
+				<lg type="stanza" n="39" xml:id="part-4-lg-185">
 					<l n="579" xml:id="part-4-lg-185-l-2867">Jùk ne pìrmas méts, kaip més gywéndămı̆ wàrgstam,</l>
 					<l n="580" xml:id="part-4-lg-185-l-2868">Ìrgı̆ nĕ pìrmas sýkis jaù, kaip sziùpı̆nį̆ wérdam.</l>
 					<l n="581" xml:id="part-4-lg-185-l-2869">Daùg iszléidom jaù skupú pawásăriŏ czėsu,</l>
@@ -3283,7 +3283,7 @@
 					<l n="588" xml:id="part-4-lg-185-l-2876">Kàd pămăżì, lėlès ir żìrgus sáwŏ pămétę,</l>
 					<l n="589" xml:id="part-4-lg-185-l-2877">Ìsz bėdós pelnýtis ką nŭsı̆twérsı̆tĕ dárbus.</l>
 				</lg>
-				<lg xml:id="part-4-lg-186">
+				<lg type="stanza" n="40" xml:id="part-4-lg-186">
 					<l n="590" xml:id="part-4-lg-186-l-2878">Més surùkę dëdai, mésgı̆ kŭprótı̆ năbágai,</l>
 					<l n="591" xml:id="part-4-lg-186-l-2879">Més taipjaù kaip jús ant úlyczu szŏkı̆nėjom,</l>
 					<l n="592" xml:id="part-4-lg-186-l-2880">Ìr taipjaù kaip jús săwŏ jáuną wásărą̆ szwèntėm.</l>
@@ -3291,7 +3291,7 @@
 					<l n="594" xml:id="part-4-lg-186-l-2882">Taìp umaý nŭsı̆dówyt ìrgı̆ păblógt taip greìtay?</l>
 					<l n="595" xml:id="part-4-lg-186-l-2883">Àk, kaip wéikey żmógiszkos nudýlă dë̆néles!</l>
 				</lg>
-				<lg xml:id="part-4-lg-187">
+				<lg type="stanza" n="41" xml:id="part-4-lg-187">
 					<l n="596" xml:id="part-4-lg-187-l-2884">Kóżnas wëns żmogùs, taip póns kaip búrs, prăsı̆dėdams</l>
 					<l n="597" xml:id="part-4-lg-187-l-2885">Ìr wargìngay ùżgimdams tikt pùmpŭrą̆ ródo,</l>
 					<l n="598" xml:id="part-4-lg-187-l-2886">Ìk potám tikraý, kaip dúszei reìk', prı̆sı̆żìndęs</l>
@@ -3312,7 +3312,7 @@
 					<l n="613" xml:id="part-4-lg-187-l-2901">Kàd mus swëte Dëws laikýs, toliaùs sŭdăwádys,</l>
 					<l n="614" xml:id="part-4-lg-187-l-2902">Dár iksziól nĕnŭmánom ìr żinotı̆ nĕgálim.</l>
 				</lg>
-				<lg xml:id="part-4-lg-188">
+				<lg type="stanza" n="42" xml:id="part-4-lg-188">
 					<l n="615" xml:id="part-4-lg-188-l-2903">Ànt, laukaì szaltì, kuriú mes nùgărą̆ mìnksztą</l>
 					<l n="616" xml:id="part-4-lg-188-l-2904">Wásărą̆ rėżėm ìr grŭdĕliùs bėgı̆nėdămı̆ bàrstėm,</l>
 					<l n="617" xml:id="part-4-lg-188-l-2905">Dár sŭ lĕdaìs ir sù pusnýnais mëgt ŭssı̆klóję,</l>
@@ -3323,7 +3323,7 @@
 					<l n="622" xml:id="part-4-lg-188-l-2910">Czéso reìk, to czėso tìkt kantreý pălŭkėkim,</l>
 					<l n="623" xml:id="part-4-lg-188-l-2911">Ìr, ik dìrwos wėl ką důs, pălŭkėt nėpăìlskim.</l>
 				</lg>
-				<lg xml:id="part-4-lg-189">
+				<lg type="stanza" n="43" xml:id="part-4-lg-189">
 					<l n="624" xml:id="part-4-lg-189-l-2912">Ó tu mëls Dëwè, tu dàngiszkas gĕrădėji!</l>
 					<l n="625" xml:id="part-4-lg-189-l-2913">Tù pirm ámżiu, kaip mes dár dumót nĕgălėjom,</l>
 					<l n="626" xml:id="part-4-lg-189-l-2914">Jaù iszmìslyjei, kaip kàrtą més prăsı̆dėsim,</l>
@@ -3336,7 +3336,7 @@
 					<l n="633" xml:id="part-4-lg-189-l-2921">Ìr wisókios prëspaudos su táwŏ păgálba</l>
 					<l n="634" xml:id="part-4-lg-189-l-2922">Jaù nŭsı̆dówyjo, bëdzùs mus raùdı̆nĕ̜ tánkey.</l>
 				</lg>
-				<lg xml:id="part-4-lg-190">
+				<lg type="stanza" n="44" xml:id="part-4-lg-190">
 					<l n="635" xml:id="part-4-lg-190-l-2923">Àk nëkìngi jús dzaugsmaì sziltós wăsărėlės!</l>
 					<l n="636" xml:id="part-4-lg-190-l-2924">Jús żolélės blìzganczos su sáwŏ grŏżýbėms!</l>
 					<l n="637" xml:id="part-4-lg-190-l-2925">Ó ir jús pauksztélei sù saldzeìs ălăsėleis!</l>
@@ -3356,7 +3356,7 @@
 					<l n="651" xml:id="part-4-lg-190-l-2939">Dìrbdămı̆ nù karsztú weidéliu músŭ nŭszlůstėm,</l>
 					<l n="652" xml:id="part-4-lg-190-l-2940">Ìk zŏpŏstėliui ką sŭsı̆rìnkom ìr păkăwójom.</l>
 				</lg>
-				<lg xml:id="part-4-lg-191">
+				<lg type="stanza" n="45" xml:id="part-4-lg-191">
 					<l n="653" xml:id="part-4-lg-191-l-2941">Taìpgı̆ dăbàr jau rúdĕnį̆ sù swodbóms nŭly̆dėję</l>
 					<l n="654" xml:id="part-4-lg-191-l-2942">Ìr kaimýniszkay bei wëżlibay păsı̆dzaùgę,</l>
 					<l n="655" xml:id="part-4-lg-191-l-2943">Rúpį̆kı̆mės zopóstą dár păsı̆lìkŭsį̆ czėdyt,</l>
@@ -3371,7 +3371,7 @@
 					<l n="664" xml:id="part-4-lg-191-l-2952">Weì, wăsărėlė jaù pămăżì prı̆sı̆ártı̆nă mëla,</l>
 					<l n="665" xml:id="part-4-lg-191-l-2953">Ìr, kas músŭ zŏpóstams reìks, wėl żádă părúpįt.</l>
 				</lg>
-				<lg xml:id="part-4-lg-192">
+				<lg type="stanza" n="46" xml:id="part-4-lg-192">
 					<l n="666" xml:id="part-4-lg-192-l-2954">Bèt bĕ tăwęs, tu dàngiszkasis músŭ tė̆tùti,</l>
 					<l n="667" xml:id="part-4-lg-192-l-2955">Nëks negál mims tèkt, ką mëla wásără żáda.</l>
 					<l n="668" xml:id="part-4-lg-192-l-2956">Ką mums máczys prìprowos, ką músŭ triŭsélei,</l>
