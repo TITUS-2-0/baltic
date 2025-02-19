@@ -2,8 +2,19 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Donelaitis, Metai</title>
-				<author>Unknown</author>
+				<title>Kristijonas Donelaitis</title>
+				<title type="sub">Metai</title>
+				<author>Donelait.</author>
+				<respStmt>
+					<resp>digitization</resp>
+					<name>Goetz Keydana</name>
+					<note>Münster 1992</note>
+				</respStmt>
+				<respStmt>
+					<resp>TITUS version</resp>
+					<name>Jost Gippert</name>
+					<note>Frankfurt a/M, 28.2.1998 / 21.6.1998 / 1.6.2000 / 31.8.2002 / 12.5.2003 / 6.5.2015</note>
+				</respStmt>
 			</titleStmt>
 			<editionStmt>
 				<edition n="1" />
@@ -14,7 +25,12 @@
 				<date>2024</date>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Missing metadata</p>
+				<bibl xml:id="donme">
+					<author>
+						<name>Donelaitis, Kristijonas</name>
+					</author>. <date>1977</date>. <title level="m">Raštai</title>. Edited by <editor>
+						<name>TSR Mokslų Akademija, Lietuvių Kalbos ir Literatūros Institutas</name>
+					</editor>. <publisher>Vaga</publisher>.</bibl>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
