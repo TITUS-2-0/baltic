@@ -8,8 +8,8 @@
 | spslt |            |       39 | [Szyrwid, Punktay sakimu (Lith.)](http://titus.uni-frankfurt.de/texte/etcs/balt/lit/spslt/spslt.htm)        | -                                                       | 🟨 in progress |
 | wp    |            |       39 | [Wolfenbuettel Postilla](http://titus.uni-frankfurt.de/texte/etcs/balt/lit/wp/wp.htm)                       | -                                                       | 🟥 pending     |
 | dzuk  |            |       39 | [Dzukian Prayers](http://titus.uni-frankfurt.de/texte/etcs/balt/lit/dzuk/dzuk.htm)                          | -                                                       | 🟥 pending     |
-| engel |            |       39 | [Engels, Catechismas](http://titus.uni-frankfurt.de/texte/etcs/balt/lit/engels/engel.htm)                   | -                                                       | 🟥 pending     |
 | forma |            |       39 | [Mazvydas, Forma Chrikstima](http://titus.uni-frankfurt.de/texte/etcs/balt/lit/forma/forma.htm)             | -                                                       | 🟥 pending     |
+| engel |            |       39 | [Engels, Catechismas](http://titus.uni-frankfurt.de/texte/etcs/balt/lit/engels/engel.htm)                   | -                                                       | 🟥 pending     |
 | mazvk |            |       39 | [Mazvydas, Catechismas](http://titus.uni-frankfurt.de/texte/etcs/balt/lit/mazvkat/mazvk.htm)                | -                                                       | 🟥 pending     |
 | spspl |            |       21 | [Szyrwid, Punkty kazan (Pol.)](http://titus.uni-frankfurt.de/texte/etcs/balt/lit/spspl/spspl.htm)           | -                                                       | 🟥 pending     |
 | spsnt |            |      519 | [Szyrwid, Punktay sakimu (Notes)](http://titus.uni-frankfurt.de/texte/etcs/balt/lit/spsnt/spsnt.htm)        | -                                                       | 🟥 pending     |
