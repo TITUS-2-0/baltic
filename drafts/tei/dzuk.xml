@@ -1,0 +1,45 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0/">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Dzukian Prayers</title>
+				<author>Unknown</author>
+			</titleStmt>
+			<editionStmt>
+				<edition n="1" />
+			</editionStmt>
+			<publicationStmt>
+				<publisher>Goethe-Universität</publisher>
+				<pubPlace>Frankfurt</pubPlace>
+				<date>2025</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Missing metadata</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="olt-Latn-x-old-lithuanian">Old Lithuanian</language>
+				<language ident="lat-Latn">Latin</language>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="olt-Latn-x-old-lithuanian">
+		<body>
+			<div n="1" xml:id="prayer-1" type="prayer" data-level="1">
+				<p xml:id="prayer-1-p-1">
+					<lb n="1" />Teve mvſu kuriſ eſi /aſi/ dangwaſu ſʒvijſkiſi vardaſ tava /tavo/<lb n="2" />athaijki tava karaliſtija buki thava vala kaijp dvn=<lb n="3" />gvij theijp ſʒamijaij . dvanv mvſu viſu dʒenv dvaki<lb n="4" />mvmvſ nv ijr athlaijſki mvmvſ mvſu kaltheſ<lb n="5" />kaijp ijr meſ athlyaijdʒame mvſu kalcʒijemvſ<lb n="6" />nijevijaſki mvſu ſʒalanv ale mvſ gijalbijak nvagi<lb n="7" />viſa piktha amen.</p>
+			</div>
+			<div n="2" xml:id="prayer-2" type="prayer" data-level="1">
+				<p xml:id="prayer-2-p-2">
+					<lb n="8" />Swijeijka maria mijlyſtaſ pijlna dʒevaſ ſvthavimij<lb n="9" />pagirtha thv tharpu matherv ijr pagirthaſ<lb n="10" />gimiſ ſʒijvatha thava ijeſus crus</p>
+			</div>
+			<div n="3" xml:id="prayer-3" type="prayer" data-level="1">
+				<p xml:id="prayer-3-p-3">
+					<lb n="11" />Cʒijkijv ijngi dʒewa thijawa viſagalincʒi darijthaijv<lb n="12" />dangawſ ir ſʒamijaſ, ir ingi<lb n="13" />yeſu kriſtu ſvnv ija vijenathuri panv mvſu kurijſ<lb n="14" />praſidijaijſ eſcʒi ſʒwenthv dwaſijv, gimiſ ijſgi mariaſ<lb n="15" />mergaſ, kinthiſ pa panſkvaijv pilatv, yſʒpijalataſ [vſʒcʒijeſthaſ]<lb n="16" />alba vſʒmuſʒthaſ anth krijſʒawſ, nvmiriſ ijr pakaſthaſ<lb n="17" />nvſʒijngi peklvaſnv trijacʒv dʒenv kijalijſi ijſʒgi nv=<lb n="18" />mirvſijv, vſʒſʒijngi dangvaſnv [anta dvngv] ſȧdʒij antha deſʒijnijaſ<lb n="19" />dʒewa thijava viſagalincʒa, nvagi thi athaijſ<lb n="20" />ſvdʒijthv giwa ijr nvmiruſijv . cʒijkijv yngi dvaſijv<lb n="21" />ſʒwenthv, ſʒwenthv baſʒnijcʒv krijkſʒcʒanijv - ſʒwen=<lb n="22" />thvijv drawgiſti, athleijdʒijmv grechv, kvnv ijſgi<lb n="23" />nvmirvſyv kyalijmv, pa ſmercʒi amſʒijv ſʒijvathv<lb n="24" />
+					<foreign xml:lang="lat-Latn">ter dicitur</foreign>
+					<lb n="25" />dʒeve bvki mijlaſʒijrdaſ mani greſʒnamv ame[n]</p>
+			</div>
+		</body>
+	</text>
+</TEI>
