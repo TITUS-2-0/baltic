@@ -3,7 +3,16 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Dzukian Prayers</title>
-				<author>Unknown</author>
+				<respStmt>
+					<resp>digitization</resp>
+					<name>Jolanta Gelumbeckaitė</name>
+					<note>Frankfurt a/M 2013-2014</note>
+				</respStmt>
+				<respStmt>
+					<resp>TITUS version</resp>
+					<name>Jost Gippert</name>
+					<note>Frankfurt a/M, 26.4.2014</note>
+				</respStmt>
 			</titleStmt>
 			<editionStmt>
 				<edition n="1" />
