@@ -1,5 +1,5 @@
 - body:
-  - part[n=1]:
+  - season[n=1]:
     - head: Pawasario Linksmybės
     - lg[type=stanza,n=1]:
       - l[n=1]: Iau Sauléle wėl atkópdămă buddı̆nŏ Swieta
@@ -705,7 +705,7 @@
       - l[n=659]: Taip bĕſı̆purtı̆dămos linkſmay Pawáſărį̆ baigkit',
       - l[n=660]: Ik' jau prie kittû Darbû jùms Wáſără ſʒûkters.
       - l[n=661]: Ganà.
-  - part[n=2]:
+  - season[n=2]:
     - head: Wasaròs Darbaì
     - lg[type=stanza,n=1]:
       - l[n=1]: Sweik's Swietéli márg's! Sʒwentès Pawáſăriŏ ſʒwentęs;
@@ -1464,7 +1464,7 @@
       - l[n=713]: Iaugı̆ gănà ſʒamſyk, jaù mielą Wáſărą̆ baigkim',
       - l[n=714]: Ir prieſʒ Ruddĕnį̆, kàs mùms reik's, nŭgămįt' n'ŭſſı̆mirſʒkim
       - l[n=715]: ganà.
-  - part[n=3]:
+  - season[n=3]:
     - head: Rùdenio Gerýbės
     - lg[type=stanza,n=1]:
       - l[n=1]: Ànt, saulélė wėl nu mús' atstódămă ritas,
@@ -2439,7 +2439,7 @@
       - l[n=910]: Ó Dëwĕ důk mums, kàd, szwentès wisàs nŭly̆dėję
       - l[n=911]: Irgı̆ sŭláukę naùjmĕtį beì szwentaý păsı̆dzaùgę,
       - l[n=912]: Wėl sŭsı̆kwëstumbim, kaimýniszkay păsı̆swéikįt.
-  - part[n=4]:
+  - season[n=4]:
     - head: Żëmós Rúpesczei
     - lg[type=stanza,n=1]:
       - l[n=1]: Ànt żëmós narsaì jau wėl rustáudămı̆ grįszta,
