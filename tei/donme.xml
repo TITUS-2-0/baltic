@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0/">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -35,11 +35,11 @@
 		</fileDesc>
 		<profileDesc>
 			<langUsage>
-				<language ident="olt-Latn-x-old-lithuanian">Old Lithuanian</language>
+				<language ident="olt-Latn">Old Lithuanian</language>
 			</langUsage>
 		</profileDesc>
 	</teiHeader>
-	<text xml:lang="olt-Latn-x-old-lithuanian">
+	<text xml:lang="olt-Latn">
 		<body>
 			<div n="1" xml:id="season-1" type="season" data-level="1">
 				<head>Pawasario Linksmybės</head>
