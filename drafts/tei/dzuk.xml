@@ -28,12 +28,12 @@
 		</fileDesc>
 		<profileDesc>
 			<langUsage>
-				<language ident="olt-Latn-x-old-lithuanian">Old Lithuanian</language>
+				<language ident="olt-Latn">Old Lithuanian</language>
 				<language ident="lat-Latn">Latin</language>
 			</langUsage>
 		</profileDesc>
 	</teiHeader>
-	<text xml:lang="olt-Latn-x-old-lithuanian">
+	<text xml:lang="olt-Latn">
 		<body>
 			<div n="1" xml:id="prayer-1" type="prayer" data-level="1">
 				<p xml:id="prayer-1-p-1">
