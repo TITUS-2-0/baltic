@@ -12,6 +12,11 @@ jobs:
       pull-requests: write
 
     steps:
+
+      - name: Debug Git remotes
+        run: |
+          git remote -v
+
       - name: Checkout Subrepo
         uses: actions/checkout@v3
 
