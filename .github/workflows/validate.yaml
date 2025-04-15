@@ -13,6 +13,12 @@ jobs:
 
     steps:
 
+      - name: Print current path & ensure git context
+        run: |
+          echo "PWD: $(pwd)"
+          ls -al
+          git rev-parse --show-toplevel
+
       - name: Debug Git remotes
         run: |
           git remote -v
