@@ -24,9 +24,13 @@
 				<edition n="1" />
 			</editionStmt>
 			<publicationStmt>
-				<publisher>Goethe-Universität</publisher>
+				<publisher>TITUS Projekt, Goethe-Universität</publisher>
 				<pubPlace>Frankfurt</pubPlace>
-				<date>2025</date>
+				<date when="2025-04-11">2025-04-11</date>
+				<availability>
+					<licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">This dataset is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</licence>
+				</availability>
+				<idno type="version">0.1.0</idno>
 			</publicationStmt>
 			<sourceDesc>
 				<bibl xml:id="donme">

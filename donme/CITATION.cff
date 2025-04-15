@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 title: 'Kristijonas Donelaitis: Metai'
-version: unreleased
+version: 0.1.0
 contributors:
 - name: Goetz Keydana
   roles:
@@ -11,8 +11,9 @@ contributors:
 - name: Florian Matter
   roles:
   - TEI version
+date-released: 2025-04-11
 message: 'Derived from: Donelaitis, Kristijonas. 1977. Raštai. Edited by TSR Mokslų
   Akademija, Lietuvių Kalbos ir Literatūros Institutas. Vilnius: Vaga.'
-preferred-citation: 'TEI version of Kristijonas Donelaitis: Metai by Donelait. (unreleased).
-  By: Jost Gippert, Goetz Keydana, Florian Matter. In: Carling, Gerd & Jost Gippert
-  (2025). TITUS 2.0. Frankfurt: Goethe University.'
+preferred-citation: 'TEI version of Kristijonas Donelaitis: Metai by Donelait. (v0.1.0).
+  2025-04-11. By: Jost Gippert, Goetz Keydana, Florian Matter. In: Carling, Gerd &
+  Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University.'
