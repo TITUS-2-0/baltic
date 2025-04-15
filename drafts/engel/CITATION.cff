@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: Engels, Catechismas
+version: 0.0.1.draft
+contributors:
+- name: Florian Matter
+  roles:
+  - TEI version
+message: 'Derived from: '
+preferred-citation: 'TEI version of Engels, Catechismas (v0.0.1.draft). By: Florian
+  Matter. In: Carling, Gerd & Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University.'
