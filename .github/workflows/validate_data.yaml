@@ -1,12 +1,12 @@
-name: Validate
+name: Validate data on main
 
 on:
-  pull_request:
+  push:
     branches:
-      - staging
+      - main
 
 jobs:
-  test:
+  full-validation:
     runs-on: ubuntu-latest
 
     steps:
@@ -23,7 +23,6 @@ jobs:
       - name: Copy Schemas to Subrepo
         run: |
           cp datasets/validation/titus_tei.rng ./
-          cp datasets/validation/tei_all-schematron.xsl ./
 
       - name: Download validation jars
         run: |
@@ -31,29 +30,29 @@ jobs:
           curl -L -o tools/Saxon-HE.jar https://repo1.maven.org/maven2/net/sf/saxon/Saxon-HE/11.4/Saxon-HE-11.4.jar
           curl -L -o tools/xmlresolver.jar https://repo1.maven.org/maven2/org/xmlresolver/xmlresolver/4.5.0/xmlresolver-4.5.0.jar
           curl -L -o tools/jing.jar https://repo1.maven.org/maven2/com/thaiopensource/jing/20091111/jing-20091111.jar
-      - name: Validate only changed output.xml files
+
+      - name: Validate all output.xml files
         run: |
           SCHEMA=titus_tei.rng
-          SCHXSL=tei_all-schematron.xsl
-          SAXON=tools/Saxon-HE.jar
-          RESOLVER=tools/xmlresolver.jar
           JING=tools/jing.jar
 
-          git fetch origin staging
-          CHANGED=$(git diff --name-only origin/staging..HEAD | grep 'output.xml$' || true)
-
-          if [ -z "$CHANGED" ]; then
-            echo "✅ No changed output.xml files to validate."
-            exit 0
-          fi
-
-          for file in $CHANGED; do
+          for file in ./*/output.xml; do
             echo "🔍 Validating $file"
             java -jar "$JING" "$SCHEMA" "$file" || exit 1
+          done
 
-            svrl="${file%.xml}.svrl"
-            java -cp "$SAXON:$RESOLVER" net.sf.saxon.Transform \
-              -s:"$file" \
-              -xsl:"$SCHXSL" \
-              -o:"$svrl" || exit 1
+      - name: Validate all CITATION.cff files
+        run: |
+          pip install cffconvert
+          for file in ./*/CITATION.cff; do
+            echo "🔎 Validating $file"
+            cffconvert --validate --infile "$file" || exit 1
+          done
+
+      - name: Validate all CHANGELOG.md files
+        run: |
+          pip install keepachangelog
+          for file in ./*/CHANGELOG.md; do
+            echo "📜 Validating $file"
+            python -c "import keepachangelog; keepachangelog.to_dict('$file')" || exit 1
           done
