@@ -2,7 +2,7 @@
 
 ![Static Badge](https://img.shields.io/badge/TEI_validation-passing-green)
 
-This is a TEI port of a [TITUS dataset](http://titus.uni-frankfurt.de/texte/etcs/balt/lit/donelait/donmetai/donme.htm)
+This is a TEI port of a [TITUS dataset](http://titus.uni-frankfurt.de/texte/etcs/balt/lit/donelait/donmetai/donme.htm).
 
 * URL: https://titus2.uni-frankfurt.de/dataset/donme
 * version: 0.1.0
