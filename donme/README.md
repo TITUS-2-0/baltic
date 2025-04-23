@@ -10,5 +10,5 @@ This is a TEI port of a [TITUS dataset](http://titus.uni-frankfurt.de/texte/etcs
 
 ## Citation
 ```
-Digital version of Metai by Kristijonas Donelaitis (v0.1.0). By: Jost Gippert, Goetz Keydana, Florian Matter. In: Carling, Gerd & Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University.(URL: https://titus2.uni-frankfurt.de/dataset/donme, visited on <insert date>
+Digital version of Metai by Kristijonas Donelaitis (v0.1.0). By: Jost Gippert, Goetz Keydana, Florian Matter. In: Carling, Gerd & Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University. (URL: https://titus2.uni-frankfurt.de/dataset/donme, visited on <insert date>)
 ```

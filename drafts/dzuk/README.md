@@ -10,5 +10,5 @@ This is a TEI port of a [TITUS dataset](http://titus.uni-frankfurt.de/texte/etcs
 
 ## Citation
 ```
-Digital version of Dzukian Prayers (draft version). By: Jolanta Gelumbeckaitė, Jost Gippert, Florian Matter. In: Carling, Gerd & Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University.(URL: https://github.com/TITUS-2-0/baltic/tree/main/drafts/dzuk/, visited on <insert date>
+Digital version of Dzukian Prayers (draft version). By: Jolanta Gelumbeckaitė, Jost Gippert, Florian Matter. In: Carling, Gerd & Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University. (URL: https://github.com/TITUS-2-0/baltic/tree/main/drafts/dzuk/, visited on <insert date>)
 ```
