@@ -2,7 +2,7 @@
 
 ![Static Badge](https://img.shields.io/badge/TEI_validation-passing-green)
 
-This is a TEI port of a [TITUS dataset](http://titus.uni-frankfurt.de/texte/etcs/balt/lit/engels/engel.htm)
+This is a TEI port of a [TITUS dataset](http://titus.uni-frankfurt.de/texte/etcs/balt/lit/engels/engel.htm).
 
 * URL: https://github.com/TITUS-2-0/baltic/tree/main/drafts/engel/
 * version: unreleased
