@@ -41,7 +41,7 @@
 		</fileDesc>
 		<profileDesc>
 			<langUsage>
-				<language ident="olt-Latn">Old Lithuanian</language>
+				<language ident="olt-Latn" ana="primary">Old Lithuanian</language>
 			</langUsage>
 		</profileDesc>
 	</teiHeader>
