@@ -27,10 +27,10 @@ The TITUS 1 structural units are mapped onto TEI as follows:
 
 ### Structural overview
 ```text
-text
+text (@xml:lang=olt-Latn)
   body
     div (@data-level=1, @n, @type=season, @xml:id) (multiple)
-      head
+      head (multiple)
       lg (@n, @type=stanza, @xml:id) (multiple)
         l (@n, @xml:id) (multiple)
 ```
