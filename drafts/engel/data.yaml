@@ -1,5 +1,5 @@
 text:
-- body:
+- body[lg=olt-Latn]:
   - part[n=Intr.]:
     - p[lg=deu-Latn-x-enhg]:
       - pb[n=2]
