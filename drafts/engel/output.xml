@@ -29,7 +29,7 @@
 		</profileDesc>
 	</teiHeader>
 	<text xml:lang="olt-Latn">
-		<body>
+		<body xml:lang="olt-Latn">
 			<div n="Intr." xml:id="part-1" type="part" data-level="1">
 				<p xml:id="part-1-p-1" xml:lang="deu-Latn-x-enhg">
 					<pb n="2" />
