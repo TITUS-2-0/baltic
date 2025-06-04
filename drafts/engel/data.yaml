@@ -1,5 +1,5 @@
 text:
-- body[lg=olt-Latn]:
+- body:
   - part[n=Intr.]:
     - p[lg=deu-Latn-x-enhg]:
       - pb[n=2]
@@ -8,31 +8,31 @@ text:
       - lb[n=2]: Catechiſmus
       - lb[n=3]
       - D.  Martin
-      - Luthers/
+      - foreign[lg=deu-Latn-x-enhg]: Luthers/
       - lb[n=4]
-      - Deutſch und Litthauiſch/
+      - foreign[lg=deu-Latn-x-enhg]: Deutſch und Litthauiſch/
       - lb[n=5]
-      - Auf
+      - foreign[lg=deu-Latn-x-enhg]: Auf
       - lb[n=6]: Allergnädigſten Befehl Sr. Kő=
       - lb[n=7]
-      - nigl.
-      - Majeſtät in Preuſſen/ mit
+      - foreign[lg=deu-Latn-x-enhg]: nigl.
+      - foreign[lg=deu-Latn-x-enhg]: Majeſtät in Preuſſen/ mit
       - 'einhelli= '
       - lb[n=8]
-      - ger
-      - Uebereinſtimmung aller
+      - foreign[lg=deu-Latn-x-enhg]: ger
+      - foreign[lg=deu-Latn-x-enhg]: Uebereinſtimmung aller
       - 'Ertʒ=Prie= '
       - lb[n=9]
-      - ſter
-      - und Pfarrern in Litthauen/
+      - foreign[lg=deu-Latn-x-enhg]: ſter
+      - foreign[lg=deu-Latn-x-enhg]: und Pfarrern in Litthauen/
       - lb[n=10]
-      - Aufs neue in Tilſit Anno 1722.
+      - foreign[lg=deu-Latn-x-enhg]: Aufs neue in Tilſit Anno 1722.
       - lb[n=11]
-      - űberſehen.
+      - foreign[lg=deu-Latn-x-enhg]: űberſehen.
       - lb[n=12]
-      - Gedruckt in Kőnigsberg.
+      - foreign[lg=deu-Latn-x-enhg]: Gedruckt in Kőnigsberg.
       - lb[n=13]
-      - Mit Reußneriſchem Verlag und Schrifften.
+      - foreign[lg=deu-Latn-x-enhg]: Mit Reußneriſchem Verlag und Schrifften.
     - pb[n=3]
     - p:
       - lb[n=1]: Maʒ́as
@@ -1232,7 +1232,7 @@ text:
       - lb[n=1]: 'ſiſʒką/ ir amʒ́iną Pra= '
       - lb[n=2]
       - půlimą.
-      - foreign[lg=lat-Latn]: Rom. 6.
+      - foreign[lg=LATIN]: Rom. 6.
       - lb[n=3]: 5. Ar tikies iſʒganyt's
       - lb[n=4]: buſęs?
       - lb[n=5]: R̷.  Mielay tikiůs.
@@ -1284,7 +1284,7 @@ text:
       - lb[n=18]: Kriſtus ſʒitoj' Naktij'
       - lb[n=19]
       - kuroj'
-      - foreign[lg=lat-Latn]: xc
+      - foreign[lg=LATIN]: xc
       - .
       - lb[n=20]: 13. Argi tiki/ ſʒwentoje
       - lb[n=21]: Wecʒéreje tikrajį Kuna
@@ -1345,7 +1345,7 @@ text:
       - lb[n=6]: Méile/ pagal jo patiês
       - lb[n=7]
       - ʒ́odį
-      - foreign[lg=lat-Latn]: Joh. 14.
+      - foreign[lg=LATIN]: Joh. 14.
       - lb[n=8]: 18. Gałiȧus/ kam pri
       - lb[n=9]: Wecʒérês eiſi?
       - lb[n=10]: 'R̷.  Kad iſʒmokcʒau ti= '
@@ -1385,7 +1385,7 @@ text:
       - lb[n=13]: tas apie ſʒius Dalykus
       - lb[n=14]
       - sako.
-      - foreign[lg=lat-Latn]: Gal. 5. 16. 19.
+      - foreign[lg=LATIN]: Gal. 5. 16. 19.
       - lb[n=15]: 2. Kad padumotu
       - lb[n=16]: bau Swiete dar eſąs/
       - lb[n=17]: ir pamiſlitu nei be
@@ -1393,7 +1393,7 @@ text:
       - lb[n=19]: buſęs/ ſʒwentam Raſʒtui
       - lb[n=20]
       - taipo ludijant
-      - foreign[lg=lat-Latn]: Ioh. 15.
+      - foreign[lg=LATIN]: Ioh. 15.
       - lb[n=21]: e_t 16. Ioh. 2. e_t 5.
       - lb[n=22]: 3. Po to ir jauſis ne
       - lb[n=23]: toly Welina nů ſawęs
@@ -1404,7 +1404,7 @@ text:
       - lb[n=28]: 'ʒ́odʒ́ui taip apie jį kal= '
       - lb[n=29]
       - bant
-      - foreign[lg=lat-Latn]: 1. Petr. 5. 8.
+      - foreign[lg=LATIN]: 1. Petr. 5. 8.
       - lb[n=C]
       - <Kiti>
       - pb[n=48]
@@ -1735,13 +1735,13 @@ text:
       - lb[n=22]: 'ſʒauſpi trećiame Pagul= '
       - lb[n=23]
       - dime
-      - foreign[lg=lat-Latn]: Tit. 1.
+      - foreign[lg=LATIN]: Tit. 1.
       - lb[n=24]: Klauſytojams ir
       - lb[n=25]: Parapyonams.
       - lb[n=26]: Wieſʒpatis priſȧke/
       - lb[n=27]: kad' Wangelya ſakąije
       - lb[n=28]: Wangelyȧ iſilaikytus.
-      - lb[n=29,lg=lat-Latn]: 1. Cor. 9.
+      - lb[n=29,lg=LATIN]: 1. Cor. 9.
       - lb[n=C]
       - <Kur's>
       - pb[n=59]
@@ -1751,7 +1751,7 @@ text:
       - lb[n=3]: "nudalyt' jį mokinan= "
       - lb[n=4]
       - ćiam.
-      - foreign[lg=lat-Latn]: Gal. 6.
+      - foreign[lg=LATIN]: Gal. 6.
       - lb[n=5]: Kunigus wyreſnůſus/
       - lb[n=6]: geray priweiʒdinćius/
       - lb[n=7]: "dwėje=tiek Garbej' laiky= "
@@ -1764,7 +1764,7 @@ text:
       - lb[n=14]: Darbinink's wert's yra
       - lb[n=15]
       - Algôs ſawo.
-      - foreign[lg=lat-Latn]: 1. Tim. 5.
+      - foreign[lg=LATIN]: 1. Tim. 5.
       - lb[n=16]: Praſʒom jus mieli
       - lb[n=17]: 'Brolei/ kad paʒ́intum= '
       - lb[n=18]: "bit' apie jus procewojan= "
@@ -1775,7 +1775,7 @@ text:
       - lb[n=23]: 'ley/ Doroje ſu jeis bu= '
       - lb[n=24]
       - dami.
-      - foreign[lg=lat-Latn]: 1. Theſſ. 5.
+      - foreign[lg=LATIN]: 1. Theſſ. 5.
       - lb[n=25]: 'Klauſykite Mokįto= '
       - lb[n=26]: 'jû ſawo jiems paſidůda= '
       - lb[n=27]: "mi/ nėſa jie bund' uʒ́ Du= "
@@ -1823,7 +1823,7 @@ text:
       - lb[n=1]: 'pjia Bylas Teiſujû. Da= '
       - lb[n=2]
       - ryk kas teiſu.
-      - foreign[lg=lat-Latn]: Deut. 16.
+      - foreign[lg=LATIN]: Deut. 16.
       - lb[n=3]: Apie Padůnus.
       - lb[n=4]: Důkite Ciecorui kas
       - lb[n=5]: 'Ciecoraus/ ir Diewui= '
@@ -2185,7 +2185,7 @@ text:
       - lb[n=15]: 'taipo uʒ́ jůs meſdami:'
       - lb[n=16]
       - Tėwe muſu
-      - foreign[lg=lat-Latn]: xc
+      - foreign[lg=LATIN]: xc
       - .
       - lb[n=17]: 'Po to te tarie Klebonas abiem:'
       - lb[n=18]: "Iey nu norit' ant to Diewo War= "
@@ -2194,12 +2194,12 @@ text:
       - lb[n=21]: 'N. Bau nori tu N uʒ́ ſawą pri= '
       - lb[n=22]: wencʒawotaję Moterį laikyt'?
       - lb[n=23]
-      - foreign[lg=lat-Latn]: Dicat
+      - foreign[lg=LATIN]: Dicat
       - Noru.
       - lb[n=24]: 'N. Bau nori tu N. uʒ́ ſawą pri= '
       - lb[n=25]: wencʒawotajį Wyra laikyti?
       - lb[n=26]
-      - foreign[lg=lat-Latn]: Dicat
+      - foreign[lg=LATIN]: Dicat
       - Noru.
       - lb[n=C]
       - <Ką>
@@ -2494,13 +2494,13 @@ text:
       - lb[n=4]: Melſkimės.
       - lb[n=5]
       - Tėwe muſu
-      - foreign[lg=lat-Latn]: xc
+      - foreign[lg=LATIN]: xc
       - .
       - lb[n=6]: "Wieſʒpat's t'apſáugoja tawą Iėji= "
       - lb[n=7]: mą ir Iſʒėjimą nůg ſʒio Cʒėſo ik' Amʒ́iû
       - lb[n=8]: Amʒ́io Amen.
       - lb[n=9]
-      - foreign[lg=lat-Latn]: N.
+      - foreign[lg=LATIN]: N.
       - Ar atſiʒ́adi Wél'nui ?
       - lb[n=10]: Atſiʒ́adu.
       - lb[n=11]: Ir jo wiſiems Darbams?
@@ -2508,13 +2508,13 @@ text:
       - lb[n=13]: Ir wiſai ſu jů Draugyſtei?
       - lb[n=14]: Atſiʒ́adu.
       - lb[n=15]
-      - foreign[lg=lat-Latn]: N.
+      - foreign[lg=LATIN]: N.
       - Ar tiki į Diewą Tėwą
       - 'wiſaga= '
       - lb[n=16]: lintįjį Sutwertojį Dangaus ir ʒ́émês?
       - lb[n=17]: Tikiu.
       - lb[n=18]
-      - foreign[lg=lat-Latn]: N.
+      - foreign[lg=LATIN]: N.
       - Ar tiki į IEʒų Kriſtų Diewo
       - lb[n=19]: wiengimuſį Sunų Wieſʒpatį muſû/
       - lb[n=20]: kur's praſidėjęs nů Dwaſês ſʒwentôs/
@@ -2531,7 +2531,7 @@ text:
       - lb[n=6]: tu Gywû ir Numiruſu?
       - lb[n=7]: Tikiu.
       - lb[n=8]
-      - foreign[lg=lat-Latn]: N.
+      - foreign[lg=LATIN]: N.
       - Ar tiki į Dwaſę ſʒwentą/ wieną
       - lb[n=9]: ſʒwentą krikſʒcʒoniſʒką Baʒ́nyćią/
       - lb[n=10]: Sʒwentuju Draugyſtę/ Atleidimą
@@ -2566,7 +2566,7 @@ text:
       - lb[n=11]: ſimą paʒ́adėjęs eſti
       - lb[n=12]
       - Têwe muſû
-      - foreign[lg=lat-Latn]: xc
+      - foreign[lg=LATIN]: xc
       - .
       - lb[n=13]: Ant antro. Mieli Prietelei Kriſtaus!
       - lb[n=14]: "Iog jus alkſtat' ir trokſʒtat' Suſimilimo Die= "
