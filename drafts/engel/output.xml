@@ -8,13 +8,13 @@
       <publicationStmt>
         <publisher>Goethe University</publisher>
         <pubPlace>Frankfurt</pubPlace>
-        <date when="2025-04-14">2025-04-14</date>
+        <date when="2026-11-21">2026-11-21</date>
         <availability>
           <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">This dataset is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</licence>
-          <p>Preferred citation: <note type="citation">Digital version of Engels, Catechismas by Unknown (draft version). 2025-04-14. In: Carling, Gerd &amp; Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University.</note>
+          <p>Preferred citation: <note type="citation">Digital version of Engels, Catechismas by Unknown (v0.0.1.draft). 2026-11-21. In: Carling, Gerd &amp; Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University.</note>
           </p>
         </availability>
-        <idno type="version">unreleased</idno>
+        <idno type="version">0.0.1.draft</idno>
       </publicationStmt>
       <sourceDesc>
         <p>Missing metadata</p>
@@ -22,49 +22,46 @@
     </fileDesc>
     <profileDesc>
       <langUsage>
-        <language ident="olt-Latn" ana="primary">Old Lithuanian</language>
-        <language ident="deu-Latn-x-enhg" ana="secondary">German</language>
-        <language ident="LATIN" ana="secondary">Latin</language>
+        <language ana="primary" ident="olt-Latn">Old Lithuanian</language>
+        <language ana="secondary" ident="deu-Latn-x-enhg">German</language>
+        <language ana="secondary" ident="LATIN">Latin</language>
       </langUsage>
     </profileDesc>
   </teiHeader>
   <text xml:lang="olt-Latn">
     <body>
-      <div n="Intr." xml:id="part-1" type="part" data-level="1">
+      <div data-level="1" n="Intr." type="part" xml:id="part-1">
         <p xml:id="part-1-p-1" xml:lang="deu-Latn-x-enhg">
           <pb n="2" />
           <lb n="1" />
           <foreign xml:lang="deu-Latn-x-enhg">Der kleine</foreign>
-          <lb n="2" />Catechiſmus
-          <lb n="3" />D.  Martin <foreign xml:lang="deu-Latn-x-enhg">Luthers/</foreign>
+          <lb n="2" />C <foreign xml:lang="deu-Latn-x-enhg">atechiſmus</foreign>
+          <lb n="3" />D. Martin <foreign xml:lang="deu-Latn-x-enhg">Luthers/</foreign>
           <lb n="4" />
           <foreign xml:lang="deu-Latn-x-enhg">Deutſch und Litthauiſch/</foreign>
           <lb n="5" />
           <foreign xml:lang="deu-Latn-x-enhg">Auf</foreign>
-          <lb n="6" />Allergnädigſten Befehl Sr. Kő=
+          <lb n="6" />A <foreign xml:lang="deu-Latn-x-enhg">llergnädigſten</foreign> B <foreign xml:lang="deu-Latn-x-enhg">efehl</foreign> S <foreign xml:lang="deu-Latn-x-enhg">r.</foreign> K <foreign xml:lang="deu-Latn-x-enhg">ő=</foreign>
           <lb n="7" />
-          <foreign xml:lang="deu-Latn-x-enhg">nigl.</foreign>
-          <foreign xml:lang="deu-Latn-x-enhg">Majeſtät in Preuſſen/ mit</foreign> einhelli=
-<lb n="8" />
-          <foreign xml:lang="deu-Latn-x-enhg">ger</foreign>
-          <foreign xml:lang="deu-Latn-x-enhg">Uebereinſtimmung aller</foreign> Ertʒ=Prie=
-<lb n="9" />
-          <foreign xml:lang="deu-Latn-x-enhg">ſter</foreign>
-          <foreign xml:lang="deu-Latn-x-enhg">und Pfarrern in Litthauen/</foreign>
+          <foreign xml:lang="deu-Latn-x-enhg"> nigl. Majeſtät in Preuſſen/ mit einhelli= </foreign>
+          <lb n="8" />
+          <foreign xml:lang="deu-Latn-x-enhg"> ger Uebereinſtimmung aller Ertʒ=Prie= </foreign>
+          <lb n="9" />
+          <foreign xml:lang="deu-Latn-x-enhg"> ſter und Pfarrern in Litthauen/</foreign>
           <lb n="10" />
-          <foreign xml:lang="deu-Latn-x-enhg">Aufs neue in Tilſit Anno 1722.</foreign>
+          <foreign xml:lang="deu-Latn-x-enhg">Aufs neue in Tilſit Anno 1722. </foreign>
           <lb n="11" />
-          <foreign xml:lang="deu-Latn-x-enhg">űberſehen.</foreign>
+          <foreign xml:lang="deu-Latn-x-enhg">űberſehen. </foreign>
           <lb n="12" />
-          <foreign xml:lang="deu-Latn-x-enhg">Gedruckt in Kőnigsberg.</foreign>
+          <foreign xml:lang="deu-Latn-x-enhg">Gedruckt in Kőnigsberg. </foreign>
           <lb n="13" />
-          <foreign xml:lang="deu-Latn-x-enhg">Mit Reußneriſchem Verlag und Schrifften.</foreign>
+          <foreign xml:lang="deu-Latn-x-enhg">Mit Reußneriſchem Verlag und Schrifften. </foreign>
         </p>
         <pb n="3" />
         <p xml:id="part-1-p-2">
           <lb n="1" />Maʒ́as
           <lb n="2" />Katgiſmas
-          <lb n="3" />D.  Mertino Luteraus/
+          <lb n="3" />D. Mertino Luteraus/
           <lb n="4" />Lietuwiſʒkay ir Wokiſʒkay/
           <lb n="5" />Ant
           <lb n="6" />Małoningiáuſojo Pruſû Kará=
@@ -80,7 +77,7 @@
           <lb n="2" />Katgiſmo be Iſʒgul=
           <lb n="3" />dimo.</p>
       </div>
-      <div n="I._Decal." xml:id="part-2" type="part" data-level="1">
+      <div data-level="1" n="I._Decal." type="part" xml:id="part-2">
         <p xml:id="part-2-p-3">
           <lb n="4" />Pirma Dałìs.
           <lb n="5" />Deſʒimtis Priſáki=
@@ -153,7 +150,7 @@
           <lb n="22" />Priſakimus mano.
           <lb n="C" />&lt;An=&gt;</p>
       </div>
-      <div n="II._Cr." xml:id="part-3" type="part" data-level="1">
+      <div data-level="1" n="II._Cr." type="part" xml:id="part-3">
         <pb n="7" />
         <p xml:id="part-3-p-4">
           <lb n="PN" />]7[
@@ -200,7 +197,7 @@
           <lb n="16" />watą/ Amen
           <lb n="C" />&lt;Trę=&gt;</p>
       </div>
-      <div n="III._Or.Dom." xml:id="part-4" type="part" data-level="1">
+      <div data-level="1" n="III._Or.Dom." type="part" xml:id="part-4">
         <pb n="9" />
         <p xml:id="part-4-p-5">
           <lb n="PN" />]9[
@@ -233,7 +230,7 @@
           <lb n="2" />ikki Amʒ́iu Amʒ́inu=
           <lb n="3" />ju Amen.</p>
       </div>
-      <div n="IV._Bapt." xml:id="part-5" type="part" data-level="1">
+      <div data-level="1" n="IV._Bapt." type="part" xml:id="part-5">
         <p xml:id="part-5-p-6">
           <lb n="4" />Ketwirta Dałìs.
           <lb n="5" />Z o k r o m e n t a s
@@ -254,7 +251,7 @@
           <lb n="20" />bus praʒ́udytas
           <lb n="C" />&lt;Pen=&gt;</p>
       </div>
-      <div n="V._Alt." xml:id="part-6" type="part" data-level="1">
+      <div data-level="1" n="V._Alt." type="part" xml:id="part-6">
         <pb n="11" />
         <p xml:id="part-6-p-7">
           <lb n="PN" />]11[
@@ -297,7 +294,7 @@
           <lb n="13" />dimu Kuningo
           <lb n="14" />Luteraus.</p>
       </div>
-      <div n="Comm._I._Decal." xml:id="part-7" type="part" data-level="1">
+      <div data-level="1" n="Comm._I._Decal." type="part" xml:id="part-7">
         <p xml:id="part-7-p-8">
           <lb n="15" />Pirma Dałìs
           <lb n="16" />Katgiſmo
@@ -508,7 +505,7 @@
           <lb n="18" />ti ir rod's jo Priſákimû
           <lb n="19" />klauſyti.</p>
       </div>
-      <div n="Comm._II._Cr." xml:id="part-8" type="part" data-level="1">
+      <div data-level="1" n="Comm._II._Cr." type="part" xml:id="part-8">
         <p xml:id="part-8-p-9">
           <lb n="20" />Antra Dałis
           <lb n="21" />Katgiſmo.
@@ -659,7 +656,7 @@
           <lb n="19" />watą důs. Tai tikray
           <lb n="20" />Tieſa.</p>
       </div>
-      <div n="Comm._III._Or.Dom." xml:id="part-9" type="part" data-level="1">
+      <div data-level="1" n="Comm._III._Or.Dom." type="part" xml:id="part-9">
         <p xml:id="part-9-p-10">
           <lb n="21" />Trećia Dałis
           <lb n="22" />Katgiſmo.
@@ -885,7 +882,7 @@
           <lb n="21" />tai eſti/ tikray tikray/
           <lb n="22" />taip tikray tur buti.</p>
       </div>
-      <div n="Comm._IV._Bapt." xml:id="part-10" type="part" data-level="1">
+      <div data-level="1" n="Comm._IV._Bapt." type="part" xml:id="part-10">
         <p xml:id="part-10-p-11">
           <lb n="23" />Ketwirta Dałis
           <lb n="24" />Katgiſmo.
@@ -1008,7 +1005,7 @@
           <lb n="19" />naujoj' Gywatoj' waik=
           <lb n="20" />ſʒćiotumbim.</p>
       </div>
-      <div n="Comm._V._Alt." xml:id="part-11" type="part" data-level="1">
+      <div data-level="1" n="Comm._V._Alt." type="part" xml:id="part-11">
         <p xml:id="part-11-p-12">
           <lb n="21" />Penkta Dałis
           <lb n="22" />Katgiſmo.
@@ -1134,7 +1131,7 @@
           <lb n="1" />nor tikt' tikray tikin=
           <lb n="2" />ćias Sʒirdis.</p>
       </div>
-      <div n="Form.Conf." xml:id="part-12" type="part" data-level="1">
+      <div data-level="1" n="Form.Conf." type="part" xml:id="part-12">
         <p xml:id="part-12-p-13">
           <lb n="3" />Spawede.
           <lb n="4" />Aſʒ bėdnas wargin=
@@ -1213,54 +1210,64 @@
           <lb n="11" />1. Ar nuſimanaiſi ir
           <lb n="12" />ʒ́inaiſi Griekininku
           <lb n="13" />ėſas?
-          <lb n="14" />R̷.  ʒ́inaus' bei nuſi=
-          <lb n="15" />manaus'.
-          <lb n="16" />2. Iſʒ ko tai ʒ́inai?
-          <lb n="17" />R̷.  Iſʒ deſʒimties Pono
-          <lb n="18" />Diewo Priſákimû/ tû ne
-          <lb n="19" />pilnawojau.
-          <lb n="20" />3. Ar gailiės' Diewui
-          <lb n="21" />ſuſigrieſʒijęs?
-          <lb n="22" />R̷.  Berod's gailůs
-          <lb n="23" />Diewui ſuſigrieſʒijęs.
-          <lb n="24" />4. Ką pelnęs eſi ſawo
-          <lb n="25" />Griekais nů Diewo?
-          <lb n="26" />R̷.  Io Narſą bei Ne=
-          <lb n="27" />małonę/ Smertį cʒe=
-          <lb n="C" />&lt;ſiſʒką/&gt;
-          <pb n="43" />
+          <lb n="14" />
+          <foreign xml:lang="LATIN">R̷. </foreign> ʒ́inaus' bei nuſi=
+<lb n="15" />manaus'.
+<lb n="16" />2. Iſʒ ko tai ʒ́inai?
+<lb n="17" />
+          <foreign xml:lang="LATIN">R̷. </foreign> Iſʒ deſʒimties Pono
+<lb n="18" />Diewo Priſákimû/ tû ne
+<lb n="19" />pilnawojau.
+<lb n="20" />3. Ar gailiės' Diewui
+<lb n="21" />ſuſigrieſʒijęs?
+<lb n="22" />
+          <foreign xml:lang="LATIN">R̷. </foreign> Berod's gailůs
+<lb n="23" />Diewui ſuſigrieſʒijęs.
+<lb n="24" />4. Ką pelnęs eſi ſawo
+<lb n="25" />Griekais nů Diewo?
+<lb n="26" />
+          <foreign xml:lang="LATIN">R̷. </foreign> Io Narſą bei Ne=
+<lb n="27" />małonę/ Smertį cʒe=
+<lb n="C" />&lt;ſiſʒką/&gt;
+<pb n="43" />
           <lb n="PN" />]43[
           <lb n="1" />ſiſʒką/ ir amʒ́iną Pra=
-          <lb n="2" />půlimą. <foreign xml:lang="LATIN">Rom. 6.</foreign>
+          <lb n="2" />půlimą. <foreign xml:lang="LATIN">Rom. 6. </foreign>
           <lb n="3" />5. Ar tikies iſʒganyt's
           <lb n="4" />buſęs?
-          <lb n="5" />R̷.  Mielay tikiůs.
-          <lb n="6" />6. Kům'gi paſitiki?
-          <lb n="7" />R̷.  Sawa mielu Ponu
-          <lb n="8" />Ieʒumi Kriſtumi.
-          <lb n="9" />7. Kasgi Kriſtus?
-          <lb n="10" />R̷.  Diewo Sunus/ ti=
-          <lb n="11" />kras Diew's ir ʒ́mogus.
-          <lb n="12" />8. Kełigi Diewai?
-          <lb n="13" />R̷.  Tikt' wien's/ ale
-          <lb n="14" />trys Perſʒonos/ Tėw's/
-          <lb n="15" />Sunus ir ſʒwenta
-          <lb n="16" />Dwaſe.
-          <lb n="17" />9. Ką Kriſtus uʒ́ tawę
-          <lb n="18" />padaręs eſti/ kad tu jû=
-          <lb n="19" />mi paſitikėdam's
-          <lb n="20" />linkſminies?
-          <lb n="21" />R̷.  Iis uʒ́ manę mi=
-          <lb n="22" />ręs/ ir ſawa Kraują
-          <lb n="23" />pri Kryʒ́aus ant Atlei=
-          <lb n="24" />dimo Griekû uʒ́ manę
-          <lb n="25" />praliejęs eſti.
-          <lb n="26" />10. Bau ir Tėw's uʒ́
-          <lb n="27" />tavę miręs?
-          <lb n="28" />R̷.  Ne: Nės Tėw's
-          <lb n="29" />tikt' Diew's/ ſʒwentoji
-          <lb n="C" />&lt;Dwa= &gt;
-          <pb n="44" />
+          <lb n="5" />
+          <foreign xml:lang="LATIN">R̷. </foreign> Mielay tikiůs.
+<lb n="6" />6. Kům'gi paſitiki?
+<lb n="7" />
+          <foreign xml:lang="LATIN">R̷. </foreign> Sawa mielu Ponu
+<lb n="8" />Ieʒumi Kriſtumi.
+<lb n="9" />7. Kasgi Kriſtus?
+<lb n="10" />
+          <foreign xml:lang="LATIN">R̷. </foreign> Diewo Sunus/ ti=
+<lb n="11" />kras Diew's ir ʒ́mogus.
+<lb n="12" />8. Kełigi Diewai?
+<lb n="13" />
+          <foreign xml:lang="LATIN">R̷. </foreign> Tikt' wien's/ ale
+<lb n="14" />trys Perſʒonos/ Tėw's/
+<lb n="15" />Sunus ir ſʒwenta
+<lb n="16" />Dwaſe.
+<lb n="17" />9. Ką Kriſtus uʒ́ tawę
+<lb n="18" />padaręs eſti/ kad tu jû=
+<lb n="19" />mi paſitikėdam's
+<lb n="20" />linkſminies?
+<lb n="21" />
+          <foreign xml:lang="LATIN">R̷. </foreign> Iis uʒ́ manę mi=
+<lb n="22" />ręs/ ir ſawa Kraują
+<lb n="23" />pri Kryʒ́aus ant Atlei=
+<lb n="24" />dimo Griekû uʒ́ manę
+<lb n="25" />praliejęs eſti.
+<lb n="26" />10. Bau ir Tėw's uʒ́
+<lb n="27" />tavę miręs?
+<lb n="28" />
+          <foreign xml:lang="LATIN">R̷. </foreign> Ne: Nės Tėw's
+<lb n="29" />tikt' Diew's/ ſʒwentoji
+<lb n="C" />&lt;Dwa=&gt;
+<pb n="44" />
           <lb n="PN" />]44[
           <lb n="1" />Dwaſe taipojau tikt'
           <lb n="2" />Diew's/ ale Sunus ti=
@@ -1269,31 +1276,35 @@
           <lb n="5" />miręs/ ir ſawa Kraują
           <lb n="6" />uʒ́ manę praliejęs eſti.
           <lb n="7" />11. Iſʒ ko tai ʒ́inai?
-          <lb n="8" />R̷.  Iſʒ ſʒwentos Wan=
-          <lb n="9" />gelyos/ ir iſʒ ʒ́odʒ́iu
-          <lb n="10" />apie Ʒokromentą We=
-          <lb n="11" />cʒérės Kuno ir Kraujo
-          <lb n="12" />Pono muſu Ieʒaus
-          <lb n="13" />Kriſtaus/ mums ant
-          <lb n="14" />uʒ́ſtato Ʒokromente pa=
-          <lb n="15" />liktû.
-          <lb n="16" />12. Kokie tie ʒ́odʒ́ei?
-          <lb n="17" />R̷.  Ponas muſu Ieʒus
-          <lb n="18" />Kriſtus ſʒitoj' Naktij'
-          <lb n="19" />kuroj' <foreign xml:lang="LATIN">xc</foreign> .
-          <lb n="20" />13. Argi tiki/ ſʒwentoje
-          <lb n="21" />Wecʒéreje tikrajį Kuna
-          <lb n="22" />ir Kraują Ieʒaus
-          <lb n="23" />Ėſantį?
-          <lb n="24" />R̷.  Ie/ tikiu.
-          <lb n="25" />14. Kokio Ptieʒ́alſćio de=
-          <lb n="26" />ley/ arba del ko tai
-          <lb n="27" />tiki?
-          <lb n="28" />R̷.  Del ʒ́odʒ́iû Kri=
-          <lb n="29" />ſtaus/ imkit'/ walgikit'
-          <lb n="30" />tai eſti mano Kun's/
-          <lb n="C" />&lt;imkit'&gt;
-          <pb n="45" />
+          <lb n="8" />
+          <foreign xml:lang="LATIN">R̷. </foreign> Iſʒ ſʒwentos Wan=
+<lb n="9" />gelyos/ ir iſʒ ʒ́odʒ́iu
+<lb n="10" />apie Ʒokromentą We=
+<lb n="11" />cʒérės Kuno ir Kraujo
+<lb n="12" />Pono muſu Ieʒaus
+<lb n="13" />Kriſtaus/ mums ant
+<lb n="14" />uʒ́ſtato Ʒokromente pa=
+<lb n="15" />liktû.
+<lb n="16" />12. Kokie tie ʒ́odʒ́ei?
+<lb n="17" />
+          <foreign xml:lang="LATIN">R̷. </foreign> Ponas muſu Ieʒus
+<lb n="18" />Kriſtus ſʒitoj' Naktij'
+<lb n="19" />kuroj' <foreign xml:lang="LATIN">xc</foreign> .
+<lb n="20" />13. Argi tiki/ ſʒwentoje
+<lb n="21" />Wecʒéreje tikrajį Kuna
+<lb n="22" />ir Kraują Ieʒaus
+<lb n="23" />Ėſantį?
+<lb n="24" />
+          <foreign xml:lang="LATIN">R̷. </foreign> Ie/ tikiu.
+<lb n="25" />14. Kokio Ptieʒ́alſćio de=
+<lb n="26" />ley/ arba del ko tai
+<lb n="27" />tiki?
+<lb n="28" />
+          <foreign xml:lang="LATIN">R̷. </foreign> Del ʒ́odʒ́iû Kri=
+<lb n="29" />ſtaus/ imkit'/ walgikit'
+<lb n="30" />tai eſti mano Kun's/
+<lb n="C" />&lt;imkit'&gt;
+<pb n="45" />
           <lb n="PN" />]45[
           <lb n="1" />imkit' gérkit'/ tai eſti
           <lb n="2" />mano Kraujas.
@@ -1302,84 +1313,90 @@
           <lb n="5" />dami/ ir jo Krauja gér=
           <lb n="6" />dami/ ir ſʒitaip Uʒ́ſtato
           <lb n="7" />tą priimdami?
-          <lb n="8" />R̷.  Turim' jo Smertį/
-          <lb n="9" />ir Kraujo Praliejimą
-          <lb n="10" />praneſʒti/ ir atſiminti/
-          <lb n="11" />kaip jis mus mokinęs/
-          <lb n="12" />tai darykite/ kiek Kar=
-          <lb n="13" />tu prieiſite/ ant mano
-          <lb n="14" />Atminimo.
-          <lb n="15" />16. Kamgi atſiminti
-          <lb n="16" />Smerćio Kriſtaus/ ir
-          <lb n="17" />tą praneſʒti tu=
-          <lb n="18" />rime?
-          <lb n="19" />R̷.  Kad tikėt' iſʒmok=
-          <lb n="20" />tumbim'/ ne wieną ne=
-          <lb n="21" />galėjuſį uʒ́ muſu Grie=
-          <lb n="22" />kus Diewui uʒ́mokėt/
-          <lb n="23" />tikt' Kriſtų tikrą Die=
-          <lb n="24" />wą/ ir ʒ́mogų/ ir nuſi=
-          <lb n="25" />gąſti ſawo Griekû bei
-          <lb n="26" />tû ne pamaʒ́inti iſʒmok=
-          <lb n="27" />tumbim'/ ir jům' wienu
-          <lb n="28" />paſidʒ́augtumbim' ir
-          <lb n="29" />paſilinkſmintumbim/ir
-          <lb n="30" />taip tikėdami kartuntą
-          <lb n="31" />Dangun' iſʒkaktum=
-          <lb n="32" />bim'.
-          <lb n="C" />&lt;17.&gt;
-          <pb n="46" />
+          <lb n="8" />
+          <foreign xml:lang="LATIN">R̷. </foreign> Turim' jo Smertį/
+<lb n="9" />ir Kraujo Praliejimą
+<lb n="10" />praneſʒti/ ir atſiminti/
+<lb n="11" />kaip jis mus mokinęs/
+<lb n="12" />tai darykite/ kiek Kar=
+<lb n="13" />tu prieiſite/ ant mano
+<lb n="14" />Atminimo.
+<lb n="15" />16. Kamgi atſiminti
+<lb n="16" />Smerćio Kriſtaus/ ir
+<lb n="17" />tą praneſʒti tu=
+<lb n="18" />rime?
+<lb n="19" />
+          <foreign xml:lang="LATIN">R̷. </foreign> Kad tikėt' iſʒmok=
+<lb n="20" />tumbim'/ ne wieną ne=
+<lb n="21" />galėjuſį uʒ́ muſu Grie=
+<lb n="22" />kus Diewui uʒ́mokėt/
+<lb n="23" />tikt' Kriſtų tikrą Die=
+<lb n="24" />wą/ ir ʒ́mogų/ ir nuſi=
+<lb n="25" />gąſti ſawo Griekû bei
+<lb n="26" />tû ne pamaʒ́inti iſʒmok=
+<lb n="27" />tumbim'/ ir jům' wienu
+<lb n="28" />paſidʒ́augtumbim' ir
+<lb n="29" />paſilinkſmintumbim/ir
+<lb n="30" />taip tikėdami kartuntą
+<lb n="31" />Dangun' iſʒkaktum=
+<lb n="32" />bim'.
+<lb n="C" />&lt;17.&gt;
+<pb n="46" />
           <lb n="PN" />]46[
           <lb n="1" />17. Kas werte jį uʒ́ mu=
           <lb n="2" />ſû Griekus mirti ir
           <lb n="3" />mokėti?
-          <lb n="4" />R̷.  Io Tėwo/ mano/
-          <lb n="5" />ir kitû Griekininkû dide
-          <lb n="6" />Méile/ pagal jo patiês
-          <lb n="7" />ʒ́odį <foreign xml:lang="LATIN">Joh. 14.</foreign>
+          <lb n="4" />
+          <foreign xml:lang="LATIN">R̷. </foreign> Io Tėwo/ mano/
+<lb n="5" />ir kitû Griekininkû dide
+<lb n="6" />Méile/ pagal jo patiês
+<lb n="7" />ʒ́odį <foreign xml:lang="LATIN">Joh. 14. </foreign>
           <lb n="8" />18. Gałiȧus/ kam pri
           <lb n="9" />Wecʒérês eiſi?
-          <lb n="10" />R̷.  Kad iſʒmokcʒau ti=
-          <lb n="11" />kėti/ Kriſtų uʒ́ mano
-          <lb n="12" />Griekus iſʒ didʒ́ios
-          <lb n="13" />Méilês miruſį/ kaip ſa=
-          <lb n="14" />kyta; ir po tam nů jo
-          <lb n="15" />mokįcʒaus Diewą bei
-          <lb n="16" />Artimą ſawą milėti.
-          <lb n="17" />19. Kas tawę paragis/
-          <lb n="18" />ſʒwentą Wecʒerę tan=
-          <lb n="19" />key wartůti?
-          <lb n="20" />R̷.  Iſakimas ir ʒ́adė=
-          <lb n="21" />jimas Diewo ir Kri=
-          <lb n="22" />ſtaus/ tad' ir tawo pa=
-          <lb n="23" />tiês Bėda ant tawo
-          <lb n="24" />Kakla gulinti/ todel né=
-          <lb n="25" />ſaliepiam's wadinam's/
-          <lb n="26" />Ir ʒ́adej1imais tieſʒiji=
-          <lb n="27" />mas eſi.
-          <lb n="C" />&lt;20.&gt;
-          <pb n="47" />
+          <lb n="10" />
+          <foreign xml:lang="LATIN">R̷. </foreign> Kad iſʒmokcʒau ti=
+<lb n="11" />kėti/ Kriſtų uʒ́ mano
+<lb n="12" />Griekus iſʒ didʒ́ios
+<lb n="13" />Méilês miruſį/ kaip ſa=
+<lb n="14" />kyta; ir po tam nů jo
+<lb n="15" />mokįcʒaus Diewą bei
+<lb n="16" />Artimą ſawą milėti.
+<lb n="17" />19. Kas tawę paragis/
+<lb n="18" />ſʒwentą Wecʒerę tan=
+<lb n="19" />key wartůti?
+<lb n="20" />
+          <foreign xml:lang="LATIN">R̷. </foreign> Iſakimas ir ʒ́adė=
+<lb n="21" />jimas Diewo ir Kri=
+<lb n="22" />ſtaus/ tad' ir tawo pa=
+<lb n="23" />tiês Bėda ant tawo
+<lb n="24" />Kakla gulinti/ todel né=
+<lb n="25" />ſaliepiam's wadinam's/
+<lb n="26" />Ir ʒ́adej1imais tieſʒiji=
+<lb n="27" />mas eſi.
+<lb n="C" />&lt;20.&gt;
+<pb n="47" />
           <lb n="PN" />]47[
           <lb n="1" />20. Kągi ʒ́mogus tur
           <lb n="2" />weikti/ kad ſawije tôs
           <lb n="3" />Bėdôs ne numano/ arba
           <lb n="4" />tôs Wecʒérês nei alk=
           <lb n="5" />ſta nei trokſʒta?
-          <lb n="6" />R̷.  Tą ne gali geraus
-          <lb n="7" />pamokinti/ kaip kad
-          <lb n="8" />pat's į ſawą Antį ſiek=
-          <lb n="9" />dam's iſʒpaʒ́intu bau
-          <lb n="10" />dar Kuno Uſigeidimû
-          <lb n="11" />jaućia/ ir taćiau ſʒwen=
-          <lb n="12" />tam Raſʒtui/ wieritu ką
-          <lb n="13" />tas apie ſʒius Dalykus
-          <lb n="14" />sako. <foreign xml:lang="LATIN">Gal. 5. 16. 19.</foreign>
+          <lb n="6" />
+          <foreign xml:lang="LATIN">R̷. </foreign> Tą ne gali geraus
+<lb n="7" />pamokinti/ kaip kad
+<lb n="8" />pat's į ſawą Antį ſiek=
+<lb n="9" />dam's iſʒpaʒ́intu bau
+<lb n="10" />dar Kuno Uſigeidimû
+<lb n="11" />jaućia/ ir taćiau ſʒwen=
+<lb n="12" />tam Raſʒtui/ wieritu ką
+<lb n="13" />tas apie ſʒius Dalykus
+<lb n="14" />sako. <foreign xml:lang="LATIN">Gal. 5. 16. 19. </foreign>
           <lb n="15" />2. Kad padumotu
           <lb n="16" />bau Swiete dar eſąs/
           <lb n="17" />ir pamiſlitu nei be
           <lb n="18" />Griekû nei be Bėdôs
           <lb n="19" />buſęs/ ſʒwentam Raſʒtui
-          <lb n="20" />taipo ludijant <foreign xml:lang="LATIN">Ioh. 15.</foreign>
+          <lb n="20" />taipo ludijant <foreign xml:lang="LATIN">Ioh. 15. </foreign>
           <lb n="21" />e_t 16. Ioh. 2. e_t 5.
           <lb n="22" />3. Po to ir jauſis ne
           <lb n="23" />toly Welina nů ſawęs
@@ -1388,7 +1405,7 @@
           <lb n="26" />ną ir Naktį wiſotinay
           <lb n="27" />Pakajus ne důs/ Diewo
           <lb n="28" />ʒ́odʒ́ui taip apie jį kal=
-          <lb n="29" />bant <foreign xml:lang="LATIN">1. Petr. 5. 8.</foreign>
+          <lb n="29" />bant <foreign xml:lang="LATIN">1. Petr. 5. 8. </foreign>
           <lb n="C" />&lt;Kiti&gt;
           <pb n="48" />
           <lb n="PN" />]48[
@@ -1501,7 +1518,7 @@
           <lb n="13" />ba Diewo ſawo griekin=
           <lb n="14" />go Giwėnimo.</p>
       </div>
-      <div n="Ben." xml:id="part-13" type="part" data-level="1">
+      <div data-level="1" n="Ben." type="part" xml:id="part-13">
         <p xml:id="part-13-p-14">
           <lb n="15" />Ryto Meto Zeg=
           <lb n="16" />none.
@@ -1599,7 +1616,7 @@
           <lb n="21" />manęs negautu/
           <lb n="22" />Amen.</p>
       </div>
-      <div n="Orat." xml:id="part-14" type="part" data-level="1">
+      <div data-level="1" n="Orat." type="part" xml:id="part-14">
         <p xml:id="part-14-p-15">
           <lb n="23" />Pogito linkſmay uʒ́=
           <lb n="24" />mig.
@@ -1638,7 +1655,7 @@
           <lb n="5" />gimo.
           <lb n="6" />Cʒe wėl Rankas ſuſiė=
           <lb n="7" />mę prie Stȧlo manda=
-          <lb n="8" />gey ſuſtoję tur ſakyt' .
+          <lb n="8" />gey ſuſtoję tur ſakyt'.
           <lb n="9" />Dėkawokit' Po=
           <lb n="10" />nui Diewui/ nėſa jis
           <lb n="11" />yra géras/ ir jo Ma=
@@ -1673,7 +1690,7 @@
           <lb n="14" />láuji amʒ́inay/ A=
           <lb n="15" />men.</p>
       </div>
-      <div n="Tab.Scr." xml:id="part-15" type="part" data-level="1">
+      <div data-level="1" n="Tab.Scr." type="part" xml:id="part-15">
         <p xml:id="part-15-p-16">
           <lb n="16" />Namû Toblyćia
           <lb n="17" />nekuriû graʒ́û Kal=
@@ -1709,20 +1726,20 @@
           <lb n="20" />priſiwertęs) pirmoje
           <lb n="21" />Gromatoje Timoteu=
           <lb n="22" />ſʒauſpi trećiame Pagul=
-          <lb n="23" />dime <foreign xml:lang="LATIN">Tit. 1.</foreign>
+          <lb n="23" />dime <foreign xml:lang="LATIN">Tit. 1. </foreign>
           <lb n="24" />Klauſytojams ir
           <lb n="25" />Parapyonams.
           <lb n="26" />Wieſʒpatis priſȧke/
           <lb n="27" />kad' Wangelya ſakąije
           <lb n="28" />Wangelyȧ iſilaikytus.
-          <lb n="29" xml:lang="LATIN" />1. Cor. 9.
+          <lb n="29" xml:lang="LATIN" /> 1. Cor. 9.
           <lb n="C" />&lt;Kur's&gt;
           <pb n="59" />
           <lb n="PN" />]59[
           <lb n="1" />Kur's mokinam's
           <lb n="2" />Ʒ́odʒ́iu/ wiſą Gėrą tur
           <lb n="3" />nudalyt' jį mokinan=
-          <lb n="4" />ćiam. <foreign xml:lang="LATIN">Gal. 6.</foreign>
+          <lb n="4" />ćiam. <foreign xml:lang="LATIN">Gal. 6. </foreign>
           <lb n="5" />Kunigus wyreſnůſus/
           <lb n="6" />geray priweiʒdinćius/
           <lb n="7" />dwėje=tiek Garbej' laiky=
@@ -1733,7 +1750,7 @@
           <lb n="12" />Iaućio kulenćio Naſrû
           <lb n="13" />n' uʒ́riſʒk. Bei koʒ́nas
           <lb n="14" />Darbinink's wert's yra
-          <lb n="15" />Algôs ſawo. <foreign xml:lang="LATIN">1. Tim. 5.</foreign>
+          <lb n="15" />Algôs ſawo. <foreign xml:lang="LATIN">1. Tim. 5. </foreign>
           <lb n="16" />Praſʒom jus mieli
           <lb n="17" />Brolei/ kad paʒ́intum=
           <lb n="18" />bit' apie jus procewojan=
@@ -1742,7 +1759,7 @@
           <lb n="21" />graudinanćius. Io mi=
           <lb n="22" />lėkite jůs jû Darbo de=
           <lb n="23" />ley/ Doroje ſu jeis bu=
-          <lb n="24" />dami. <foreign xml:lang="LATIN">1. Theſſ. 5.</foreign>
+          <lb n="24" />dami. <foreign xml:lang="LATIN">1. Theſſ. 5. </foreign>
           <lb n="25" />Klauſykite Mokįto=
           <lb n="26" />jû ſawo jiems paſidůda=
           <lb n="27" />mi/ nėſa jie bund' uʒ́ Du=
@@ -1786,7 +1803,7 @@
           <pb n="61" />
           <lb n="PN" />]61[
           <lb n="1" />pjia Bylas Teiſujû. Da=
-          <lb n="2" />ryk kas teiſu. <foreign xml:lang="LATIN">Deut. 16.</foreign>
+          <lb n="2" />ryk kas teiſu. <foreign xml:lang="LATIN">Deut. 16. </foreign>
           <lb n="3" />Apie Padůnus.
           <lb n="4" />Důkite Ciecorui kas
           <lb n="5" />Ciecoraus/ ir Diewui=
@@ -1953,14 +1970,14 @@
           <lb n="14" />ʒ́mones. 1. Tim. 2.
           <lb n="C" />&lt;Mal=&gt;</p>
       </div>
-      <div n="Orat.2" xml:id="part-16" type="part" data-level="1">
+      <div data-level="1" n="Orat.2" type="part" xml:id="part-16">
         <pb n="67" />
         <p xml:id="part-16-p-17">
           <lb n="PN" />]67[
           <lb n="1" />Malda/ kad' prie
           <lb n="2" />Diewo Malones
           <lb n="3" />nori eiti.
-          <lb n="4" />A Sʒ tikiu/ O Wie=
+          <lb n="4" />ASʒ tikiu/ O Wie=
           <lb n="5" />ſʒpatie/ ir iſʒpaʒ́yſtu/
           <lb n="6" />jog tu eſi Kriſtus
           <lb n="7" />Sunus gywojo Die=
@@ -1994,7 +2011,7 @@
           <lb n="3" />paſʒwencʒencʒe Dwaſe
           <lb n="4" />dabar ir amʒ́inay. Amen
           <lb n="5" />Kita Malda.
-          <lb n="6" />A R tu mano Malo=
+          <lb n="6" />AR tu mano Malo=
           <lb n="7" />ningiauſaſis Pone
           <lb n="8" />Ieʒau Kriſtau/ důk
           <lb n="9" />maloningay/ kad' aſʒ
@@ -2020,7 +2037,7 @@
           <lb n="PN" />]69[
           <lb n="1" />Po to tolaus
           <lb n="2" />sakyk.
-          <lb n="3" />A R manas Diewe ir
+          <lb n="3" />AR manas Diewe ir
           <lb n="4" />Iſʒganytojau/ Wie=
           <lb n="5" />ſʒpatie Ieʒau Kriſtau!
           <lb n="6" />Aſʒ bėdnas Griekinin=
@@ -2035,7 +2052,7 @@
           <lb n="15" />ʒ́inop' Giwatop' iſʒlai=
           <lb n="16" />kyta. Amen.
           <lb n="17" />Paſkiáus ſakyk.
-          <lb n="18" />K unas ſʒwentas Ie=
+          <lb n="18" />Kunas ſʒwentas Ie=
           <lb n="19" />ʒaus palinkſmink
           <lb n="20" />manę/ jo raudonas
           <lb n="21" />Kraujas atgaiwink ma=
@@ -2056,14 +2073,14 @@
           <lb n="5" />garbincʒau ir laupſin=
           <lb n="6" />cʒau amʒ́inay! Amen.
           <lb n="7" />Kitaip.
-          <lb n="8" />A R Pone Diewe!
+          <lb n="8" />AR Pone Diewe!
           <lb n="9" />důk ſawo Tarnui
           <lb n="10" />Pakȧjuje eiti/ nės' ma=
           <lb n="11" />no Akis regėjo/ ir ſu
           <lb n="12" />ſawo Burna priėmjau
           <lb n="13" />tawo Iſʒganytojį.
           <lb n="14" />Kitaip.
-          <lb n="15" />D ėl didʒ́io Páwar=
+          <lb n="15" />Dėl didʒ́io Páwar=
           <lb n="16" />go/ dėley ʒ́mogy=
           <lb n="17" />ſtes/ deley didʒ́iû Mu=
           <lb n="18" />kû/ deley gilû Konû/
@@ -2084,7 +2101,7 @@
           <lb n="3" />Dekawone po
           <lb n="4" />pri=imtos ſʒwen=
           <lb n="5" />tôs Wecʒ́éres.
-          <lb n="6" />A k wiſ'galįſis amʒ́i=
+          <lb n="6" />Ak wiſ'galįſis amʒ́i=
           <lb n="7" />naſis Diewe! Tawo
           <lb n="8" />diewiſʒkai ſuſimilſtan=
           <lb n="9" />cʒei Małonei ſʒirdingay
@@ -2119,12 +2136,12 @@
           <lb n="8" />lajį Sunų muſû Wie=
           <lb n="9" />ſʒpatį. Amen.</p>
       </div>
-      <div n="Lib.Matr." xml:id="part-17" type="part" data-level="1">
+      <div data-level="1" n="Lib.Matr." type="part" xml:id="part-17">
         <pb n="73" />
         <p xml:id="part-17-p-18">
           <lb n="PN" />]73[
           <lb n="1" />Apie Wencʒawojimą.
-          <lb n="2" />M ieli Prietelei ! Sʒie dabar po Akim'
+          <lb n="2" />Mieli Prietelei ! Sʒie dabar po Akim'
           <lb n="3" />juſû eſą ʒ́mones tikru Budu ſu ʒ́ine
           <lb n="4" />ſawo Gimdytoju (Genciû arba A=
           <lb n="5" />pekunû) į Sulubą Wencʒawony=
@@ -2247,7 +2264,7 @@
           <lb n="11" />ſi/ iſʒ kuriôs eſi imtas/ neſang tu eſi ʒ́éme/
           <lb n="12" />ir ing ʒ́emę wėl pawirſi.
           <lb n="13" />Ant tréćio.
-          <lb n="14" />S Ʒitas yra juſû Palinkſminojimas/ jog jus
+          <lb n="14" />SƷitas yra juſû Palinkſminojimas/ jog jus
           <lb n="15" />ʒ́inot'/ bei tikit/ kaip juſu Wencʒawony=
           <lb n="16" />ſtes Giwénimas Ponui Diewui yra įtinkąs/ ir
           <lb n="17" />jo patiês pérʒ́egnotas. Nės' taipo yra para=
@@ -2291,7 +2308,7 @@
           <lb n="21" />kajų Amen.
           <lb n="C" />&lt;Apie&gt;</p>
       </div>
-      <div n="Lib.Bapt." xml:id="part-18" type="part" data-level="1">
+      <div data-level="1" n="Lib.Bapt." type="part" xml:id="part-18">
         <pb n="79" />
         <p xml:id="part-18-p-19">
           <lb n="PN" />]79[
@@ -2299,7 +2316,7 @@
           <lb n="2" />Pagraudinimas tiems kurie Kudikį
           <lb n="3" />Krikſʒtop' prineſʒa/ arba Ku=
           <lb n="4" />můſa ſtow.
-          <lb n="5" />M Ieli Prietelei ! Kas Dien' girdime iſʒ
+          <lb n="5" />MIeli Prietelei ! Kas Dien' girdime iſʒ
           <lb n="6" />Diewo ʒ́odʒ́io/ ſuprantam taipojau
           <lb n="7" />bei iſʒ ſawo Giwénimo bei Numiri=
           <lb n="8" />mo/ kaip mes nůg Adomo wiſi
@@ -2401,13 +2418,13 @@
           <lb n="20" />ganytingą Griek-Twanį [jėme / joje] nuſkeſtu ir nu=
           <lb n="21" />grimſtu wis'kas [jam / jei] nůg Adomo prigime/
           <lb n="22" />jr ką [jis pats dare. / ji pati dáruſi] Ir taipo [jis / ji] iſʒ ne=
-          <lb n="23" />tikincʒuju Skaitlaus atſkirtas / ta]  ſʒwentoj' Ba=
+          <lb n="23" />tikincʒuju Skaitlaus atſkirtas / ta] ſʒwentoj' Ba=
           <lb n="C" />&lt;ʒ́nycʒoje&gt;
           <pb n="83" />
           <lb n="PN" />]83[
-          <lb n="1" />ʒ́nycʒoje néy kokiam' Akrutė ſauſas ir  ſa]  ſu Paká=
-          <lb n="2" />jumi butu iſʒlaikytas /  ta]  wiſados karſʒtas / ſʒta]  Dwá=
-          <lb n="3" />ſeje linkſmas / ſma]  Nuſitikėjimė tawam Wardui ſʒlu=
+          <lb n="1" />ʒ́nycʒoje néy kokiam' Akrutė ſauſas ir  ſa] ſu Paká=
+          <lb n="2" />jumi butu iſʒlaikytas /  ta] wiſados karſʒtas / ſʒta] Dwá=
+          <lb n="3" />ſeje linkſmas / ſma] Nuſitikėjimė tawam Wardui ſʒlu=
           <lb n="4" />ʒ́itu/ jeyb ſu wiſais Tikincʒeiſeis pagal tawo
           <lb n="5" />ʒ́adejimą amʒ́inajį Giwénimą įgyti wertas / ta]
           <lb n="6" />butu! per IEʒų Kriſtų. Amen.
@@ -2419,7 +2436,7 @@
           <lb n="12" />IEʒaus Kriſtaus! Amen.
           <lb n="22" />Klauſykem' ſʒwentą Wangėlyą
           <lb n="23" />S. Markoſʒaus.
-          <lb n="24" />I R prineſʒe Kudikielus IEʒauſpi/ jeyb daſi=
+          <lb n="24" />IR prineſʒe Kudikielus IEʒauſpi/ jeyb daſi=
           <lb n="25" />litėtu/ o Apȧſʒtalai draude neſʒancůſus. Bet
           <lb n="26" />IEʒus iſʒwydęs tai/ pykterėjo ir táre jumpi:
           <lb n="27" />Léiſkit' Kudikielus manęſp' eiti/ ir ne drauſkit'
@@ -2437,18 +2454,18 @@
           <lb n="7" />mą ir Iſʒėjimą nůg ſʒio Cʒėſo ik' Amʒ́iû
           <lb n="8" />Amʒ́io Amen.
           <lb n="9" />
-          <foreign xml:lang="LATIN">N.</foreign> Ar atſiʒ́adi Wél'nui ?
+          <foreign xml:lang="LATIN">N. </foreign> Ar atſiʒ́adi Wél'nui ?
 <lb n="10" />Atſiʒ́adu.
 <lb n="11" />Ir jo wiſiems Darbams?
 <lb n="12" />Atſiʒ́adu.
 <lb n="13" />Ir wiſai ſu jů Draugyſtei?
 <lb n="14" />Atſiʒ́adu.
 <lb n="15" />
-          <foreign xml:lang="LATIN">N.</foreign> Ar tiki į Diewą Tėwą wiſaga=
+          <foreign xml:lang="LATIN">N. </foreign> Ar tiki į Diewą Tėwą wiſaga=
 <lb n="16" />lintįjį Sutwertojį Dangaus ir ʒ́émês?
 <lb n="17" />Tikiu.
 <lb n="18" />
-          <foreign xml:lang="LATIN">N.</foreign> Ar tiki į IEʒų Kriſtų Diewo
+          <foreign xml:lang="LATIN">N. </foreign> Ar tiki į IEʒų Kriſtų Diewo
 <lb n="19" />wiengimuſį Sunų Wieſʒpatį muſû/
 <lb n="20" />kur's praſidėjęs nů Dwaſês ſʒwentôs/
 <lb n="21" />gimęs iſʒ Maryos Mergôs/ kentėjęs po
@@ -2463,7 +2480,7 @@
           <lb n="6" />tu Gywû ir Numiruſu?
           <lb n="7" />Tikiu.
           <lb n="8" />
-          <foreign xml:lang="LATIN">N.</foreign> Ar tiki į Dwaſę ſʒwentą/ wieną
+          <foreign xml:lang="LATIN">N. </foreign> Ar tiki į Dwaſę ſʒwentą/ wieną
 <lb n="9" />ſʒwentą krikſʒcʒoniſʒką Baʒ́nyćią/
 <lb n="10" />Sʒwentuju Draugyſtę/ Atleidimą
 <lb n="11" />Griekû/ Kuno iſʒ Numiruſu Prikėlimą/
@@ -2481,13 +2498,13 @@
 <lb n="23" />Pakáius ſu tawimi ! Amen.
 <lb n="C" />&lt;Grau=&gt;</p>
       </div>
-      <div n="Adh." xml:id="part-19" type="part" data-level="1">
+      <div data-level="1" n="Adh." type="part" xml:id="part-19">
         <pb n="86" />
         <p xml:id="part-19-p-20">
           <lb n="PN" />]86[
           <lb n="1" />Graudinimas prie Diewo Stalo
           <lb n="2" />einanćiump'.
-          <lb n="3" />M Ieli Prietelei Kriſtaus! Kadangi
+          <lb n="3" />MIeli Prietelei Kriſtaus! Kadangi
           <lb n="4" />mes cʒonay Wardana Wieſʒpaties
           <lb n="5" />ſuſirinkome/ jeyb jo ſʒwentą Teſta=
           <lb n="6" />mentą pri-imtumbim: taigi grau=
@@ -2546,23 +2563,26 @@
           <pb n="88" />
           <lb n="PN" />]88[
           <lb n="1" />Ponas Diewas buk ſu jumis
-          <lb n="2" />R̷.  Ir ſu tawo Dwaſe.
-          <lb n="3" />Dėkawojam taw wiſagalįſis Pone
-          <lb n="4" />diewe / jog tu mus per ſʒitą iſʒganytin=
-          <lb n="5" />gą Dowaną paſtiprinojei. Ir meldʒ́iam
-          <lb n="6" />tawą Suſimilimą / jeyb tu mumus tai
-          <lb n="7" />důtumbei buti ant ſtiprôs Wierôs ingi
-          <lb n="8" />tawę / ir ant karſʒtôs Meilês tarp muſû
-          <lb n="9" />wiſû! per Jeʒų Kriſtų Wieſʒpatį muſû.
-          <lb n="10" />Amen.
-          <lb n="11" />Ponas Diewas buk ſu jumis.
-          <lb n="12" />R̷.  Ir ſu tawo Dwaſe.
-          <lb n="13" />Pone Diewe / důk mums ſawo
-          <lb n="14" />ʒ́egnonę / muſû Diewe / tu pérʒ́eg=
-          <lb n="15" />nôk mus.
-          <lb n="16" />R̷.  Wiſo Swieto Kraſʒtai tur
-          <lb n="17" />bijotiſi Pono Diewo.
-          <lb n="18" />AMEN. </p>
+          <lb n="2" />
+          <foreign xml:lang="LATIN">R̷. </foreign> Ir ſu tawo Dwaſe.
+<lb n="3" />Dėkawojam taw wiſagalįſis Pone
+<lb n="4" />diewe / jog tu mus per ſʒitą iſʒganytin=
+<lb n="5" />gą Dowaną paſtiprinojei. Ir meldʒ́iam
+<lb n="6" />tawą Suſimilimą / jeyb tu mumus tai
+<lb n="7" />důtumbei buti ant ſtiprôs Wierôs ingi
+<lb n="8" />tawę / ir ant karſʒtôs Meilês tarp muſû
+<lb n="9" />wiſû! per Jeʒų Kriſtų Wieſʒpatį muſû.
+<lb n="10" />Amen.
+<lb n="11" />Ponas Diewas buk ſu jumis.
+<lb n="12" />
+          <foreign xml:lang="LATIN">R̷. </foreign> Ir ſu tawo Dwaſe.
+<lb n="13" />Pone Diewe / důk mums ſawo
+<lb n="14" />ʒ́egnonę / muſû Diewe / tu pérʒ́eg=
+<lb n="15" />nôk mus.
+<lb n="16" />
+          <foreign xml:lang="LATIN">R̷. </foreign> Wiſo Swieto Kraſʒtai tur
+<lb n="17" />bijotiſi Pono Diewo.
+<lb n="18" />AMEN.</p>
       </div>
     </body>
   </text>
